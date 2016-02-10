@@ -9,6 +9,15 @@
 .icon-block {
   padding: 0 15px;
 }
+
 .icon-block .material-icons {
 	font-size: inherit;
+}
+
+.icon-block img {
+  display: block;
+  height: auto; 
+  width: auto; 
+  max-width: 80%; 
+  max-height: 80%; 
 }

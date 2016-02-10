@@ -11,7 +11,7 @@ layout: regulamento
 ## Labirinto
 
 [![Maze](img/maze.jpg)](labirinto)
-[Photo](https://www.flickr.com/photos/fdecomite/7060399989)
+[Photo credits](https://www.flickr.com/photos/fdecomite/7060399989)
 </div>
 
     </div>
