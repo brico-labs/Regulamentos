@@ -17,7 +17,9 @@ layout: regulamento
   <div class="col s12 m4">
     <div class="icon-block">
 
+<div markdown="1">
 ## Segueliñas
+</div>
 
     </div>
   </div>
@@ -25,7 +27,9 @@ layout: regulamento
   <div class="col s12 m4">
     <div class="icon-block">
 
+<div markdown="1">
 ## Sumo
+</div>
 
     </div>
   </div>
