@@ -4,7 +4,7 @@ layout: regulamento
 
 <div class="row">
 
-  <div class="col s12 m4">
+  <div class="col s12 m6">
     <div class="icon-block">
 
 <div markdown="1">
@@ -14,7 +14,7 @@ layout: regulamento
     </div>
   </div>
 
-  <div class="col s12 m4">
+  <div class="col s12 m6">
     <div class="icon-block">
 
 <div markdown="1">
@@ -24,11 +24,24 @@ layout: regulamento
     </div>
   </div>
 
-  <div class="col s12 m4">
+</div>
+<div class="row">
+
+  <div class="col s12 m6">
     <div class="icon-block">
 
 <div markdown="1">
 ## Sumo
+</div>
+
+    </div>
+  </div>
+
+  <div class="col s12 m6">
+    <div class="icon-block">
+
+<div markdown="1">
+## Combate
 </div>
 
     </div>
