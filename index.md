@@ -7,7 +7,9 @@ layout: regulamento
   <div class="col s12 m4">
     <div class="icon-block">
 
+<div markdown="1">
 ## Labirinto
+</div>
 
     </div>
   </div>
