@@ -24,7 +24,7 @@ layout: regulamento
 ## Segueliñas
 
 [![Line follower](img/linefollower.jpg)](seguelinhas)
-[Photo credits](#)
+[Photo credits](https://www.flickr.com/photos/vanf/5096318332)
 </div>
 
     </div>
