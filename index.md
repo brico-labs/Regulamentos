@@ -22,6 +22,9 @@ layout: regulamento
 
 <div markdown="1">
 ## Segueliñas
+
+[![Line follower](img/linefollower.jpg)](seguelinhas)
+[Photo credits](#)
 </div>
 
     </div>
@@ -35,6 +38,9 @@ layout: regulamento
 
 <div markdown="1">
 ## Sumo
+
+[![Sumo](img/loita_sumo.jpg)](loita_sumo)
+[Photo credits](#)
 </div>
 
     </div>
@@ -45,6 +51,9 @@ layout: regulamento
 
 <div markdown="1">
 ## Combate
+
+[![Free Combat](img/loita_libre.jpg)](loita_libre)
+[Photo credits](#)
 </div>
 
     </div>
