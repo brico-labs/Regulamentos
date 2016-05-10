@@ -40,7 +40,7 @@ layout: regulamento
 ## Sumo
 
 [![Sumo](img/loita_sumo.jpg)](loita_sumo)
-[Photo credits](#)
+[Photo credits](https://www.flickr.com/photos/nataliejohnson/261358739)
 </div>
 
     </div>
@@ -53,7 +53,7 @@ layout: regulamento
 ## Combate
 
 [![Free Combat](img/loita_libre.jpg)](loita_libre)
-[Photo credits](#)
+[Photo credits](https://www.flickr.com/photos/jed_september/8460744197/)
 </div>
 
     </div>
