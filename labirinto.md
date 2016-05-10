@@ -5,6 +5,8 @@ title: Regulamento de Labirinto
 
 # Regulamento de Labirinto
 
+  - Revisión 1 (2015): vixente OSHWDEM 2015
+
 ## Obxectivo
 
 Un robot autónomo debe resolver un labirinto e completar o seu percorrido dende a cela de
@@ -38,3 +40,9 @@ tempo que poida. Gañará a competición o robot que complete o percorrido no me
 -ToDo-
 
 
+----
+
+Esta obra está baixo unha <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licenza de Creative Commons Recoñecemento 4.0 Internacional.</a>
+<p align="center">
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png">
+</p>
