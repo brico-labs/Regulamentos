@@ -8,11 +8,9 @@ title: Regulamento de Sumo
   - Revisión 3 (2015): vixente OSHWDem 2015
 
 **Obxectivo:**
-Dous robots compiten entre si simulando os enfrontamentos humanos de sumo.
-Non se permite aos robots a utilización de armas nin xirar sobre si mesmos, e o único obxectivo é empurrar ao robot opoñente para sacalo do Dohyo.
-O torneo lévase a cabo mediante o sistema de eliminación simple ao mellor de 3 roldas. O robot que primeiro consiga dous puntos pasará á seguinte fase do torneo.
-O regulamento detállase a continuación.
-**Regulamento Sumo Robot (Categoría Mini) Rev.3**
+Dous robots compiten entre si simulando os enfrontamentos humanos de sumo. Non se permite aos robots a utilización de armas nin xirar sobre si mesmos, e o único obxectivo é empurrar ao robot opoñente para sacalo do Dohyo. O torneo lévase a cabo mediante o sistema de eliminación simple ao mellor de 3 roldas. O robot que primeiro consiga dous puntos pasará á seguinte fase do torneo.
+
+O regulamento detállase acontinuación.
 
 ###Índice de contido
 [TOC]
@@ -32,6 +30,7 @@ O interior do Dohyo defínese como a superficie de xogo rodeada dunha liña no b
 2. As liñas de inicio (shikiri-sen) constan de dúas liñas paralelas pintadas en cor marrón (ou equivalente para a absorción da luz IR) centradas no Dohyo, cunhas dimensións e espazo de separación adaptadas a cada clase de robot. A distancia de separación entre as liñas mídese aos seus bordos exteriores.
 3. A liña do bordo márcase como un anel circular branco dun ancho apropiado para cada clase de robot, no bordo exterior da superficie de xogo. A área do Dohyo esténdese ata o bordo exterior desta liña circular.
 
+
 <img src="https://raw.githubusercontent.com/brico-labs/Regulamentos/gh-pages/img/minisumo_dohyo.png" width="400" height="400" />
 
 **Especificacións do Dohyo**
@@ -49,9 +48,7 @@ Debe haber un espazo, axeitado a cada clase de robot, fóra do bordo exterior do
 ####Artigo 5.- Especificacións
 
 1. A placa controladora do robot, en caso de habela, debe estar baseada en tecnoloxías abertas. Tamén son válidas as plataformas ou kits de robótica baseados en tecnoloxías abertas.
-
 2. O robot debe caber nun cubo das dimensións establecidas para cada clase. Un robot pode expandirse en tamaño unha vez dáse comezo ao enfrontamento, pero non pode separarse fisicamente en anacos e debe seguir sendo un só robot centralizado. Os robots que non cumpran esta restrición perderán a partida. Os parafusos, roscas e outras partes do robot cunha masa total de menos de 5 gramos que caian do corpo dun robot non causarán a perda da partida.
-
 3. A masa total dun robot ao comezo dunha partida debe estar por debaixo da especificada para cada clase.
 
 **Clases**
@@ -61,7 +58,7 @@ Clase | Altura | Anchura | Lonxitude | Masa
 Mini | Ilimitada | 10 cm | 10 cm | 500 gr
 
 4. Clases autónomas: Os robots da clase Mini (500 gr) deben ser autónomos. Pódese
-utilizar calquera método de control, sempre e cando estea integrado enteiramente no robot e non reciba sinais ou indicacións externas (de calquera tipo). O funcionamento autónomo do robot non debe comezar antes de 5 segundos despois de ser iniciado polo usuario. Os robots que non respecten o intervalo dos 5 segundos perden o punto desa rolda. 
+utilizar calquera método de control, sempre e cando estea integrado enteiramente no robot e non reciba sinais ou indicacións externas (de calquera tipo). O funcionamento autónomo do robot non debe comezar antes de 5 segundos despois de ser iniciado polo usuario. Os robots que non respecten o intervalo dos 5 segundos perden o punto desa rolda.
 
 5. El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
 
@@ -138,12 +135,12 @@ b. as penalizacións durante a rolda.
 c. actitude do participante durante a partida.
 
 4. A rolda deterase e volverá comezar nas seguintes condicións:
-a. os robots están enredados ou orbitando entre si sen ningún progreso aparente durante 5 segundos. Se non está clara a intención dos robots, o
-xuíz pode prorrogar o devandito prazo ata un máximo de 30 segundos.
-b. ambos os dous robots móvense sen intención de loitar, ou páranse ao mesmo tempo e permanecen detidos durante 5 segundos sen tocarse. Non obstante, se un robot detén o seu movemento en primeiro lugar, transcorridos cinco segundos será declarado como que non ten intención de loitar. Neste caso, o opoñente recibirá un punto, mesmo se este último tamén se detén. Se os dous robots se moven e non está claro se se están a progresar, o xuíz pode prorrogar o prazo ata un máximo de 30 segundos. 
-c. se os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo
-tempo, e non se pode determinar quen tocou en primeiro lugar, comezarase
-unha nova rolda.
+
+a. os robots están enredados ou orbitando entre si sen ningún progreso aparente durante 5 segundos. Se non está clara a intención dos robots, o xuíz pode prorrogar o devandito prazo ata un máximo de 30 segundos.
+
+b. ambos os dous robots móvense sen intención de loitar, ou páranse ao mesmo tempo e permanecen detidos durante 5 segundos sen tocarse. Non obstante, se un robot detén o seu movemento en primeiro lugar, transcorridos cinco segundos será declarado como que non ten intención de loitar. Neste caso, o opoñente recibirá un punto, mesmo se este último tamén se detén. Se os dous robots se moven e non está claro se se están a progresar, o xuíz pode prorrogar o prazo ata un máximo de 30 segundos.
+
+c. se os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo tempo, e non se pode determinar quen tocou en primeiro lugar, comezarase unha nova rolda.
 
 ###Sección 8: Faltas
 
@@ -155,16 +152,22 @@ Un participante que profire insultos ao opoñente ou aos xuíces, ou pon voces n
 
 ####Artigo 17.- Faltas leves
 Considérase unha falta leve cando un participante:
+
 1. Entra no Dohyo durante a rolda, agás cando o participante o fai para recoller o robot fóra do Dohyo unha vez o xuíz anunciou a asignación do punto ou para a rolda. Entrar no Dohyo significa:
-  a. unha parte do corpo do participante está no Dohyo.
-  b. un participante utiliza algún mecanismo para tocar o Dohyo.
+
+a. unha parte do corpo do participante está no Dohyo.
+
+b. un participante utiliza algún mecanismo para tocar o Dohyo.
 
 2. Realiza as seguintes accións:
-  a. Esixe parar a rolda sen razóns aparentes.
-  b. Tarda máis de 30 segundos para comezar a rolda, a menos que o xuíz
-incremente o tempo.
-  c. Poñer en funcionamento o robot dentro dos cinco segundos despois de que o xuíz anuncia o comezo da rolda.
-  d. Facer alusións á imparcialidade da rolda, a partida ou o torneo.
+
+a. Esixe parar a rolda sen razóns aparentes.
+
+b. Tarda máis de 30 segundos para comezar a rolda, a menos que o xuíz incremente o tempo.
+
+c. Poñer en funcionamento o robot dentro dos cinco segundos despois de que o xuíz anuncia o comezo da rolda.
+
+d. Facer alusións á imparcialidade da rolda, a partida ou o torneo.
 
 ###Sección 9: Penalizacións
 
