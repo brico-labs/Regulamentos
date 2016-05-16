@@ -17,6 +17,8 @@ tempo que poida. Gañará a competición o robot que complete o percorrido no me
 
 ## O labirinto
 
+![Imaxe do labirinto](img/maze_finish_line.jpg)
+
 1. O labirinto está formado por unha área de 13 por 13 celas, que veñen sendo estancias
 de forma cadrada e adxacentes por cada un dos catro lados do perímetro da propia
 cela.
@@ -183,7 +185,4 @@ As decisións finais sempre as tomará o xuíz principal.
 
 ----
 
-Esta obra está baixo unha <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licenza de Creative Commons Recoñecemento 4.0 Internacional.</a>
-<p align="center">
-<img src="https://i.creativecommons.org/l/by/4.0/88x31.png">
-</p>
+Esta obra está baixo unha [licenza de Creative Commons Recoñecemento 4.0 Internacional (CC-BY)](http://creativecommons.org/licenses/by/4.0/).
