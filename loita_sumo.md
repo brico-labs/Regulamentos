@@ -31,9 +31,11 @@ O interior do Dohyo defínese como a superficie de xogo rodeada dunha liña no b
 <img src="https://raw.githubusercontent.com/brico-labs/Regulamentos/gh-pages/img/minisumo_dohyo.png" width="400" height="400" />
 
 **Especificacións do Dohyo**
- Clase | Altura | Diámetro | Material | Grosor* | Lonxitude* | Separación* | Ancho Bordo 
- :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
- Mini | 19mm | 77 cm | MDF | 2 cm | 10 cm | 10 cm | 2,5 cm 
+
+| Clase | Altura | Diámetro | Material | Grosor* | Lonxitude* | Separación* | Ancho Bordo |
+| :---- | :----: | :------: | :------: | :-----: | :--------: | :---------: | :---------: |
+| Mini  |  19mm  |   77 cm  |    MDF   |   2 cm  |  10 cm     | 10 cm       | 2,5 cm      |
+
 <sup>* Liñas de inicio (shikiri-sen)
 Estas medidas poden variar un 5%</sup>
 
@@ -48,8 +50,10 @@ Debe haber un espazo, axeitado a cada clase de robot, fóra do bordo exterior do
 2. O robot debe caber nun cubo das dimensións establecidas para cada clase. Un robot pode expandirse en tamaño unha vez dáse comezo ao enfrontamento, pero non pode separarse fisicamente en anacos e debe seguir sendo un só robot centralizado. Os robots que non cumpran esta restrición perderán a partida. Os parafusos, roscas e outras partes do robot cunha masa total de menos de 5 gramos que caian do corpo dun robot non causarán a perda da partida.
 3. A masa total dun robot ao comezo dunha partida debe estar por debaixo da especificada para cada clase.
 
-**Clases**
++ **Clases**
+
 <sup>Para este torneo só se contempla unha única clase coas seguintes especificacións</sup>
+
 Clase | Altura | Anchura | Lonxitude | Masa
 :--- | :---: | :---: | :---: | :---: |
 Mini | Ilimitada | 10 cm | 10 cm | 500 gr
