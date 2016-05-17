@@ -21,9 +21,8 @@ Dentro dun área delimitada de uns 4m², se establecerá un percorrido dunha det
 O percorrido do circuíto é pechado, os puntos de saída e chegada son o mesmo. Terá unha lonxitude aproximada de 4 metros e inclúe rectas e curvas de diferentes radios.
 As medidas e percorrido do circuíto no se darán a coñecer até o comezo da proba.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/brico-labs/Regulamentos/gh-pages/img/linefollower_track.jpg">
-</p>
+![Imaxe do labirinto](img/linefollower_track.jpg)
+
 *Fig.1 Exemplo de trazado*
 
 ## Sección 3: Regulamentación para os Robots
@@ -59,11 +58,11 @@ As decisións finais sempre as tomará o xuíz principal.
 
 ## Sección 7: Recursos de interese
 
-Tutorial a robot segue liñas básico http://todohacker.com/tutoriales/tutorial-robot-siguelineas
+  * [Tutorial a robot segue liñas básico](http://todohacker.com/tutoriales/tutorial-robot-siguelineas)
 
 ----
 
-Esta obra está baixo unha <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licenza de Creative Commons Recoñecemento 4.0 Internacional.</a>
+Esta obra está baixo unha [licenza de Creative Commons Recoñecemento 4.0 Internacional (CC-BY)](http://creativecommons.org/licenses/by/4.0/).
 <p align="center">
 <img src="https://i.creativecommons.org/l/by/4.0/88x31.png">
 </p>
