@@ -12,9 +12,6 @@ Dous robots compiten entre si simulando os enfrontamentos humanos de sumo. Non s
 
 O regulamento detállase acontinuación.
 
-###Índice de contido
-[TOC]
-
 ### Sección 1: Definición dos enfrontamentos de Sumo Robot
 
 #### Artigo 1.- Definición
@@ -34,9 +31,9 @@ O interior do Dohyo defínese como a superficie de xogo rodeada dunha liña no b
 <img src="https://raw.githubusercontent.com/brico-labs/Regulamentos/gh-pages/img/minisumo_dohyo.png" width="400" height="400" />
 
 **Especificacións do Dohyo**
-Clase | Altura | Diámetro | Material | Grosor* | Lonxitude* | Separación* | Ancho Bordo
-:--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-Mini | 19mm | 77 cm | MDF | 2 cm | 10 cm | 10 cm | 2,5 cm
+ Clase | Altura | Diámetro | Material | Grosor* | Lonxitude* | Separación* | Ancho Bordo 
+ :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+ Mini | 19mm | 77 cm | MDF | 2 cm | 10 cm | 10 cm | 2,5 cm 
 <sup>* Liñas de inicio (shikiri-sen)
 Estas medidas poden variar un 5%</sup>
 
@@ -130,17 +127,22 @@ Un punto outórgase cando:
 2. O robot contrincante, por si mesmo, toca a área fóra do Dohyo, incluíndo o bordo lateral deste. Mantense esta norma ata que se anuncia o final da rolda.
 
 3. Cando se requira a decisión dos xuíces para determinar o gañador dunha rolda teranse en conta as seguintes consideracións:
-a. méritos técnicos no movemento e funcionamento dun robot.
-b. as penalizacións durante a rolda.
-c. actitude do participante durante a partida.
+
+    1. méritos técnicos no movemento e funcionamento dun robot.
+    
+    2. as penalizacións durante a rolda.
+    
+    3. actitude do participante durante a partida.
+    
 
 4. A rolda deterase e volverá comezar nas seguintes condicións:
 
-a. os robots están enredados ou orbitando entre si sen ningún progreso aparente durante 5 segundos. Se non está clara a intención dos robots, o xuíz pode prorrogar o devandito prazo ata un máximo de 30 segundos.
-
-b. ambos os dous robots móvense sen intención de loitar, ou páranse ao mesmo tempo e permanecen detidos durante 5 segundos sen tocarse. Non obstante, se un robot detén o seu movemento en primeiro lugar, transcorridos cinco segundos será declarado como que non ten intención de loitar. Neste caso, o opoñente recibirá un punto, mesmo se este último tamén se detén. Se os dous robots se moven e non está claro se se están a progresar, o xuíz pode prorrogar o prazo ata un máximo de 30 segundos.
-
-c. se os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo tempo, e non se pode determinar quen tocou en primeiro lugar, comezarase unha nova rolda.
+    1. os robots están enredados ou orbitando entre si sen ningún progreso aparente durante 5 segundos. Se non está clara a intención dos robots, o xuíz pode prorrogar o devandito prazo ata un máximo de 30 segundos.
+    
+    2. ambos os dous robots móvense sen intención de loitar, ou páranse ao mesmo tempo e permanecen detidos durante 5 segundos sen tocarse. Non obstante, se un robot detén o seu movemento en primeiro lugar, transcorridos cinco segundos será declarado como que non ten intención de loitar. Neste caso, o opoñente recibirá un punto, mesmo se este último tamén se detén. Se os dous robots se moven e non está claro se se están a progresar, o xuíz pode prorrogar o prazo ata un máximo de 30 segundos.
+    
+    3. se os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo tempo, e non se pode determinar quen tocou en primeiro lugar, comezarase unha nova rolda.
+    
 
 ###Sección 8: Faltas
 
@@ -155,19 +157,21 @@ Considérase unha falta leve cando un participante:
 
 1. Entra no Dohyo durante a rolda, agás cando o participante o fai para recoller o robot fóra do Dohyo unha vez o xuíz anunciou a asignación do punto ou para a rolda. Entrar no Dohyo significa:
 
-a. unha parte do corpo do participante está no Dohyo.
-
-b. un participante utiliza algún mecanismo para tocar o Dohyo.
+    1. unha parte do corpo do participante está no Dohyo.
+    
+    2. un participante utiliza algún mecanismo para tocar o Dohyo.
+    
 
 2. Realiza as seguintes accións:
 
-a. Esixe parar a rolda sen razóns aparentes.
-
-b. Tarda máis de 30 segundos para comezar a rolda, a menos que o xuíz incremente o tempo.
-
-c. Poñer en funcionamento o robot dentro dos cinco segundos despois de que o xuíz anuncia o comezo da rolda.
-
-d. Facer alusións á imparcialidade da rolda, a partida ou o torneo.
+    1. Esixe parar a rolda sen razóns aparentes.
+    
+    2. Tarda máis de 30 segundos para comezar a rolda, a menos que o xuíz incremente o tempo.
+    
+    3. Poñer en funcionamento o robot dentro dos cinco segundos despois de que o xuíz anuncia o comezo da rolda.
+    
+    4. Facer alusións á imparcialidade da rolda, a partida ou o torneo.
+    
 
 ###Sección 9: Penalizacións
 
