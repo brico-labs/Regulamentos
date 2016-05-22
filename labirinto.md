@@ -5,7 +5,7 @@ title: Regulamento de Labirinto
 
 # Regulamento de Labirinto
 
-  - Revisión 1 (2015): vixente OSHWDEM 2015
+  - Revisión 1 (2015): vixente OSHWDem 2015
 
 ## Obxectivo
 
@@ -63,8 +63,8 @@ meta".
 marca será unha liña branca de 2cm de grosor.
 
 14. Para a xeración do labirinto vaise utilizar o seguinte repositorio:
-https://github.com/brico-labs/OshwdemMazes. O programa executarase xusto antes
-do comenzo da proba e servira para configurar as paredes do labirinto.
+[https://github.com/brico-labs/OshwdemMazes](https://github.com/brico-labs/OshwdemMazes). O programa executarase xusto antes
+do comenzo da proba e servirá para configurar as paredes do labirinto.
 
 
 
