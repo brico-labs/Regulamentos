@@ -39,7 +39,7 @@ O interior do Dohyo defínese como a superficie de xogo rodeada dunha liña no b
 <sup>* Liñas de inicio (shikiri-sen)
 Estas medidas poden variar un 5%</sup>
 
-###Artigo 4.- Exterior do Dohyo
+### Artigo 4.- Exterior do Dohyo
 Debe haber un espazo, axeitado a cada clase de robot, fóra do bordo exterior do Dohyo. Este espazo pode ser de calquera cor, material ou forma. Este área, co Dohyo no medio, vaise chamar a "área do Dohyo". Calquera marca ou parte da plataforma do Dohyo fose das dimensións mínimas tamén serán considerados na área do Dohyo.
 
 ## Sección 3: Regulamentación para os Robots
