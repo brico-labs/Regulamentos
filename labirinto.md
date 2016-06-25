@@ -7,7 +7,7 @@ title: Regulamento de Labirinto
 
   - Revisión 1 (2015): vixente OSHWDem 2015
 
-## Obxectivo
+### Obxectivo
 
 Un robot autónomo debe resolver un labirinto e completar o seu percorrido dende a cela de
 partida “saída” até a cela de chegada “meta” no menor tempo posible.
@@ -15,7 +15,7 @@ partida “saída” até a cela de chegada “meta” no menor tempo posible.
 Disporá de 5 minutos para recoñecer o labirinto e de 3 intentos para completalo no menor
 tempo que poida. Gañará a competición o robot que complete o percorrido no menor tempo.
 
-## O labirinto
+### O labirinto
 
 ![Imaxe do labirinto](img/maze_finish_line.jpg)
 
@@ -66,9 +66,7 @@ marca será unha liña branca de 2cm de grosor.
 [https://github.com/brico-labs/OshwdemMazes](https://github.com/brico-labs/OshwdemMazes). O programa executarase xusto antes
 do comenzo da proba e servirá para configurar as paredes do labirinto.
 
-
-
-## Os robots
+### Os robots
 
 1. A placa controladora do robot, en caso de habela, debe estar baseada en tecnoloxías
 abertas. Tamén son válidas as plataformas ou kits de robótica baseados en
@@ -92,7 +90,7 @@ xuíces e os espectadores.
 6. Os robots deben funcionar unicamente coa enerxía proporcionada por pilas ou baterías
 eléctricas integradas no propio robot.
 
-## Desenvolvemento da competición
+### Desenvolvemento da competición
 
 1. A orden de participación virá dado pola orden de chegada ou anotación na lista de
 inscritos á competición. Se avisará con antelación o desenvolvemento do mesmo a
@@ -149,7 +147,7 @@ se perderá o intento en curso.
 13. O tempo a ter en conta para a competición cos outros robots será o menor dos tempos
 en completar axeitadamente o percorrido do labirinto.    
 
-## Gañadores da competición
+### Gañadores da competición
 
 O robot que haxa completado o labirinto no menor tempo será o gañador da competición. O
 segundo e terceiro clasificado será o que teña o segundo e terceiro menor tempo
@@ -161,7 +159,7 @@ no labirinto ou outros factores.
 
 Cada participante poderá levar só un premio dos tres establecidos.
 
-## Xuíces
+### Xuíces
 
 Na sala haberá en todo momento unha persoa identificada como “xuíz principal” e será a
 encargada de comunicar calquera decisión final con respecto ao desenvolvemento da
@@ -176,7 +174,7 @@ participante a un xuíz asistente.
 
 As decisións finais sempre as tomará o xuíz principal.
 
-## Recursos de interese 
+### Recursos de interese 
 
   * [Repositorio para a xeración de labirintos](https://github.com/bricolabs/OshwdemMazes)
   * [Solving a Maze](https://www.cs.bu.edu/teaching/alg/maze/)
