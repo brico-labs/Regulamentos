@@ -7,10 +7,11 @@ title: Regulamento de Sumo
 
   - Revisión 3 (2015): vixente OSHWDem 2015
 
-**Obxectivo:**
+### Obxectivo:
+
 Dous robots compiten entre si simulando os enfrontamentos humanos de sumo. Non se permite aos robots a utilización de armas nin xirar sobre si mesmos, e o único obxectivo é empurrar ao robot opoñente para sacalo do Dohyo. O torneo lévase a cabo mediante o sistema de eliminación simple ao mellor de 3 roldas. O robot que primeiro consiga dous puntos pasará á seguinte fase do torneo.
 
-O regulamento detállase acontinuación.
+O regulamento completo detállase acontinuación.
 
 ### Sección 1: Definición dos enfrontamentos de Sumo Robot
 
