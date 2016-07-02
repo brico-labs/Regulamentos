@@ -315,14 +315,14 @@ Reglamentación basada en:
 
 1. SPARC Standarized Procedures for the Advancement of Robotic Combat
     
-    1. Pagina principal: (http://sparc.tools/)
-    2. Especificaciones de construcción : http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf
-    3. Procedimientos: http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf
-    4. Reglas de competición: http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf
-    5. Guías para jueces: http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf
-    6. Recursos para decisiones de jueces: http://sparc.tools/?p=27
+    1. Página principal: [http://sparc.tools/](http://sparc.tools/)
+    2. Especificaciones de construcción : [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf)
+    3. Procedimientos: [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf)
+    4. Reglas de competición: [http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf)
+    5. Guías para jueces: [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf)
+    6. Recursos para decisiones de jueces: [http://sparc.tools/?p=27](http://sparc.tools/?p=27)
 
-2. RoboGames: http://robogames.net/rules/combat.php
+2. RoboGames: [http://robogames.net/rules/combat.php](http://robogames.net/rules/combat.php)
 
 ---
 Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional.</a>
