@@ -41,15 +41,15 @@ Aínda que non é indispensable, recomendámosche que nos avises por correo elec
 7. (2.7) KO. No caso de que un robot cesase o seu movemento de maneira controlada, o árbitro comezará unha conta atrás de 10 segundos. No caso de que neste tempo non sexa capaz de demostrar un movemento traslacional será declarado perdedor por KO. Enténdese como movemento traslacional controlado, o conxunto de movementos que permitan que o robot siga unha traxectoria lineal.
 
   1. (2.7.1) Se durante a conta atrás o robot demostra movemento traslacional controlado, ou no caso de que o robot opoñente ataque, pararase a conta atrás e seguirá o combate. Isto quere dicir que a un robot "parado" non se lle fará conta atrás se o seu opoñente segue atacando, e o combate non terminará a non ser que se acabe o tempo de combate ou o robot "parado" retírese.
-
+  
   2. (2.7.2) A un robot cun lado do seu sistema de movemento parado non se lle realizará a conta atrás se demostra movemento traslacional controlado.
-    
+  
   3. (2.7.3) No caso dun KO simultáneo, colocarase os robots na súa orientación orixinal e:
-    
+
     1. (2.7.3.1) Se os dous poden demostrar movemento controlado, renovarase o combate.
     2. (2.7.3.2) Se só un pode demostrar movemento controlado, declararase vencedor do combate.
     3. (2.7.3.3) Se os dous non poden demostrar movemento, os xuíces decidirán o vencedor.
-    
+
   4. (2.7.4) Se a batería dun robot vese exposta o árbitro pode decidir declarar un KO técnico por seguridade.
   
 8. (2.8) Tipo de eliminación. O día do evento e segundo o número de participantes, a organización decidirá o tipo de eliminatoria, entre as que se atopan:
