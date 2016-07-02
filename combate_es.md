@@ -19,6 +19,7 @@ Dos robots teleoperados combaten con sus armas entre sí en un recinto cerrado l
 * Tiempo de combate: 2 minutos
 
 ### Sección 1: Competición
+
 #### 1. General
 
 Aunque no es indispensable, te recomendamos que nos avises por correo electrónico si vas a participar en la competición, así podremos dimensionar mejor el evento, horarios, zonas de trabajo, etc.
@@ -314,7 +315,7 @@ Reglamentación basada en:
 
 1. SPARC Standarized Procedures for the Advancement of Robotic Combat
     
-    1. Pagina principal: http://sparc.tools/
+    1. Pagina principal: (http://sparc.tools/)
     2. Especificaciones de construcción : http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf
     3. Procedimientos: http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf
     4. Reglas de competición: http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf
