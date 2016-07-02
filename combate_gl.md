@@ -3,7 +3,7 @@ layout: regulamento
 title: Regulamento de Combate 
 ---
   
-# Reglamento de Combate
+# Regulamento de Combate
 
 Somos conscientes de que en realidade esta competición é de cacharros móbiles teleoperados de combate e non son propiamente Robots, pero chamarémolos así para facelo máis curto ;)
 
