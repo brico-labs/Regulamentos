@@ -19,6 +19,7 @@ Dous robots teleoperados combaten coas súas armas entre si nun recinto pechado 
 * Tempo de combate: 2 minutos
 
 ### Sección 1: Competición
+
 #### 1. Xeral
 
 Aínda que non é indispensable, recomendámosche que nos avises por correo electrónico se vas participar na competición, así poderemos dimensionar mellor o evento, horarios, zonas de traballo, etc. O día do evento con toda a antelación posible ponche en contacto coa organización para saber os horarios de inspección de seguridade e combate. A organización pode pedirche colocar unha micro cámara (da organización) ao teu robot para ter vídeo en primeira persoa do combate. Esta opción é de carácter voluntario e non se contará como peso do robot.
