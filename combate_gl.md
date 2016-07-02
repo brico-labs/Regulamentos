@@ -2,7 +2,7 @@
 layout: regulamento
 title: Regulamento de Combate 
 ---
-  
+
 # Regulamento de Combate
 
 Somos conscientes de que en realidade esta competición é de cacharros móbiles teleoperados de combate e non son propiamente Robots, pero chamarémolos así para facelo máis curto ;)
@@ -43,13 +43,13 @@ Aínda que non é indispensable, recomendámosche que nos avises por correo elec
     1. (2.7.1) Se durante a conta atrás o robot demostra movemento traslacional controlado, ou no caso de que o robot opoñente ataque, pararase a conta atrás e seguirá o combate. Isto quere dicir que a un robot "parado" non se lle fará conta atrás se o seu opoñente segue atacando, e o combate non terminará a non ser que se acabe o tempo de combate ou o robot "parado" retírese.
 
     2. (2.7.2) A un robot cun lado do seu sistema de movemento parado non se lle realizará a conta atrás se demostra movemento traslacional controlado.
-        
+    
     3. (2.7.3) No caso dun KO simultáneo, colocarase os robots na súa orientación orixinal e:
-           
+      
       1. (2.7.3.1) Se os dous poden demostrar movemento controlado, renovarase o combate.
       2. (2.7.3.2) Se só un pode demostrar movemento controlado, declararase vencedor do combate.
       3. (2.7.3.3) Se os dous non poden demostrar movemento, os xuíces decidirán o vencedor.
-    
+      
     4. (2.7.4) Se a batería dun robot vese exposta o árbitro pode decidir declarar un KO técnico por seguridade.
     
 8. (2.8) Tipo de eliminación. O día do evento e segundo o número de participantes, a organización decidirá o tipo de eliminatoria, entre as que se atopan:
@@ -172,6 +172,7 @@ O participante sempre se debe dirixir ao xuíz principal para calquera reclamaci
 As decisións finais sempre as toma o xuíz principal.
 
 ### Sección 2: Especificacións constructivas dos robots
+
 #### 1. Xeral
 
 1. (1.1) Todos os participantes constrúen e operan os robots baixo o seu propio risco. Os combates de robots son inherentemente perigosos. Non hai regulación que pode abarcar todos os perigos involucrados. Por favor, ten coidado de non facerche dano a ti mesmo ou a outros na construción, probas e competición.
@@ -312,14 +313,14 @@ Regulamentación baseada en:
 
 1. SPARC Standarized Procedures for the Advancement of Robotic Combat
     
-    1. Páxina principal: http://sparc.tools/
-    2. Especificacóns de construcción : http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf
-    3. Procedementos: http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf
-    4. Reglas de competición: http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf
-    5. Guías para xuíces: http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf
-    6. Recursos para decisións de xuíces: http://sparc.tools/?p=27
+    1. Páxina principal: [http://sparc.tools/](http://sparc.tools/)
+    2. Especificacóns de construcción : [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf)
+    3. Procedementos: [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf)
+    4. Reglas de competición: [http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf)
+    5. Guías para xuíces: [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf)
+    6. Recursos para decisións de xuíces: [http://sparc.tools/?p=27](http://sparc.tools/?p=27)
 
-2. RoboGames: http://robogames.net/rules/combat.php
+2. RoboGames: [http://robogames.net/rules/combat.php](http://robogames.net/rules/combat.php)
 
 ---
 Esta obra está baixo unha <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licenza de Creative Commons Recoñecemento 4.0 Internacional.</a>
