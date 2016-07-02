@@ -46,9 +46,9 @@ Aínda que non é indispensable, recomendámosche que nos avises por correo elec
   
   3. (2.7.3) No caso dun KO simultáneo, colocarase os robots na súa orientación orixinal e:
 
-    1. (2.7.3.1) Se os dous poden demostrar movemento controlado, renovarase o combate.
-    2. (2.7.3.2) Se só un pode demostrar movemento controlado, declararase vencedor do combate.
-    3. (2.7.3.3) Se os dous non poden demostrar movemento, os xuíces decidirán o vencedor.
+      1. (2.7.3.1) Se os dous poden demostrar movemento controlado, renovarase o combate.
+      2. (2.7.3.2) Se só un pode demostrar movemento controlado, declararase vencedor do combate.
+      3. (2.7.3.3) Se os dous non poden demostrar movemento, os xuíces decidirán o vencedor.
 
   4. (2.7.4) Se a batería dun robot vese exposta o árbitro pode decidir declarar un KO técnico por seguridade.
   
