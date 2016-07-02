@@ -173,6 +173,7 @@ El participante siempre se debe dirigir al juez principal para cualquier reclama
 Las decisiones finales siempre las toma el juez principal.
 
 ### Sección 2: Especificaciones constructivas de los robots
+
 #### 1. General
 
 1. (1.1) Todos los participantes construyen y operan los robots bajo su propio riesgo. Los combates de robots son inherentemente peligrosos. No hay regulación que puede abarcar todos los peligros involucrados. Por favor, ten cuidado de no hacerte daño a ti mismo o a otros en la construcción, pruebas y competición.
