@@ -1,6 +1,6 @@
 ---
-layout: regulamento
-title: Regulamento de Combate 
+layout: reglamento
+title: Reglamento de Combate 
 ---
   
 # Reglamento de Combate
