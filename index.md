@@ -52,7 +52,7 @@ layout: regulamento
 <div markdown="1">
 ## Combate
 
-[![Free Combat](img/loita_libre.jpg)](loita_libre)
+[![Free Combat](img/loita_libre.jpg)](combate_gl)
 [Photo credits](https://www.flickr.com/photos/jed_september/8460744197/)
 </div>
 
