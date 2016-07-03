@@ -115,15 +115,10 @@ calquera momento por decisión do participante.
 percorrido ou recoñecemento tantas veces como queira, ademais de levar a cabo as
 seguintes operacións:
 
-    1. Axuste electrónico, mediante controis integrados no robot, da configuración que
-    non aporte información relativa ao percorrido do labirinto.
-    
+    1. Axuste electrónico, mediante controis integrados no robot, da configuración que non aporte información relativa ao percorrido do labirinto.
     2. Axuste manual dos sensores ou dos elementos motrices do robot.
-    
     3. Substitución das baterías.
-    
-    4. Facer reparacións de pezas danadas ou substituílas por outras que teñen similares
-    características que a peza danada.
+    4. Facer reparacións de pezas danadas ou substituílas por outras que teñen similares características que a peza danada.
     
 7. Dentro do tempo de recoñecemento do labirinto, o robot que consiga entrar á zona de
 meta poderá seguir operativo ou continuar explorando o labirinto até que finalice o
@@ -138,7 +133,7 @@ menor tempo posible. O xuíz indicará cando comeza e finaliza cada intento.
 10. O cronómetro parará cando o robot supera completamente a porta de meta.
 
 11. O operador do robot poderá realizar os axustes, entre cada intento, de acordo as
-operacións detalladas no punto 5.a e 5.b desta mesma sección.
+operacións detalladas no punto 6.i e 6.ii desta mesma sección.
 
 12. En caso de colisión coas paredes do labirinto ou detención do robot por máis de 10
 segundos sen que este teña intención de movemento ou de progresión no percorrido,
