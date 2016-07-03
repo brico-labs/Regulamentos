@@ -1,9 +1,9 @@
 ---
 layout: regulamento
-title: Regulamento de Segueliñas
+title: Regulamento de Segue liñas
 ---
 
-# Regulamento de Segueliñas
+# Regulamento de Segue liñas
 
   - Revisión 1 (2015): vixente OSHWDem 2015
 
@@ -45,16 +45,15 @@ As medidas e percorrido do circuíto no se darán a coñecer até o comezo da pr
  
 ### Sección 5: Categorías de premios
 
-* O robot segue liñas máis rápido segundo a sección 4 do presente regulamento.
-* O robot segue liñas mellor construído feito con materiais reciclados.
-* O robot segue liñas máis orixinal.
+ * O robot segue liñas máis rápido segundo a sección 4 do presente regulamento.
+ * O robot segue liñas mellor construído feito con materiais reciclados.
+ * O robot segue liñas máis orixinal.
  
 ### Sección 6: Xuíces
 
-Na sala haberá en todo momento unha persoa identificada como “xuíz principal” e será a encargada de comunicar calquera decisión final con respecto ao desenvolvemento da competición e interpretación das normas. Outras persoas poden estar identificadas como “xuíz asistente” e axudarán ao xuíz principal nas tarefas que teña delegadas.
-
+Na sala haberá en todo momento unha persoa identificada como “xuíz principal” e será a encargada de comunicar calquera decisión final con respecto ao desenvolvemento da competición e interpretación das normas.
+Outras persoas poden estar identificadas como “xuíz asistente” e axudarán ao xuíz principal nas tarefas que teña delegadas.
 O participante sempre se debe dirixir ao xuíz principal para calquera reclamación ou aclaración das normas. Entón, se o xuíz principal o estima oportuno, pode redirixir ao participante a un xuíz asistente.
-
 As decisións finais sempre as tomará o xuíz principal.
 
 ### Sección 7: Recursos de interese
