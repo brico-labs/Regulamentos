@@ -20,10 +20,10 @@ Un enfrentamiento se libra entre dos participantes. De acuerdo con las reglas de
 
 ### Sección 2: Requisitos del Dohyo
 
-#### Artigo 2.- Interior del Dohyo
+#### Artículo 2.- Interior del Dohyo
 El interior del Dohyo se define como la superficie de juego rodeada de una línea en el borde, que también forma parte de la superficie de juego. Cualquier lugar fuera de esta área se considera el exterior del Dohyo.
 
-#### Artigo 3.- Especificaciones del Dohyo
+#### Artículo 3.- Especificaciones del Dohyo
 
 1. El Dohyo será de forma circular y de unas dimensiones adecuadas para cada clase de robot.
 2. Las líneas de inicio (shikiri-sen) constan de dos líneas paralelas pintadas en color marrón (o equivalente para la absorción de la luz IR) centradas en el Dohyo, con unas dimensiones y espacio de separación adaptadas a cada clase de robot. La distancia de separación entre las líneas se mide a sus bordes exteriores.
@@ -40,14 +40,14 @@ El interior del Dohyo se define como la superficie de juego rodeada de una líne
 <sup>* Líneas de inicio (shikiri-sen)
 Estas medidas puoden variar un 5%</sup>
 
-#### Artigo 4.- Exterior del Dohyo
+#### Artículo 4.- Exterior del Dohyo
 Debe haber un espacio, adecuado a cada clase de robot, fuera del borde exterior del Dohyo.
 Este espacio puede ser de cualquier color, material o forma. Este área, con el Dohyo en el medio, se va a llamar el "área del Dohyo". Cualquier marca o parte de la plataforma del Dohyo
 fuera de las dimensiones mínimas también serán considerados en el área del Dohyo.
 
 ### Sección 3: Reglamentación para los Robots
 
-#### Artigo 5.- Especificaciones
+#### Artículo 5.- Especificaciones
 
 1. La placa controladora del robot, en caso de haberla, debe estar basada en tecnologías abiertas. También son válidas las plataformas o kits de robótica basados en tecnologías abiertas.
 
@@ -63,7 +63,7 @@ Clase | Altura | Anchura | Longitud | Masa
 
 5. El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
 
-#### Artigo 6.- Restricciones
+#### Artículo 6.- Restricciones
 
 1. Dispositivos para crear interferencias (jamming), como LED’s IR con la intención de saturar los sensores IR del oponente.
 
@@ -85,7 +85,7 @@ Clase | Altura | Anchura | Longitud | Masa
 
 ### Sección 4: Desarrollo de las partidas
 
-#### Artigo 7.- Desarrollo de las partidas
+#### Artículo 7.- Desarrollo de las partidas
 1. Una partida consta de tres rondas, con un tiempo total de tres minutos, a menos que sea extendido por los jueces.
 
 2. El primer participante que gane dos rondas o reciba dos puntos, dentro del tiempo límite, será el ganador de la partida. Un participante recibe un punto cuando gana una ronda. Si se alcanza el límite de tiempo antes de que un participante pueda obtener dos puntos y uno de los participantes ha recibido un punto, el participante con ese punto se considera el ganador de la partida.
@@ -94,26 +94,26 @@ Clase | Altura | Anchura | Longitud | Masa
 
 ### Sección 5: Comienzo, parada, reanudación y finalización de una ronda
 
-#### Artigo 8.- Comienzo
+#### Artículo 8.- Comienzo
 Tras las instrucciones de los jueces, los dos participantes se acercarán al Dohyo y pondrán un robot en su mitad del Dohyo, detrás de la línea de inicio. El robot o cualquier parte de este no puede ser colocado más allá de la línea de inicio hacia su oponente. No se requiere poner el
 robot directamente detrás de dicha línea de inicio y podrá colocarse en cualquier zona siempre que respeta una línea imaginaria respecto de la línea de inicio. Cuando el juez anuncie el comienzo de la ronda, los participantes activarán sus robots y, después de cinco segundo, los robots empezarán a operar. Durante estos cinco segundos los participantes deberán abandonar el área del Dohyo.
 
-#### Artigo 9.- Parada y reanudación
+#### Artículo 9.- Parada y reanudación
 Las rondas se paran y reanudan por indicación de los jueces.
 
-#### Artigo 10.- Finalización
+#### Artículo 10.- Finalización
 Las rondas finalizan por indicación de los jueces. Los participantes podrán recuperar sus robots en el área del Dohyo.
 
 ### Sección 6: Tiempo de partida
 
-#### Artigo 11.- Tiempo de partida
+#### Artículo 11.- Tiempo de partida
 Una partida debe llevarse a cabo en un total de 3 minutos, que comenzarán y finalizarán por orden de los jueces.
 
-#### Artigo 12.- Rolda extra
+#### Artículo 12.- Rolda extra
 Si, por decisión de los jueces, se requiera una ronda extra, ésta tendrá una duración máxima
 de 3 minutos.
 
-#### Artigo 13.- Exclusións de tempo
+#### Artículo 13.- Exclusións de tempo
 Lo siguiente no está incluido dentro del tiempo de partida:
 
 1. El tiempo transcurrido desde que los jueces anuncian el punto de la ronda hasta el comienzo de la siguiente ronda. El tiempo establecido entre rondas es de 30 segundos.
@@ -122,7 +122,7 @@ Lo siguiente no está incluido dentro del tiempo de partida:
 
 ### Sección 7: Puntuación
 
-#### Artigo 14.- Puntuación
+#### Artículo 14.- Puntuación
 Un punto se otorga cuando:
 
 1. Un participante fuerza al robot contrincante a tocar el área fuera del Dohyo, incluyendo el borde lateral del mismo.
@@ -144,13 +144,13 @@ detiene. Si los dos robots se mueven y no está claro si se están progresando, 
 
 ### Sección 8: Faltas
 
-#### Artigo 15.- Faltas
+#### Artículo 15.- Faltas
 Los participantes que realicen cualquiera de los hechos descritos en los Artículos 6, 16 o 17, serán amonestados por saltarse este reglamento.
 
-#### Artigo 16.- Insultos
+#### Artículo 16.- Insultos
 Un participante que profiere insultos al oponente o a los jueces, o pone voces en el robot que pronuncie palabras insultantes, o que aparezcan escritas en el cuerpo del robot, o que realice gestos insultantes, se considera una falta por incumplimiento de este reglamento.
 
-#### Artigo 17.- Faltas leves
+#### Artículo 17.- Faltas leves
 Se considera una falta leve cuando un participante:
 
 1. Entra en el Dohyo durante la ronda, excepto cuando el participante lo hace pararecoger el robot fuera del Dohyo una vez el juez anunció la asignación del punto o para la ronda. Entrar en el Dohyo significa:
@@ -167,16 +167,16 @@ Se considera una falta leve cuando un participante:
 
 ### Sección 9: Penalizaciones
 
-#### Artigo 18.- Penalizaciones
+#### Artículo 18.- Penalizaciones
 Los jugadores que incumplan los artículos 6 y 16 del presente reglamento perderán la partida y serán descalificados del torneo. El juez otorga dos puntos al oponente.
 
-#### Artigo 19.- Acumulación de faltas
+#### Artículo 19.- Acumulación de faltas
 Las faltas leves descritas en el artículo 17 son acumulativas a lo largo de toda la ronda. Dos
 faltas leves conllevan otorgar un punto al oponente.
 
 ### Sección 10: Jueces
 
-#### Artigo 20.- Los jueces
+#### Artículo 20.- Los jueces
 En la sala habrá una persona identificada como "juez principal" y será la encargada de comunicar cualquier decisión final con respecto al desarrollo de la competición y la interpretación de las normas.
 
 Otras personas pueden estar identificadas como "juez asistente" y ayudarán al juez principal en las tareas que tengan delegadas.
@@ -185,17 +185,17 @@ El participante siempre se debe dirigir al juez principal para cualquier reclama
 
 Las decisiones finales simpre las tomará el juez principal.
 
-#### Artigo 21.- Declaración de objeciones
+#### Artículo 21.- Declaración de objeciones
 Un participante puede presentar objeciones a la organización antes de que termine la ronda, si hay alguna duda en el ejercicio de este reglamento. Si no hay miembros de la organización presentes, la objeción se puede presentar al juez antes de la finalización de la ronda.
 
 ### Sección 11: Requirimentos para la identificación de los robots
 
-#### Artigo 22.- Identificación de los robots
+#### Artículo 22.- Identificación de los robots
 Los robots deben mostrar algún tipo de identificación (nombre y/o número), en lugar bien visible y fácilmente legible, mientras el robot se encuentre en la competición.
 
 ### Sección 12: Miscelánea
 
-#### Artigo 23.- Flexibilidad del reglamento
+#### Artículo 23.- Flexibilidad del reglamento
 Siempre y cuando se respeten el concepto y fundamentos de las reglas, estas deberán ser lo suficientemente flexibles para abarcar cambios en el número de jugadores y en el contenido de las partidas.
 
 ---
