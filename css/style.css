@@ -21,3 +21,9 @@
   max-width: 80%; 
   max-height: 80%; 
 }
+
+
+div.container > p:first-child {
+  margin: 0 0 0 auto;
+  text-align: right;
+}

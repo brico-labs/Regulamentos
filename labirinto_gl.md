@@ -1,7 +1,8 @@
 ---
-layout: regulamento
+layout: regulamento_gl
 title: Regulamento de Labirinto
 ---
+[-versión en español-](labirinto_es)
 
 # Regulamento de Labirinto
 

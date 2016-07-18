@@ -1,7 +1,8 @@
 ---
-layout: regulamento
+layout: regulamento_gl
 title: Regulamento de Sumo
 ---
+[-versión en español-](loita_sumo_es)
 
 # Regulamento de Sumo (Minisumo)
 

@@ -1,7 +1,8 @@
 ---
-layout: regulamento
+layout: regulamento_gl
 title: Regulamento de Combate 
 ---
+[-versión en español-](combate_es)
 
 # Regulamento de Combate
 

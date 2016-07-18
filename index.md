@@ -1,5 +1,5 @@
 ---
-layout: regulamento
+layout: regulamento_gl
 ---
 
 <div class="row">
@@ -10,7 +10,7 @@ layout: regulamento
 <div markdown="1">
 ## Labirinto
 
-[![Maze](img/maze.jpg)](labirinto)
+[![Maze](img/maze.jpg)](labirinto_gl)
 [Photo credits](https://www.flickr.com/photos/fdecomite/7060399989)
 </div>
 
@@ -23,7 +23,7 @@ layout: regulamento
 <div markdown="1">
 ## Segueliñas
 
-[![Line follower](img/linefollower.jpg)](seguelinhas)
+[![Line follower](img/linefollower.jpg)](seguelinhas_gl)
 [Photo credits](https://www.flickr.com/photos/vanf/5096318332)
 </div>
 
@@ -39,7 +39,7 @@ layout: regulamento
 <div markdown="1">
 ## Sumo
 
-[![Sumo](img/loita_sumo.jpg)](loita_sumo)
+[![Sumo](img/loita_sumo.jpg)](loita_sumo_gl)
 [Photo credits](https://www.flickr.com/photos/nataliejohnson/261358739)
 </div>
 

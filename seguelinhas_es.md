@@ -1,7 +1,8 @@
 ---
-layout: regulamento
+layout: regulamento_es
 title: Reglamento de Sigue líneas
 ---
+[-versión en galego-](seguelinhas_gl)
 
 # Reglamento de Sigue líneas
 
