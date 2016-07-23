@@ -61,4 +61,19 @@ layout: regulamento_gl
 
 </div>
 
+<div class="row">
+
+  <div class="col s12 m6">
+    <div class="icon-block">
+
+<div markdown="1">
+## Hebocon
+
+[![Maze](img/hebocon_image.png)](hebocon_gl)
+[Photo credits](https://www.flickr.com/photos/wurz/4263384186)
+</div>
+
+    </div>
+  </div>
+
 
