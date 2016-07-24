@@ -77,7 +77,7 @@ Os participantes poderán comprobar con antelación se o seu robot pode ser pena
 A penalización reduce seis puntos por uso dunha característica de alta tecnoloxía. En caso de que haxa múltiples características de alta tecnoloxía, se rebaixarán máis puntos.
 
 
-### Para ir calentanto
+### Para ir quencendo
 
 Este é o regulamento, se estás pensando en participar nunha competición de Hebocon, por favor asegúrate de ler o documento titulado ["What is Hebocon"](http://portal.nifty.com/hebocon/whats_en.htm). Hebocon non consiste en gañar o campeonato, o máis importate aquí é gozalo.
 
