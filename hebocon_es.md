@@ -1,5 +1,5 @@
 ---
-layout: reglamento
+layout: regulamento_es
 title: Reglamento de HEBOCON
 ---
 
