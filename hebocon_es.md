@@ -79,7 +79,7 @@ La penalización reduce seis puntos por uso de una característica de alta tecno
 
 ### Para ir calentanto
 
- Este es el reglamento, si estas pensando en participar en una competición de Hebocon, por favor asegúrate de leer el documento titulado ["What is Hebocon"](http://portal.nifty.com/hebocon/whats_en.htm). Hebocon no consiste en ganar un torneo, lo más importate aquí es disfrutarlo.
+ Este es el reglamento, si estás pensando en participar en una competición de Hebocon, por favor asegúrate de leer el documento titulado ["What is Hebocon"](http://portal.nifty.com/hebocon/whats_en.htm). Hebocon no consiste en ganar un torneo, lo más importate aquí es disfrutarlo.
 
 
  Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0 Internacional (CC-BY)](http://creativecommons.org/licenses/by/4.0/).
