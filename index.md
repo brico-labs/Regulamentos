@@ -69,7 +69,7 @@ layout: regulamento_gl
 <div markdown="1">
 ## Hebocon
 
-[![Maze](img/hebocon_image.png)](hebocon_gl)
+[![Hebocon](img/hebocon_image.png)](hebocon_gl)
 [Photo credits](https://www.flickr.com/photos/wurz/4263384186)
 </div>
 
