@@ -2,7 +2,7 @@
 layout: regulamento_es
 title: Reglamento de Combate 
 ---
-[-versión en galego-](combate_gl)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="50">](combate_gl)
   
 # Reglamento de Combate
 
