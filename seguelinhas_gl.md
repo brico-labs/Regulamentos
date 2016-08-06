@@ -2,7 +2,7 @@
 layout: regulamento_gl
 title: Regulamento de Segue liñas
 ---
-[-versión en español-](seguelinhas_es)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="50">](seguelinhas_es)
 
 # Regulamento de Segue liñas
 
