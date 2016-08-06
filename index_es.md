@@ -1,5 +1,5 @@
 ---
-layout: reglamento_es
+layout: regulamento_es
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="75">](index)
 
