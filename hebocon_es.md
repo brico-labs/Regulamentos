@@ -3,7 +3,7 @@ layout: regulamento_es
 title: Reglamento de HEBOCON
 ---
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="75">](hebocon_gl)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="50">](hebocon_gl)
 
 # Reglamento de HEBOCON
 
