@@ -2,7 +2,7 @@
 layout: regulamento_gl
 title: Regulamento de Labirinto
 ---
-[-versión en español-](labirinto_es)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="50">](labirinto_es)
 
 # Regulamento de Labirinto
 
