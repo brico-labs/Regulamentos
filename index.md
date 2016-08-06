@@ -1,7 +1,7 @@
 ---
 layout: regulamento_gl
 ---
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="75">](index_es)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="50">](index_es)
 
 <div class="row">
 
