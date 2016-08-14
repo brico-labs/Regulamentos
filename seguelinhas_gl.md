@@ -6,7 +6,7 @@ title: Regulamento de Segue liñas
 
 # Regulamento de Segue liñas
 
-  - Revisión 1 (2015): vixente OSHWDem 2015
+  - Revisión 2 (2016): vixente Rev.2
 
 ### Obxectivo
 
@@ -15,11 +15,11 @@ O regulamento detallase a continuación.
 
 ### Sección 1: Definición
 
-Dentro dun área delimitada de uns 4m², se establecerá un percorrido dunha determinada lonxitude con cinta de cor negro de 2cm de ancho e sobre un fondo branco completamente liso. Os robots participantes deberán completar o percorrido dende o punto de partida até o final no menor tempo posible.
+Dentro dun área delimitada de uns 4m², se establecerá un percorrido dunha determinada lonxitude con cinta de cor negro de 20 mm de ancho e sobre un fondo branco completamente liso. Os robots participantes deberán completar o percorrido dende o punto de partida até o final no menor tempo posible.
 
 ### Sección 2: Trazado
 
-O percorrido do circuíto é pechado, os puntos de saída e chegada son o mesmo. Terá unha lonxitude aproximada de 4 metros e inclúe rectas e curvas de diferentes radios.
+O percorrido do circuíto é pechado, os puntos de saída e chegada son o mesmo. Terá unha lonxitude aproximada de 4 metros e inclúe rectas e curvas de diferentes radios. A curva de menor rádio non será inferior os 125 mm, e a distancia mínima entre duas partes próximas do percorrido non será inferior os 250 mm.
 As medidas e percorrido do circuíto no se darán a coñecer até o comezo da proba.
 
 ![Imaxe do labirinto](img/linefollower_track.jpg)
@@ -31,7 +31,7 @@ As medidas e percorrido do circuíto no se darán a coñecer até o comezo da pr
  1. A placa controladora do robot, en caso de habela, debe estar baseada en tecnoloxías abertas. Tamén son válidas as plataformas ou kits de robótica baseados en tecnoloxías abertas.
  2. O funcionamento do robot debe ser completamente autónomo. Pódese utilizar calquera método de control, sempre e cando estea integrado enteiramente no robot e non reciba sinais ou indicacións externas (de calquera tipo).
  3. O robot non pode aprender o percorrido do circuíto nin pode programarse para que siga unha ruta predeterminada.
- 4. Os robots deberán ter unha masa máxima de 2000 gramos e un ancho e largo máximo de 20 centímetros.
+ 4. Os robots deberán ter unha masa máxima de 2000 gramos, e se recomenda unhas medidas máximas que non superen os 250 mm de longo e 150 mm de ancho.
  5. O robot debe ter un nome ou número con fins de rexistro e seguimento. O robot debe amosar este nome ou número para permitir a sua identificación á organización e xuíces e os espectadores.
  6. Os robots deben funcionar unicamente coa enerxía proporcionada por pilas ou baterías eléctricas integradas no propio robot.
  
