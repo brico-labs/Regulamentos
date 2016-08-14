@@ -6,7 +6,7 @@ title: Reglamento de Sigue líneas
 
 # Reglamento de Sigue líneas
 
-  - Revisión 1 (2015): vigente OSHWDem 2015
+  - Revisión 2 (2016): vigente Rev.2
 
 ### Objetivo
 
@@ -15,11 +15,11 @@ El reglamento se detalla a continuación.
 
 ### Sección 1: Definición
 
-Dentro de un área delimitada de unos 4m², se establecerá un recorrido de una determinada longitud con cinta de color negro de 2cm de ancho y sobre un fondo blanco completamente liso. Los robots participantes deberán completar el recorrido desde el punto de partida hasta el final en el menor tiempo posible.
+Dentro de un área delimitada de unos 4m², se establecerá un recorrido de una determinada longitud con cinta de color negro de 20 mm de ancho y sobre un fondo blanco completamente liso. Los robots participantes deberán completar el recorrido desde el punto de partida hasta el final en el menor tiempo posible.
 
 ### Sección 2: Trazado
 
-El recorrido del circuito es cerrado, los puntos de salida y llegada son el mismo. Tendrá una longitud aproximada de 4 metros e incluye rectas y curvas de diferentes radios.
+El recorrido del circuito es cerrado, los puntos de salida y llegada son el mismo. Tendrá una longitud aproximada de 4 metros e incluye rectas y curvas de diferentes radios. La curva de menor rádio no será inferior a los 125 mm, y la distancia mínima entre dos partes próximas del recorrido no será inferior a los 250 mm.
 Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de la prueba.
 
 ![Imaxe do labirinto](img/linefollower_track.jpg)
@@ -31,7 +31,7 @@ Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de
 1. La placa controladora del robot, en caso de haberla, debe estar basada en tecnologías abiertas. También son válidas las plataformas o kits de robótica basados en tecnologías abiertas.
 2. El funcionamiento del robot debe ser completamente autónomo. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo).
 3. El robot no puede aprender el recorrido del circuito ni puede programarse para que siga una ruta predeterminada.
-4. Los robots deberán tener una masa máxima de 2000 gramos y un ancho y largo máximo de 20 centímetros.
+4. Los robots deberán tener una masa máxima de 2000 gramos y se recomienda unas medidas máximas que no superen los 250 mm de largo y 150 mm de ancho.
 5. El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
 6. Los robots deben funcionar únicamente con la energía proporcionada por pilas o
 baterías eléctricas integradas en el propio robot.
