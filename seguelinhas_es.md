@@ -59,7 +59,7 @@ El participante siempre se debe dirigir al juez principal para cualquier reclama
 
 Las decisiones finales siempre las toma el juez principal.
 
-### Sección 7: Recursos de interese
+### Sección 7: Recursos de interés
 
   * [Tutorial a robot sigue líneas básico](http://todohacker.com/tutoriales/tutorial-robot-siguelineas)
 
