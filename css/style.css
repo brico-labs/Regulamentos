@@ -27,3 +27,12 @@ div.container > p:first-child {
   margin: 0 0 0 auto;
   text-align: right;
 }
+
+
+div.container ul {
+  padding: 1em;
+}
+
+div.container ul li {
+     list-style-type: disc;     
+}
