@@ -12,7 +12,7 @@ title: Reglamento de HEBOCON
 ### Descripción de la prueba
 
 Es una competición de sumo para robots, una versión modificada del estilo de lucha de sumo japonés.
-La competición está destinada para aquellos que son técnicamente desfavorecidos. Sólo se permite la participación de robots de tipo ["Heboi"](http://portal.nifty.com/hebocon/whats_en.htm)
+La competición está destinada para aquellos que son técnicamente desfavorecidos. Sólo se permite la participación de robots de tipo ["Heboi"](http://portal.nifty.com/hebocon/whats_en.htm).
 
 #### Reglamento básico
 
@@ -54,6 +54,7 @@ Excepción: Si un robot se sale del tablero sin que hubiera entrado en contacto 
 ### Especificaciones de los robots
 
 Por favor, participa con un robot que satisfaga los siguientes requisitos:
+
 * Es técniamente mediocre. Ver párrafo Reglamento para el uso de alta tecnología, a continuación.
 * No tiene dispositivos que destruyan deliberadamente al oponente, como por ejemplo un taladro eléctrico.
 * El tamaño máximo puede ser de 50cm de ancho por 50cm de largo. No hay limitación en altura y el peso máximo no puede ser mayor de 1 kg.
