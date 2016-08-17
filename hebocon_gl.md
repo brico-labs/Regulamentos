@@ -10,7 +10,7 @@ title: regulamento de HEBOCON
   - Revisión 1 (2016): vixente Rev. 1
 
 ### Descrición da proba
- Es una competición de sumo para robots, unha versión modificada do estilo de loita de sumo xaponés.
+ É unha competición de sumo para robots, unha versión modificada do estilo de loita de sumo xaponés.
  A competición está destinada para aqueles que son técnicamente desfavorecidos. Sólo se permite a participación de robots do tipo ["Heboi"](http://portal.nifty.com/hebocon/whats_en.htm)
 
 #### Regulamento básico
@@ -27,8 +27,8 @@ title: regulamento de HEBOCON
  ![Caidas](img/hebocon_rule2es.png)
 
  Non se teñen en conta como derrota as seguintes situacións, e polo tanto a partida debe continuar:
-  * Algunha parte do robot, que non está en contacto directo co chan, está fora do taboleiro.
-  * Parte do robot se desprende, quedando esa peza dentro ou fora do taboleiro.
+ * Algunha parte do robot, que non está en contacto directo co chan, está fora do taboleiro.
+ * Parte do robot se desprende, quedando esa peza dentro ou fora do taboleiro.
 
  ![Parte de robot](img/hebocon_rule3.png)
 
