@@ -55,7 +55,7 @@ title: regulamento de HEBOCON
 ### Especificacións dos robots
 
  Por favor, participa cun robot que satisfaga os seguientes requisitos.
- * É técnicamente mediocre. Ver párrafo Regulamento para o uso de alta tecnoloxía, a continuación.
+ * É técnicamente mediocre. Ver parágrafo Regulamento para o uso de alta tecnoloxía, a continuación.
  * Non ten dispositivos que destruan deliberadamente o opoñente, como por exemplo un trade eléctrico.
  * O tamaño máximo pode ser de 50cm de ancho por 50cm de largo. Non hai limitación en altura e o peso máximo non pode ser maior de 1 kg.
 
