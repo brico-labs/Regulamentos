@@ -1,9 +1,9 @@
 ---
-layout: regulamento_gl
+layout: regulamento
 title: regulamento de HEBOCON
 ---
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="50">](hebocon_es)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="75">](hebocon_es)
 
 # Regulamento de HEBOCON
 
@@ -16,7 +16,7 @@ title: regulamento de HEBOCON
 #### Regulamento básico
  O taboleiro onde se combate será un contrachapado cun tamaño de 100 x 50 cm.
 
- Ambos robots comenzan a batalla ó memsmo tempo dende lados opostos. Non é preciso que sexa dende as esquinas.
+ Ambos robots comezan a batalla ó mesmo tempo dende lados opostos. Non é preciso que sexa dende as esquinas.
 
  ![Taboleiro de combate](img/hebocon_rule1.png)
 
@@ -27,8 +27,8 @@ title: regulamento de HEBOCON
  ![Caidas](img/hebocon_rule2es.png)
 
  Non se teñen en conta como derrota as seguintes situacións, e polo tanto a partida debe continuar:
- * Algunha parte do robot, que non está en contacto directo co chan, está fora do taboleiro.
- * Parte do robot se desprende, quedando esa peza dentro ou fora do taboleiro.
+  * Algunha parte do robot, que non está en contacto directo co chan, está fora do taboleiro.
+  * Parte do robot se desprende, quedando esa peza dentro ou fora do taboleiro.
 
  ![Parte de robot](img/hebocon_rule3.png)
 
@@ -49,13 +49,13 @@ title: regulamento de HEBOCON
  * Os enfrontamentos se levarán a cabo segundo a tabla de cruces do torneo.
  * O gañador de cada enfrontamento leva 10 puntos.
  * A penalización por incumplir o regulamento do uso de alta tecnoloxía é de 6 puntos por característica en cada enfrontamento. Normalmente, o gañador das eliminatorias sería o gañador da competición, pero se a súa puntuación total se ve afectada por incumplir as regras de alta tecnoloxía, podería haber outro gañador se tivera unha puntuación superior.
- * O feito de participar nunha competición de Hebocon é un premio en sí mesmo. É posile que non haxa premios materiais, ou tal vez xuntemos tódalas pezas que han ido perdendo outros robots e chas entreguemos como premio. Simplmente desfruta do momento de Hebocon.
+ * O feito de participar nunha competición de Hebocon é un premio en sí mesmo. É posible que non haxa premios materiais, ou tal vez xuntemos tódalas pezas que han ido perdendo outros robots e chas entreguemos como premio. Simplemente desfruta do momento de Hebocon.
 
 
 ### Especificacións dos robots
 
  Por favor, participa cun robot que satisfaga os seguientes requisitos.
- * É técniamente mediocre. Ver párrafo Regulamento para o uso de alta tecnoloxía, a continuación.
+ * É técnicamente mediocre. Ver párrafo Regulamento para o uso de alta tecnoloxía, a continuación.
  * Non ten dispositivos que destruan deliberadamente o opoñente, como por exemplo un trade eléctrico.
  * O tamaño máximo pode ser de 50cm de ancho por 50cm de largo. Non hai limitación en altura e o peso máximo non pode ser maior de 1 kg.
 
@@ -77,7 +77,7 @@ Os participantes poderán comprobar con antelación se o seu robot pode ser pena
 A penalización reduce seis puntos por uso dunha característica de alta tecnoloxía. En caso de que haxa múltiples características de alta tecnoloxía, se rebaixarán máis puntos.
 
 
-### Para ir quencendo
+### Para ir calentanto
 
 Este é o regulamento, se estás pensando en participar nunha competición de Hebocon, por favor asegúrate de ler o documento titulado ["What is Hebocon"](http://portal.nifty.com/hebocon/whats_en.htm). Hebocon non consiste en gañar o campeonato, o máis importate aquí é gozalo.
 
