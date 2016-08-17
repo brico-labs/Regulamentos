@@ -29,10 +29,10 @@ div.container > p:first-child {
 }
 
 
-div.container ul {
+div.content ul {
   padding: 1em;
 }
 
-div.container ul li {
+div.content ul li {
      list-style-type: disc;     
 }
