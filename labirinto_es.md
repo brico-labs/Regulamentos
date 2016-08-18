@@ -6,7 +6,7 @@ title: Reglamento de Laberinto
 
 # Reglamento de Laberinto
 
-  - Revisión 1 (2015): vigente OSHWDem 2015
+  - Revisión 1 (2015): vigente desde OSHWDem 2015
 
 ### Objetivo
 
