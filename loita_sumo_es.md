@@ -6,7 +6,7 @@ title: Reglamento de Sumo
 
 # Reglamento de Sumo (Minisumo)
 
-  - Revisión 3 (2015): vigente OSHWDem 2015
+  - Revisión 3 (2015): vigente desde OSHWDem 2015
 
 ### Objetivo
 
