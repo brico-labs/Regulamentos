@@ -6,7 +6,7 @@ title: Regulamento de Labirinto
 
 # Regulamento de Labirinto
 
-  - Revisión 1 (2015): vixente OSHWDem 2015
+  - Revisión 1 (2015): vixente dende OSHWDem 2015
 
 ### Obxectivo
 
