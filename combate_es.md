@@ -10,7 +10,7 @@ Somos conscientes de que en realidad esta competición es de cacharros móviles
 teleoperados de combate y no son propiamente Robots, pero los llamaremos así para hacerlo más corto ;)
 Este reglamento tiene la intención de fomentar la competición justa y asegurar la máxima seguridad posible. Pero también queremos que haya el mayor número de participantes, por lo que te animamos a competir. En el caso de cualquier duda no dudes en ponerte en contacto con nosotros en el correo info@oshwdem.org
 
-  - Revisión 1 (2015): vigente OSHWDem 2015
+  - Revisión 1 (2015): vigente desde OSHWDem 2015
 
 ### Objetivo
 Dos robots teleoperados combaten con sus armas entre sí en un recinto cerrado luchando por ser el robot más fuerte y mejor diseñado. La pericia de sus constructores y operadores se pondrá en juego para encontrar el mejor robot de combate del evento.
