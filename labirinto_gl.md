@@ -172,7 +172,7 @@ As decisións finais sempre as tomará o xuíz principal.
 
 ### Recursos de interese 
 
-  * [Repositorio para a xeración de labirintos](https://github.com/bricolabs/OshwdemMazes)
+  * [Repositorio para a xeración de labirintos](https://github.com/brico-labs/OshwdemMazes)
   * [Solving a Maze](https://www.cs.bu.edu/teaching/alg/maze/)
   * [Think Labyrinth!](http://www.astrolog.org/labyrnth.htm)
 
