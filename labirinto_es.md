@@ -111,7 +111,7 @@ Las decisiones finales siempre las toma el juez principal.
 
 ### Recursos de interés 
 
-  * [Repositorio para la generación de laberintos](https://github.com/bricolabs/OshwdemMazes)
+  * [Repositorio para la generación de laberintos](https://github.com/brico-labs/OshwdemMazes)
   * [Solving a Maze](https://www.cs.bu.edu/teaching/alg/maze/)
   * [Think Labyrinth!](http://www.astrolog.org/labyrnth.htm)
 
