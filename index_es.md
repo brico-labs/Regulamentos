@@ -11,7 +11,7 @@ layout: regulamento_es
 <div markdown="1">
 ## Laberinto
 
-[![Maze](img/maze.jpg)](laberinto_es)
+[![Maze](img/maze.jpg)](labirinto_es)
 [Photo credits](https://www.flickr.com/photos/fdecomite/7060399989)
 </div>
 
