@@ -6,7 +6,7 @@ title: Regulamento de Labirinto
 
 # Regulamento de Labirinto
 
-  - Revisión 1 (2015): vixente dende OSHWDem 2015
+  - Revisión 2 (2017): vixente dende OSHWDem 2017
 
 ### Obxectivo
 
@@ -20,19 +20,19 @@ tempo que poida. Gañará a competición o robot que complete o percorrido no me
 
 ![Imaxe do labirinto](img/maze_finish_line.jpg)
 
-1. O labirinto está formado por unha área de 13 por 13 celas, que veñen sendo estancias
+1. O labirinto está formado por unha área de ~~13 por 13~~ **16 por 16** celas, que veñen sendo estancias
 de forma cadrada e adxacentes por cada un dos catro lados do perímetro da propia
 cela.
 
-2. Cada cela ten un tamaño de 150 por 150 milímetros, e sobre cada un dos lados da cela
+2. Cada cela ten un tamaño de ~~150 por 150~~ **180 por 180** milímetros, e sobre cada un dos lados da cela
 pode existir, ou non, unha parede que non deixará pasar o robot por ese lateral.
 
-3. As paredes do labirinto teñen unha altura de 100mm, un grosor de 20mm e van
+3. As paredes do labirinto teñen unha altura de ~~100mm~~ **50mm**, un grosor de ~~20mm~~ **12mm** e van
 situadas sobre o medio e medio das celas que separa.
 
 4. Hai que ter en conta que unha parede invade o espazo das dúas celas e reducen a área
-de cada cela achicándoa 10mm polo lado da parede e, polo tanto, deixando os
-corredores polos que ten que pasar o robot en 130mm de ancho.
+de cada cela achicándoa ~~10mm~~ **6mm** polo lado da parede e, polo tanto, deixando os
+corredores polos que ten que pasar o robot en ~~130mm~~ **168mm** de ancho.
 
 5. Asúmese un 5% de tolerancia en tódalas dimensións dadas.
 
@@ -46,7 +46,7 @@ pintura mate.
 8. Debe asumirse que as tonalidades e remates da pintura poden variar ó longo do
 percorrido, existir zonas de sombras pola iluminación ambiental e variacións na
 cantidade de fricción que ofrece o chan. As columnas que soportan las paredes son de
-aluminio, en cor natural e quedan á vista do robot.
+~~aluminio extruído~~ **madeira**, e quedan á vista do robot.
 
 9. No chan pode existir a unión de taboleiros de madeira que poderían provocar un
 pequeno desnivel ou focha que se tratará de minimizar para evitar que os robots
@@ -56,7 +56,7 @@ poidan ser afectados.
 
 11. O punto de chegada ou “meta” está situado no centro do labirinto.
  
-12. A meta está composta dunha área de 3 por 3 celas con paredes só no seu perímetro,
+12. A meta está composta dunha área de ~~3 por 3~~ **2 por 2** celas con paredes só no seu perímetro,
 agás na entrada que será tan só dunha parede nunha cela e que se denomina "porta de
 meta".
 
@@ -77,9 +77,8 @@ tecnoloxías abertas.
 calquera método de control, sempre e cando estea integrado enteiramente no robot e
 non reciba sinais oi indicacións externas (de calquera tipo).
 
-3. Non existe limitación en canto a masa, dimensións ou xeometría do robot, coa única
-excepción da altura, que non debe superar, en ningún caso, os 95mm. O robot debe ser
-unha única unidade indivisíbel.
+3. ~~Non existe limitación en canto a masa, dimensións ou xeometría do robot, coa única
+excepción da altura, que non debe superar, en ningún caso, os 95mm.~~ **Recoméndase que o robot non supere os 16cm de ancho por 16cm de largo. Se cambian de xeometría no deberían superar estas dimensións. Non existe limitación na altura do robot.** O robot debe ser unha única unidade indivisíbel.
 
 4. O robot non poderá saltar por riba, sobrevoar, escalar, cortar, rascar, queimar, danar ou
 destruír as paredes do labirinto.
