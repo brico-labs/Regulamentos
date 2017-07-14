@@ -53,7 +53,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 2. El funcionamiento del robot debe ser completamente autónomo. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo).
 
-3. No existe limitación en cuanto a masa, dimensiones o geometría del robot, con la única excepción de la altura, que no debe superar, en ningún caso, los ~~95mm~~ **50mm**. El robot debe ser una única unidad indivisible.
+3. ~~No existe limitación en cuanto a masa, dimensiones o geometría del robot, con la única excepción de la altura, que no debe superar, en ningún caso, los 95mm.~~ **Se recomienda que las dimensiones del robot no superen los 16cm de ancho por 16cm de largo. Si cambian de geometría no deberían rebasar estas dimensiones. No existe limitación en cuanto a la altura del robot.** El robot debe ser una única unidad indivisible.
 
 4. El robot no podrá saltar por encima, sobrevolar, escalar, cortar, rascar, quemar, dañar o destruir las paredes del laberinto.
 5. El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
