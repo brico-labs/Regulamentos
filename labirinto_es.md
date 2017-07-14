@@ -6,7 +6,7 @@ title: Reglamento de Laberinto
 
 # Reglamento de Laberinto
 
-  - Revisión 1 (2015): vigente desde OSHWDem 2015
+  - Revisión 2 (2017): vigente desde OSHWDem 2017
 
 ### Objetivo
 
@@ -18,13 +18,13 @@ Dispondrá de 5 minutos para reconocer el laberinto y 3 intentos para completarl
 
 ![Imagen del labirinto](img/maze_finish_line.jpg)
 
-1. El laberinto está formado por un área de 13 por 13 celdas, que vienen siendo estancias de forma cuadrada y adyacentes por cada uno de sus lados del perímetro de la propia celda.
+1. El laberinto está formado por un área de ~~13 por 13~~ **16 por 16** celdas, que vienen siendo estancias de forma cuadrada y adyacentes por cada uno de sus lados del perímetro de la propia celda.
 
-2. Cada celda tiene un tamaño de 150 por 150 milímetros, y sobre cada uno de sus lados de la celda puede existir, o no, una pared que no dejará pasar al robot por ese lateral.
+2. Cada celda tiene un tamaño de ~~150 por 150~~ **180 por 180** milímetros, y sobre cada uno de los lados de la celda puede existir, o no, una pared que no dejará pasar al robot por ese lateral.
 
-3. Las paredes del laberinto tienen una altura de 100mm, un grosor de 20mm y van situadas sobre el medio y medio de las celdas que separa.
+3. Las paredes del laberinto tienen una altura de ~~100mm~~ **50mm**, un grosor de ~~20mm~~ **12mm** y van situadas sobre el medio y medio de las celdas que separa.
 
-4. Hay que tener en cuenta que una pared invade el espacio de las dos celdas y reducen el área de cada celda, achicándola 10mm por el lado de la pared e, por lo tanto, dejando los corredores por los que tiene que pasar el robot en 130mm de ancho.
+4. Hay que tener en cuenta que una pared invade el espacio de las dos celdas y reducen el área de cada celda, achicándola ~~10mm~~ **6mm** por el lado de la pared y, por lo tanto, dejando los corredores por los que tiene que pasar el robot en ~~130mm~~ **168mm** de ancho.
 
 5. Se asume un 5% de tolerancia en todas las dimensiones dadas.
 
@@ -32,7 +32,7 @@ Dispondrá de 5 minutos para reconocer el laberinto y 3 intentos para completarl
 
 7. Los lados de las paredes son de color blanco, la parte superior de las paredes es de color naranja y el suelo es de color negro. Las partes del laberinto son de madera, acabada con pintura mate.
 
-8. Debe asumirse que las tonalidades y acabados de la pintura puedan variar a lo largo del recorrido, existir zonas de sombras por la iluminación ambiental y variaciones en la cantidad de fricción que ofrece el suelo. Las columnas que sujetan las divisiones son de aluminio extruído, en color natural y quedan a la vista del robot.
+8. Debe asumirse que las tonalidades y acabados de la pintura puedan variar a lo largo del recorrido, existir zonas de sombras por la iluminación ambiental y variaciones en la cantidad de fricción que ofrece el suelo. Las columnas que sujetan las divisiones son de ~~aluminio extruído~~ **madera**, y quedan a la vista del robot.
 
 9. En el suelo puede existir la unión de tableros de madera que podrían provocar un pequeño desnivel que se tratará de minimizar para evitar que los robots puedan ser afectados.
 
@@ -40,7 +40,7 @@ Dispondrá de 5 minutos para reconocer el laberinto y 3 intentos para completarl
 
 11. El punto de llegada o “meta” está situado en el centro del laberinto.
 
-12. La meta está compuesta de un área de 3 por 3 celdas con paredes sólo en su perímetro excepto en la entrada, que será tan sólo de una pared en una celda y que se denomina “puerta de meta”.
+12. La meta está compuesta de un área de ~~3 por 3~~ **2 por 2** celdas con paredes sólo en su perímetro excepto en la entrada, que será tan sólo de una pared en una celda y que se denomina “puerta de meta”.
 
 13. La zona de meta tendrá una marca en el suelo que indicar al robot la zona de llegada.
 Dicha marca será una línea blanca de 2cm de grosor.
@@ -53,7 +53,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 2. El funcionamiento del robot debe ser completamente autónomo. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo).
 
-3. No existe limitación en cuanto a masa, dimensiones o geometría del robot, con la única excepción de la altura, que no debe superar, en ningún caso, los 95mm. El robot debe ser una única unidad indivisible.
+3. No existe limitación en cuanto a masa, dimensiones o geometría del robot, con la única excepción de la altura, que no debe superar, en ningún caso, los ~~95mm~~ **50mm**. El robot debe ser una única unidad indivisible.
 
 4. El robot no podrá saltar por encima, sobrevolar, escalar, cortar, rascar, quemar, dañar o destruir las paredes del laberinto.
 5. El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
@@ -62,7 +62,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 ### Desarollo de la competición
 
-1. El orden de participación vendrá dado por el orden de llegada o anotación en la lista de inscritos al competición. Se avisará con antelación al desarrollo del mismo el orden de participación de cada robot.
+1. El orden de participación vendrá dado por el orden de llegada o anotación en la lista de inscritos a la competición. Se avisará con antelación al desarrollo del mismo el orden de participación de cada robot.
 
 2. Momentos antes del comienzo del competición se revelará el recorrido del laberinto. Desde ese mismo instante los robots deben estar en la mesa de los jueces y no se permite ningún cambio de pieza, carga de programa o comunicación remota con el robot.
 
