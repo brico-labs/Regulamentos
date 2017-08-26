@@ -10,7 +10,7 @@ Somos conscientes de que en realidade esta competición é de cacharros móbiles
 
 Este regulamento ten a intención de fomentar a competición xusta e asegurar a máxima seguridade posible. Pero tamén queremos que haxa o maior número de participantes, polo que che animamos a competir. No caso de calquera dúbida non dubides en poñerche en contacto connosco no correo info@oshwdem.org
 
-  - Revisión 1 (2015): vixente dende OSHWDem 2015
+  - Revisión 2 (2015): vixente dende OSHWDem 2017
 
 ### Obxectivo
 Dous robots teleoperados combaten coas súas armas entre si nun recinto pechado loitando por ser o robot máis forte e mellor deseñado. A pericia dos seus construtores e operadores poñerase en xogo para atopar o mellor robot de combate do evento.
@@ -30,16 +30,26 @@ Aínda que non é indispensable, recomendámosche que nos avises por correo elec
 1. (2.1)  Área de combate. A área de combate é un espazo con base cadrada de 130cm x 130cm, completamente pechada mediante paredes de policarbonato, cunha altura de 70cm.
     
 2. (2.2) Duración do combate. A duración do combate é de 2 minutos.
+
+3. (2.3) A trapela da arena de combate abrirase 30 segundos despois do comezo do combate.
+
+4. (2.4) Cualquera robot que caia dentro do hoco da trapela oe estea inmovilizado na apertura será considerado incapacitado. Se cae dentro do hoco deberá dehabilitar as suas armas e cesar por completo o movemento.
+
+5. (2.5) Se ambos robots caen dentro do hoco da trapela simultáneamente, o robot que primeiro atravese o plano da abertura será considerado o primeiro incapacitado. Se non é obvio qué robot atravesou primeiro, a decisión será tomada polos xuíces.
+
+6. (2.6) Os construtores dos robots son los responsables de retiralos do hoco da trapela unha vez terminado o combate salvo que o xuiz diga o contrario.
+
+7. (2.7) No caso de que un robot quede atrapado enrriba das paredes protectoras da arena ou entre éstas e as exteriores será declarado KO e deberá deshabilitar a súa arma. Esta regra é para evitar riscos da seguridade do público e competidores. 
+
+8. (2.8) Frecuencia de combates. Dispoñerase de polo menos 20 minutos entre combates para o mesmo robot. Aínda que recomendamos que posúas dúas baterías para que, no caso de non ter que facer reparacións no robot, póidase axilizar a frecuencia dos combates.
     
-3. (2.3) Frecuencia de combates. Dispoñerase de polo menos 20 minutos entre combates para o mesmo robot. Aínda que recomendamos que posúas dúas baterías para que, no caso de non ter que facer reparacións no robot, póidase axilizar a frecuencia dos combates.
+9. (2.9) Desenganches. O combate pararase no caso de que os robots queden enganchados entre si máis de 10 segundos para separalos.
     
-4. (2.4) Desenganches. O combate pararase no caso de que os robots queden enganchados entre si máis de 10 segundos para separalos.
+10 (2.10) Agarres ou levantamentos. Os robots poden realizar agarres ou levantamentos, pero non máis de 10 segundos. No caso de non obedecer a orde do árbitro de soltar ou cesar o levantamento (sempre que os robots non estean enganchados) o robot que realiza o agarre ou levantamento será declarado perdedor.
     
-5. (2.5) Agarres ou levantamentos. Os robots poden realizar agarres ou levantamentos, pero non máis de 10 segundos. No caso de non obedecer a orde do árbitro de soltar ou cesar o levantamento (sempre que os robots non estean enganchados) o robot que realiza o agarre ou levantamento será declarado perdedor.
+11. (2.11) Retirada. Permítese a retirada no medio do combate. O operador indicarao usando o seu pulsador e o combate pararase instantaneamente. O robot opoñente gañará o combate automaticamente.
     
-6. (2.6) Retirada. Permítese a retirada no medio do combate. O operador indicarao usando o seu pulsador e o combate pararase instantaneamente. O robot opoñente gañará o combate automaticamente.
-    
-7. (2.7) KO. No caso de que un robot cesase o seu movemento de maneira controlada, o árbitro comezará unha conta atrás de 10 segundos. No caso de que neste tempo non sexa capaz de demostrar un movemento traslacional será declarado perdedor por KO. Enténdese como movemento traslacional controlado, o conxunto de movementos que permitan que o robot siga unha traxectoria lineal.
+12. (2.12) KO. No caso de que un robot cesase o seu movemento de maneira controlada, o árbitro comezará unha conta atrás de 10 segundos. No caso de que neste tempo non sexa capaz de demostrar un movemento traslacional será declarado perdedor por KO. Enténdese como movemento traslacional controlado, o conxunto de movementos que permitan que o robot siga unha traxectoria lineal.
 
   1. (2.7.1) Se durante a conta atrás o robot demostra movemento traslacional controlado, ou no caso de que o robot opoñente ataque, pararase a conta atrás e seguirá o combate. Isto quere dicir que a un robot "parado" non se lle fará conta atrás se o seu opoñente segue atacando, e o combate non terminará a non ser que se acabe o tempo de combate ou o robot "parado" retírese.
   
@@ -53,7 +63,7 @@ Aínda que non é indispensable, recomendámosche que nos avises por correo elec
 
   4. (2.7.4) Se a batería dun robot vese exposta o árbitro pode decidir declarar un KO técnico por seguridade.
   
-8. (2.8) Tipo de eliminación. O día do evento e segundo o número de participantes, a organización decidirá o tipo de eliminatoria, entre as que se atopan:
+13. (2.13) Tipo de eliminación. O día do evento e segundo o número de participantes, a organización decidirá o tipo de eliminatoria, entre as que se atopan:
     
 + Liguiña. Cada robot enfróntase a todos os robots. O que teña máis vitorias é o gañador. Se hai empate, gaña o que gañase o combate que enfrontou aos finalistas.
 + Eliminación simple. Realízanse combates por parellas e o gañador pasa á seguinte fase ata que hai un gañador.
@@ -176,7 +186,7 @@ As decisións finais sempre as toma o xuíz principal.
 
 #### 1. Xeral
 
-1. (1.1) Todos os participantes constrúen e operan os robots baixo o seu propio risco. Os combates de robots son inherentemente perigosos. Non hai regulación que pode abarcar todos os perigos involucrados. Por favor, ten coidado de non facerche dano a ti mesmo ou a outros na construción, probas e competición.
+1. (1.1) Todos os participantes constrúen e operan os robots baixo o seu propio risco. Os combates de robots son inherentemente perigosos. Non hai regulación que pode abarcar todos os perigos involucrados. Por favor, ten coidado de non facerche dano a ti mesmo ou a outros na construión, probas e competición.
     
 2. (1.2) Se tes un deseño do robot ou unha arma que non encaixa dentro das categorías establecidas no presente regulamento ou é dalgunha maneira ambigua ou está no límite, por favor ponche en contacto coa organización deste evento. Animamos á innovación segura, pero se sorprendes ao persoal do evento explotando unha lagoa das regras, o teu robot pode ser descualificado antes de que poida competir.
     
