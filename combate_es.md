@@ -10,7 +10,7 @@ Somos conscientes de que en realidad esta competición es de cacharros móviles
 teleoperados de combate y no son propiamente Robots, pero los llamaremos así para hacerlo más corto ;)
 Este reglamento tiene la intención de fomentar la competición justa y asegurar la máxima seguridad posible. Pero también queremos que haya el mayor número de participantes, por lo que te animamos a competir. En el caso de cualquier duda no dudes en ponerte en contacto con nosotros en el correo info@oshwdem.org
 
-  - Revisión 1 (2015): vigente desde OSHWDem 2015
+  - Revisión 2 (2017): vigente desde OSHWDem 2017
 
 ### Objetivo
 Dos robots teleoperados combaten con sus armas entre sí en un recinto cerrado luchando por ser el robot más fuerte y mejor diseñado. La pericia de sus constructores y operadores se pondrá en juego para encontrar el mejor robot de combate del evento.
@@ -32,16 +32,26 @@ La organización puede pedirte colocar una micro cámara (de la organización) a
 1. (2.1) Área de combate. El área de combate es un espacio con base cuadrada de 130cm x 130cm, completamente cerrada mediante paredes de policarbonato, con una altura de 70cm.
     
 2. (2.2) Duración del combate. La duración del combate es de 2 minutos.
+
+3. (2.3) La trampilla de la arena de combate se abrirá 30 segundos después del inicio del combate.
+
+4. (2.4) Cualquier robot que caiga dentro del hueco de la trampilla o esté inmovilizado en la apertura será considerado incapacitado. Si cae dentro del hueco deberá dehabilitar sus armas y cesar por completo el movimiento.
+
+5. (2.5) Si ambos robots caen dentro del hueco de la trampilla simultáneamente, el robot que primero atraviese el plano de la apertura será considerado el primer incapacitado. Si no es obvio que robot atravesó primero, la decisión será tomada por los jueces.
+
+6. (2.6) Los constructores de los robots son los responsables de retirarlos del hueco de la trampilla una vez terminado el combate salvo que el Juez diga lo contrario.
+
+7. (2.7) En el caso de que un robot quede atrapado encima de las paredes protectoras de la arena o entre éstas y las exteriores será declarado KO y deberá deshabilitar su arma. Esta regla es para evitar riesgos de la seguridad del público y competidores. 
+
+8. (2.8) Frecuencia de combates. Se dispondrá de al menos 20 minutos entre combates para el mismo robot. Aunque recomendamos que poseas dos baterías para que, en el caso de no tener que hacer reparaciones en el robot, se pueda agilizar la frecuencia de los combates.
     
-3. (2.3) Frecuencia de combates. Se dispondrá de al menos 20 minutos entre combates para el mismo robot. Aunque recomendamos que poseas dos baterías para que, en el caso de no tener que hacer reparaciones en el robot, se pueda agilizar la frecuencia de los combates.
+9. (2.9) Desenganches. El combate se parará en el caso de que los robots se queden enganchados entre sí más de 10 segundos para separarlos.
     
-4. (2.4) Desenganches. El combate se parará en el caso de que los robots se queden enganchados entre sí más de 10 segundos para separarlos.
+10. (2.10) Agarres o levantamientos. Los robots pueden realizar agarres o levantamientos, pero no más de 10 segundos. En el caso de no obedecer la orden del árbitro de soltar o cesar el levantamiento (siempre que los robots no estén enganchados) el robot que realiza el agarre o levantamiento será declarado perdedor.
     
-5. (2.5) Agarres o levantamientos. Los robots pueden realizar agarres o levantamientos, pero no más de 10 segundos. En el caso de no obedecer la orden del árbitro de soltar o cesar el levantamiento (siempre que los robots no estén enganchados) el robot que realiza el agarre o levantamiento será declarado perdedor.
+11. (2.11) Retirada. Se permite la retirada en el medio del combate. El operador lo indicará usando su pulsador y el combate se parará instantáneamente. El robot oponente ganará el combate automáticamente.
     
-6. (2.6) Retirada. Se permite la retirada en el medio del combate. El operador lo indicará usando su pulsador y el combate se parará instantáneamente. El robot oponente ganará el combate automáticamente.
-    
-7. (2.7) KO. En el caso de que un robot haya cesado su movimiento de manera controlada, el árbitro comenzará una cuenta atrás de 10 segundos. En el caso de que en este tiempo no sea capaz de demostrar un movimiento traslacional será declarado perdedor por KO. Se entiende como movimiento traslacional controlado, el conjunto de movimientos que permitan que el robot siga una trayectoria lineal.
+12. (2.12) KO. En el caso de que un robot haya cesado su movimiento de manera controlada, el árbitro comenzará una cuenta atrás de 10 segundos. En el caso de que en este tiempo no sea capaz de demostrar un movimiento traslacional será declarado perdedor por KO. Se entiende como movimiento traslacional controlado, el conjunto de movimientos que permitan que el robot siga una trayectoria lineal.
 
     1. (2.7.1) Si durante la cuenta atrás el robot demuestra movimiento traslacional controlado, o en el caso de que el robot oponente ataque, se parará la cuenta atrás y seguirá el combate. Esto quiere decir que a un robot "parado" no se le hará cuenta atrás si su oponente sigue atacando, y el combate no terminará a no ser que se acabe el tiempo de combate o el robot "parado" se retire.
 
@@ -55,7 +65,7 @@ La organización puede pedirte colocar una micro cámara (de la organización) a
     
     4. (2.7.4) Si la batería de un robot se ve expuesta el árbitro puede decidir declarar un KO técnico por seguridad.
     
-8. (2.8) Tipo de eliminación. El día del evento y según el número de participantes, la organización decidirá el tipo de eliminatoria, entre las que se encuentran:
+13. (2.13) Tipo de eliminación. El día del evento y según el número de participantes, la organización decidirá el tipo de eliminatoria, entre las que se encuentran:
     
 + Liguilla. Cada robot se enfrenta a todos los robots. El que tenga más victorias es el ganador. Si hay empate, gana el que haya ganado el combate que ha enfrentado a los finalistas.
 + Eliminación simple. Se realizan combates por parejas y el ganador pasa a la siguiente fase hasta que hay un ganador.
