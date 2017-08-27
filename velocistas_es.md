@@ -4,7 +4,7 @@ title: Reglamento de Velocistas
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="50">](velocistas_gl)
 
-# Regulamento de Velocistas
+# Reglamento de Velocistas
 
   - Revisión 1 (2017): vigente desde OSHWDem 2017
 
