@@ -325,10 +325,10 @@ Regulamentación baseada en:
 1. SPARC Standarized Procedures for the Advancement of Robotic Combat
     
     1. Páxina principal: [http://sparc.tools/](http://sparc.tools/)
-    2. Especificacóns de construcción : [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Robot_Construction_Specifications_v1.0.pdf)
-    3. Procedementos: [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Tournament_Procedures_v1.0.pdf)
-    4. Reglas de competición: [http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2014/11/SPARC_Match_Rules_v1.0.pdf)
-    5. Guías para xuíces: [http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf](http://sparc.tools/wordpress/wpcontent/uploads/2015/01/SPARC_Judging_Guidelines_v1.0.pdf)
+    2. Especificacóns de construcción : [http://sparc.tools/wordpress/wp-content/uploads/2016/10/SPARC_Robot_Construction_Specifications_v1.1.pdf](http://sparc.tools/wordpress/wp-content/uploads/2016/10/SPARC_Robot_Construction_Specifications_v1.1.pdf)
+    3. Procedementos: [http://sparc.tools/wordpress/wp-content/uploads/2016/10/SPARC_Tournament_Procedures_v1.1.pdf](http://sparc.tools/wordpress/wp-content/uploads/2016/10/SPARC_Tournament_Procedures_v1.1.pdf)
+    4. Regras de competición: [http://sparc.tools/wordpress/wp-content/uploads/2017/05/SPARC_Match_Rules_v1.2.pdf](http://sparc.tools/wordpress/wp-content/uploads/2017/05/SPARC_Match_Rules_v1.2.pdf)
+    5. Guías para xuíces: [http://sparc.tools/wordpress/wp-content/uploads/2016/10/SPARC_Judging_Guidelines_v1.1.pdf](http://sparc.tools/wordpress/wp-content/uploads/2016/10/SPARC_Judging_Guidelines_v1.1.pdf)
     6. Recursos para decisións de xuíces: [http://sparc.tools/?p=27](http://sparc.tools/?p=27)
 
 2. RoboGames: [http://robogames.net/rules/combat.php](http://robogames.net/rules/combat.php)
