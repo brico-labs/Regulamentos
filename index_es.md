@@ -77,4 +77,17 @@ layout: regulamento_es
     </div>
   </div>
 
+  <div class="col s12 m6">
+    <div class="icon-block">
 
+<div markdown="1">
+## Velocistas
+
+[![Velocistas](img/velocistas.jpg)](velocistas_es)
+[Photo credits](https://www.flickr.com/photos/canadian_explorer_2010/15709047410)
+</div>
+
+    </div>
+  </div>
+
+</div>
