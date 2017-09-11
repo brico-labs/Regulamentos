@@ -10,12 +10,12 @@ title: Regulamento de Segue liñas
 
 ### Obxectivo
 
-Un robot participa para ser o máis rápido dun circuíto dado. Cada robot terá tres oportunidades de percorrer o circuíto e recibir a mellor puntuación posible no menor tempo que poida.
+Nesta proba de iniciación valorarase tanto a construcción do robot como o seu desempeño na pista. Cada robot terá tres oportunidades de percorrer o circuíto no menor tempo posible e recibir a mellor puntuación que poida.
 O regulamento detallase a continuación.
 
 ### Sección 1: Definición
 
-Dentro dun área delimitada de uns 4m², se establecerá un percorrido dunha determinada lonxitude con cinta de cor negro de 20 mm de ancho e sobre un fondo branco completamente liso. Os robots participantes deberán completar o percorrido dende o punto de partida até o final no menor tempo posible.
+Dentro dun área delimitada de uns 4m², se establecerá un percorrido dunha determinada lonxitude de cor negro de 20 mm de ancho e sobre un fondo branco completamente liso. Os robots participantes deberán completar o percorrido dende o punto de partida até o final no menor tempo posible.
 
 ### Sección 2: Trazado
 
@@ -37,18 +37,25 @@ As medidas e percorrido do circuíto no se darán a coñecer até o comezo da pr
  
 ### Sección 4: Puntuación
 
- 7. Cada robot pode percorrer o circuíto tres veces.
+ 7. Cada robot pode percorrer o circuíto tres veces e contará para a clasificación o menor dos seus tempos.
  8. O cronómetro de tempo se porá en marcha co primeiro movemento do robot e se deterá o chegar o final do percorrido.
- 9. O robot que perda a liña e non consiga voltar o camiño correcto en menos de 10 segundos non percibirá un punto nen será contabilizado o seu tempo.
- 10. O robot que se salte parte do percorrido ou non siga a liña non percibirá un punto nin será contabilizado o seu tempo.
- 11. O robot que complete todo o percorrido recibirá un punto e será contabilizado o seu tempo parcial de carreira.
- 12. O robot gañador determinase pola maior acumulación de puntos e o menor tempo total de percorrido, que ven dado pola suma dos seus tempos parciais.
+ 9. O robot que perda a liña e non consiga voltar o camiño correcto en menos de 10 segundos non percibirá puntos nen será contabilizado o seu tempo.
+ 10. O robot que se salte parte do percorrido ou non siga a liña non percibirá puntos nin será contabilizado o seu tempo.
+ 11. O robot que complete todo o percorrido recibirá dous punto e será contabilizado o seu tempo parcial.
+ 12. O robot gañador determinase pola maior acumulación de puntos.
  
-### Sección 5: Categorías de premios
+### Sección 5: Baremo para a asignación de puntos
 
- * O robot segue liñas máis rápido segundo a sección 4 do presente regulamento.
- * O robot segue liñas mellor construído feito con materiais reciclados.
- * O robot segue liñas máis orixinal.
+* Mellor robot con materiais reciclados: 5 puntos.
+* Robot máis orixinal: 5 puntos.
+* Robot coa mellor documentación online: 6 puntos.
+* Robot que reciba máis retweets en twitter: 3 puntos.
+* Cada volta completada: 2 puntos.
+* Robot máis rápido 1ª posición: 4 puntos.
+* Robot máis rápido 2ª posición: 3 puntos.
+* Robot máis rápido 3ª posición: 2 punto.
+
+O baremo é orientativo e pode variar se os xuices o estiman oportuno por cuestions de tempo ou loxística. Nese caso será comunicado aos participantes.
  
 ### Sección 6: Xuíces
 
