@@ -17,8 +17,8 @@ tres vueltas al circuito. El reglamento se detalla a continuación.
 
 ### Zona de competición
 
-- La zona de competición será un espacio que consiste en una lona blanca de
-2,5 x 5 metros, con un trazado impreso en la misma. 
+- La zona de competición será un espacio que consiste en una lona blanca con un 
+trazado negro sobre la misma. 
 - Entre el borde exterior de la lona y el trazado habrá un margen libre de
 obstáculos de al menos 10 cm.
 - Esta zona de competición es de uso exclusivo de los jueces y los constructores
@@ -30,11 +30,8 @@ naturaleza de la misma, que se tratarán de minimizar todo lo posible.
 ### Trazado
 
 - El trazado o recorrido del circuito es cerrado, los puntos de salida y llegada
-son el mismo. Por motivos de usabilidad de la pista, ésta podrá contar con
-hasta 3 carriles consistentes en 3 líneas negras paralelas separadas entre sí
-17 cm. Durante el transcurso de esta prueba únicamente se utilizará la pista
-exterior y el robot debe mantenerse en la misma durante todo el recorrido.
-- El trazado será impreso en color negro. Tendrán una longitud aproximada de
+son el mismo. 
+- El trazado será de color negro. Tendrán una longitud aproximada de
 entre 8 y 10 metros, con un ancho de línea de 20 milímetros y servirá como
 guía de navegación para los robots. 
 - El trazado incluye rectas y curvas de diferentes radios.
