@@ -10,7 +10,7 @@ title: Regulamento de Segue liñas
 
 ### Obxectivo
 
-Nesta proba de iniciación valorarase tanto a construcción do robot como o seu desempeño na pista. Cada robot terá tres oportunidades de percorrer o circuíto no menor tempo posible e recibir a mellor puntuación que poida.
+Nesta proba de iniciación valorarase tanto a construcción do robot como o seu desempeño na pista. Cada robot terá dúas oportunidades de percorrer o circuíto no menor tempo posible e recibir a mellor puntuación que poida.
 O regulamento detallase a continuación.
 
 ### Sección 1: Definición
@@ -37,7 +37,7 @@ As medidas e percorrido do circuíto no se darán a coñecer até o comezo da pr
  
 ### Sección 4: Puntuación
 
- 7. Cada robot pode percorrer o circuíto tres veces e contará para a clasificación o menor dos seus tempos.
+ 7. Cada robot pode percorrer o circuíto dúas veces e contará para a clasificación o menor dos seus tempos.
  8. O cronómetro de tempo se porá en marcha co primeiro movemento do robot e se deterá o chegar o final do percorrido.
  9. O robot que perda a liña e non consiga voltar o camiño correcto en menos de 10 segundos non percibirá puntos nen será contabilizado o seu tempo.
  10. O robot que se salte parte do percorrido ou non siga a liña non percibirá puntos nin será contabilizado o seu tempo.
