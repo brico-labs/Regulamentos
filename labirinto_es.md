@@ -36,7 +36,7 @@ Dispondrá de 5 minutos para reconocer el laberinto y 3 intentos para completarl
 
 9. En el suelo puede existir la unión de tableros de madera que podrían provocar un pequeño desnivel que se tratará de minimizar para evitar que los robots puedan ser afectados.
 
-10. El punto de partida o “salida” está situado en una de las cuatro esquinas del laberinto.
+10. El punto de partida o “salida” está situado en una de las cuatro esquinas del laberinto. La salida está orientada de manera que cuando la pared libre se encuentra al "norte", las paredes de contorno del laberinto se encuentran al "oeste" y "sur". Es decir, el robot sale en sentido de las agujas del reloj.
 
 11. El punto de llegada o “meta” está situado en el centro del laberinto.
 
