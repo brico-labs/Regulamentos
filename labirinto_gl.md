@@ -53,6 +53,9 @@ pequeno desnivel ou focha que se tratará de minimizar para evitar que os robots
 poidan ser afectados.
 
 10. O punto de partida ou “saída” está situado en unha das catro esquinas do labirinto.
+A saída está orientada de maneira que cando a parede libre se atopa ó "norte", as
+paredes da contorna do laberinto se atopan ó "oeste" e "sur". É dicir, o robot sae no
+sentido horario.
 
 11. O punto de chegada ou “meta” está situado no centro do labirinto.
 
