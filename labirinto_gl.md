@@ -6,7 +6,7 @@ title: Regulamento de Labirinto
 
 # Regulamento de Labirinto
 
-  - Revisión 2 (2017): vixente dende OSHWDem 2017
+  - Revisión 3 (2018): vixente dende OSHWDem 2018
 
 ### Obxectivo
 
@@ -128,7 +128,8 @@ tempo establecido.
 
 8. Unha vez transcorrido o tempo de recoñecemento, o robot terá 3 intentos para
 completar o percorrido do labirinto dende a zona de saída até a zona de meta no
-menor tempo posible. O xuíz indicará cando comeza e finaliza cada intento.
+menor tempo posible. O tempo de cada intento estará limitado a 3 minutos. O xuíz
+indicará cando comeza e finaliza cada intento.
 
 9. O cronómetro se porá en marcha cando o robot toca a liña divisoria da cela de saída.
 
