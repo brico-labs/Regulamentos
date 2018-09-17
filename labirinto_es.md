@@ -6,7 +6,7 @@ title: Reglamento de Laberinto
 
 # Reglamento de Laberinto
 
-  - Revisión 2 (2017): vigente desde OSHWDem 2017
+  - Revisión 3 (2018): vigente desde OSHWDem 2018
 
 ### Objetivo
 
@@ -81,7 +81,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 7. Dentro del tiempo de reconocimiento del laberinto, el robot que consiga entrar a la zona de meta podrá seguir operativo o continuar cartografiando el laberinto hasta que finalice el tiempo establecido.
 
-8. Una vez transcurrido el tiempo de reconocimiento, el robot tendrá 3 intentos para completar el recorrido del laberinto desde la zona de salida hasta la zona de meta en el menor tiempo posible. El juez indicará cuando comienza y finaliza cada intento.
+8. Una vez transcurrido el tiempo de reconocimiento, el robot tendrá 3 intentos para completar el recorrido del laberinto desde la zona de salida hasta la zona de meta en el menor tiempo posible. El tiempo de cada intento estará limitado a 3 minutos. El juez indicará cuando comienza y finaliza cada intento.
 
 9. El cronómetro se pondrá en marcha cuando el robot toca la línea divisoria de la celda de salida.
 
