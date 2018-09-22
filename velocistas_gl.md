@@ -6,7 +6,7 @@ title: Regulamento de Velocistas
 
 # Regulamento de Velocistas
 
-  - Revisión 1 (2017): vixente dende OSHWDem 2017
+  - Revisión 2 (2018): vixente dende OSHWDem 2018
 
 ### Obxectivo
 
@@ -35,6 +35,7 @@ son o mesmo.
 8 e 10 metros, cun ancho de liña de 20 milímetros e servirá como guía de
 navegación para os robots. 
 - O trazado inclúe rectas e curvas de diferentes radios.
+- O radio mínimo de curva é de 40 centímetros.
 - Os sensores utilizados nos robots para detectar a pista deberán poder
 configurarse in-situ para evitar posibles variacións nas magnitudes absolutas
 dos seus parámetros posto que a pista poderá estar iluminada con diferentes
@@ -51,6 +52,7 @@ estea integrado enteiramente no robot e non reciba sinais o indicacións
 externas de calquera tipo.
 - As rodas dos robots no deben tener ningunha substancia pegañenta e/ou que dane
 ou ensucie a pista. 
+- As rodas dos robots poden conter substancias adherentes, limitándose unicamente a aquelas destinadas específicamente ó modelismo ou *slot*. Cualquer exceso de adherente que ensucie a pista, invalidará o intento para o robot. O xuíz realizará comprobacións, previas a cada intento, sobre un folio branco que no poderá quedar pegado nas rodas do robot nin deixar rastros de suciedade.
 - O robot pode aprender ou memorizar o trazado do circuito de xeito autónomo
 unha vez comeza a competición. Non se permite aprender o memorizar o circuito
 nin programar as súas dimensións nas fases previas á competición ou durante as
