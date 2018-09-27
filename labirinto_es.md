@@ -36,7 +36,7 @@ Dispondrá de 5 minutos para reconocer el laberinto y 3 intentos para completarl
 
 9. En el suelo puede existir la unión de tableros de madera que podrían provocar un pequeño desnivel que se tratará de minimizar para evitar que los robots puedan ser afectados.
 
-10. El punto de partida o “salida” está situado en una de las cuatro esquinas del laberinto. La salida está orientada de manera que cuando la pared libre se encuentra al "norte", las paredes de contorno del laberinto se encuentran al "oeste" y "sur". Es decir, el robot sale en sentido de las agujas del reloj.
+10. El punto de partida o “salida” está situado en una de las cuatro esquinas del laberinto. **La salida está orientada de manera que cuando la pared libre se encuentra al "norte", las paredes de contorno del laberinto se encuentran al "oeste" y "sur". Es decir, el robot sale en sentido de las agujas del reloj.**
 
 11. El punto de llegada o “meta” está situado en el centro del laberinto.
 
@@ -81,7 +81,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 7. Dentro del tiempo de reconocimiento del laberinto, el robot que consiga entrar a la zona de meta podrá seguir operativo o continuar cartografiando el laberinto hasta que finalice el tiempo establecido.
 
-8. Una vez transcurrido el tiempo de reconocimiento, el robot tendrá 3 intentos para completar el recorrido del laberinto desde la zona de salida hasta la zona de meta en el menor tiempo posible. El tiempo de cada intento estará limitado a 3 minutos. El juez indicará cuando comienza y finaliza cada intento.
+8. Una vez transcurrido el tiempo de reconocimiento, el robot tendrá 3 intentos para completar el recorrido del laberinto desde la zona de salida hasta la zona de meta en el menor tiempo posible. **El tiempo de cada intento estará limitado a 3 minutos.** El juez indicará cuando comienza y finaliza cada intento.
 
 9. El cronómetro se pondrá en marcha cuando el robot toca la línea divisoria de la celda de salida.
 
