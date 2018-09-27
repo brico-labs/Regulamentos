@@ -35,7 +35,7 @@ son el mismo.
 entre 8 y 10 metros, con un ancho de línea de 20 milímetros y servirá como
 guía de navegación para los robots. 
 - El trazado incluye rectas y curvas de diferentes radios.
-- El radio mínimo de curva es de 40 centímetros.
+- **El radio mínimo de curva es de 40 centímetros.**
 - Los sensores utilizados en los robots para detectar la pista deberán poder
 configurarse in-situ para evitar posibles variaciones en las magnitudes
 absolutas de sus parámetros puesto que la pista podrá estar iluminada con
@@ -52,7 +52,7 @@ esté integrado enteramente en el robot y no reciba señales o indicaciones
 externas, de cualquier tipo.
 - Las ruedas de los robots no deben tener ninguna sustancia pegajosa y/o que
 dañe o ensucie la pista.
-- Las ruedas de los robots pueden contener sustancias adherentes, limitándose únicamente a aquellas destinadas específicamente al modelismo o slot. Cualquier exceso de adherente que ensucie la pista, invalidará el intento para el robot. El juez realizará comprobaciones, previas a cada intento, sobre un folio blanco que no podrá quedar pegado a las ruedas del robot ni dejar rastros de suciedad.
+- **Las ruedas de los robots pueden contener sustancias adherentes, limitándose únicamente a aquellas destinadas específicamente al modelismo o slot. Cualquier exceso de adherente que ensucie la pista, invalidará el intento para el robot. El juez realizará comprobaciones, previas a cada intento, sobre un folio blanco que no podrá quedar pegado a las ruedas del robot ni dejar rastros de suciedad.**
 - El robot puede aprender o memorizar el trazado del circuito de manera autónoma
 una vez comienza la competición. No se permite aprender o memorizar el
 circuito ni programar sus dimensiones en las fases previas a la competición o
