@@ -53,9 +53,9 @@ pequeno desnivel ou focha que se tratará de minimizar para evitar que os robots
 poidan ser afectados.
 
 10. O punto de partida ou “saída” está situado en unha das catro esquinas do labirinto.
-A saída está orientada de maneira que cando a parede libre se atopa ó "norte", as
+**A saída está orientada de maneira que cando a parede libre se atopa ó "norte", as
 paredes da contorna do laberinto se atopan ó "oeste" e "sur". É dicir, o robot sae no
-sentido horario.
+sentido horario.**
 
 11. O punto de chegada ou “meta” está situado no centro do labirinto.
 
@@ -128,7 +128,7 @@ tempo establecido.
 
 8. Unha vez transcorrido o tempo de recoñecemento, o robot terá 3 intentos para
 completar o percorrido do labirinto dende a zona de saída até a zona de meta no
-menor tempo posible. O tempo de cada intento estará limitado a 3 minutos. O xuíz
+menor tempo posible. **O tempo de cada intento estará limitado a 3 minutos.** O xuíz
 indicará cando comeza e finaliza cada intento.
 
 9. O cronómetro se porá en marcha cando o robot toca a liña divisoria da cela de saída.
