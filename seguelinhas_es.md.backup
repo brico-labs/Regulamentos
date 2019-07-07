@@ -4,20 +4,20 @@ title: Reglamento de Sigue líneas
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="50">](seguelinhas_gl)
 
-### Reglamento de Sigue líneas
+# Reglamento de Sigue líneas
 
   - Revisión 2 (2016): vigente Rev.2
 
-##### Objetivo
+### Objetivo
 
 En esta prueba de iniciación se valora tanto la construcción del robot como su desempeño en la pista. Cada robot tendrá dos oportunidades de recorrer el circuíto en el menor tiempo que pueda y recibir la mejor puntuación posible.
 El reglamento se detalla a continuación.
 
-##### Sección 1: Definición
+### Sección 1: Definición
 
 Dentro de un área delimitada de unos 4m², se establecerá un recorrido de una determinada longitud de color negro de 20 mm de ancho y sobre un fondo blanco completamente liso. Los robots participantes deberán completar el recorrido desde el punto de partida hasta el final en el menor tiempo posible.
 
-##### Sección 2: Trazado
+### Sección 2: Trazado
 
 El recorrido del circuito es cerrado, los puntos de salida y llegada son el mismo. Tendrá una longitud aproximada de 4 metros e incluye rectas y curvas de diferentes radios. La curva de menor rádio no será inferior a los 125 mm, y la distancia mínima entre dos partes próximas del recorrido no será inferior a los 250 mm.
 Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de la prueba.
@@ -26,7 +26,7 @@ Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de
 
 *Fig.1 Ejemplo de trazado*
 
-##### Sección 3: Reglamentación para los Robots
+### Sección 3: Reglamentación para los Robots
 
 1. La placa controladora del robot, en caso de haberla, debe estar basada en tecnologías abiertas. También son válidas las plataformas o kits de robótica basados en tecnologías abiertas.
 2. El funcionamiento del robot debe ser completamente autónomo. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo).
@@ -36,7 +36,7 @@ Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de
 6. Los robots deben funcionar únicamente con la energía proporcionada por pilas o
 baterías eléctricas integradas en el propio robot.
  
-##### Sección 4: Puntuación
+### Sección 4: Puntuación
 
 1. Cada robot puede recorrer el circuito dos veces y contará para la clasificación el menor de sus tiempos.
 2. El cronómetro de tiempo se pondrá en marcha con el primer movimiento del robot y se detendrá al llegar al final del recorrido.
@@ -45,7 +45,7 @@ baterías eléctricas integradas en el propio robot.
 5. El robot que complete todo el recorrido recibirá dos puntos y será contabilizado su tiempo parcial.
 7. El robot ganador se determina por la mayor acumulación de puntos.
  
-##### Sección 5: Baremo para la asignación de puntos
+### Sección 5: Baremo para la asignación de puntos
 
 * Mejor robot con materiales reciclados: 5 puntos.
 * Robot más original: 5 puntos.
@@ -57,7 +57,7 @@ baterías eléctricas integradas en el propio robot.
 * Robot más rápido 3ª posición: 2 punto.
 
  
-##### Sección 6: Jueces
+### Sección 6: Jueces
 
 En la sala habrá en todo momento una persona identificada como “juez principal” y será la encargada de comunicar cualquier decisión final con respecto al desarrollo de la competición e interpretación de las normas. Otras personas pueden estar identificadas como “juez asistente” y ayudarán al juez principal en las tareas que tenga delegadas.
 
@@ -65,7 +65,7 @@ El participante siempre se debe dirigir al juez principal para cualquier reclama
 
 Las decisiones finales siempre las toma el juez principal.
 
-##### Sección 7: Recursos de interés
+### Sección 7: Recursos de interés
 
   * [Tutorial a robot sigue líneas básico](http://todohacker.com/tutoriales/tutorial-robot-siguelineas)
 

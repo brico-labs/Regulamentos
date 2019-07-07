@@ -208,14 +208,14 @@ As decisións finais sempre as toma o xuíz principal.
     
     7. (1.4.7) Espérase que todos os construtores sigan prácticas básicas de seguridade durante os traballos nos robots na área de probas. Por favor, permanece alerta e consciente dos teus veciños na área de probas e coa xente que pasa. 
 
-##### 2. Categoría de peso
+#### 2. Categoría de peso
 
 1. (2.1) O peso máximo dos robots é de 454g. Este peso está baseado na categoría dunha
 Libra. Unha das categorías máis estándar mundialmente dentro deste tipo de competicións.
 
 2. (2.2) Non hai límite de tamaño sempre que o robot poida ser introducido na área de combate.
 
-##### 3. Mobilidade
+#### 3. Mobilidade
 
 Todos os robots deben ter mobilidade facilmente observable e controlada para poder
 competir. As categorías de movemento son as seguintes:
@@ -228,7 +228,7 @@ competir. As categorías de movemento son as seguintes:
 
 Os saltos están permitidos. Non se permite que o robot voe por ningún método.
 
-##### 4. Requirimentos de control dos robots
+#### 4. Requirimentos de control dos robots
 
 1. (4.1) Os robots deben ser radiocontrolados, ou usar un sistema aprobado como o descrito no punto 4.3.3. A frecuencia permitida é 2.4Ghz.
 
@@ -242,11 +242,11 @@ Os saltos están permitidos. Non se permite que o robot voe por ningún método.
     
 4. (4.4) Non é obrigatorio usar interruptores de alimentación separados para o receptor da radio, pero é recomendable.
 
-##### 5. Autonomía
+#### 5. Autonomía
 
 Non se permite que o robot realice accións de maneira automática.
 
-##### 6. Baterías e fontes de alimentación
+#### 6. Baterías e fontes de alimentación
 
 6.1. Só se permiten baterías que non derramen ou rocíen calquera dos seus contidos cando se danen ou se invistan. As baterías permitidas son: NiCad, NiMH, pilas secas, AGM, Li lon ou LiPo.
 
@@ -258,7 +258,7 @@ Non se permite que o robot realice accións de maneira automática.
 
 6.5. Todos os robots teñen que ter unha luz claramente visible que indique que a batería principal está conectada.
 
-##### 7. Neumática
+#### 7. Neumática
 
 1. (7.1) Exemplos de sistemas pneumáticos:
 
@@ -273,22 +273,22 @@ Non se permite que o robot realice accións de maneira automática.
 
 5. (7.5) Todos os compoñentes deben estar montados dunha maneira segura no robot, prestando especial atención ás válvulas e á armadura, co fin de que non se danen.
 
-##### 8. Hidráulica
+#### 8. Hidráulica
 
 Se o teu robot posúe mecanismos hidráulicos ponche en contacto coa organización para
 precualificar o teu robot antes do evento.
 
-##### 9. Motores de combustión interna e combustibles líquidos
+#### 9. Motores de combustión interna e combustibles líquidos
 
 Os motores de combustión interna non están permitidos neste evento.
 
-##### 10. Peiraos e volantes (barras rotatorias, discos, etc.)
+#### 10. Peiraos e volantes (barras rotatorias, discos, etc.)
 
 1. (10.1) Calquera volante ou dispositivo similar de almacenamento de enerxía cinética non se debe activar de forma algunha fose da área de combate.
 
 2. (10.2) Todos os resortes, volantes, e dispositivos de almacenamento de enerxía cinética ou similares deben volver a unha posición segura ante a perda de contacto por radio ou alimentación do robot en menos de 60 segundos.
 
-##### 11. Armas e materiais prohibidos
+#### 11. Armas e materiais prohibidos
 
 As seguintes armas e materiais están absolutamente prohibidos:
 
@@ -319,7 +319,7 @@ ao seguinte:
     
 6. (11.6) Os materiais perigosos teñen prohibido o seu uso en calquera lugar do robot no que poidan entrar en contacto cos seres humanos.
 
-#### Sección 3: Anexo
+### Sección 3: Anexo
 Regulamentación baseada en:
 
 1. SPARC Standarized Procedures for the Advancement of Robotic Combat

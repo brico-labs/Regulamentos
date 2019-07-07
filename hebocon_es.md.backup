@@ -48,8 +48,8 @@ Excepción: Si un robot se sale del tablero sin que hubiera entrado en contacto 
 
 * Los enfrentamientos se llevarán a cabo según la tabla de cruces del torneo.
 * El ganador de cada enfrentamiento se lleva 10 puntos.
-* La penalización por incumplir el reglamento de uso de alta tecnología es de 6 puntos por característica en cada enfrentamiento. Normalmente, el ganador de las eliminatorias sería el ganador de la competición, pero si su puntuación total se ve afectada por incumplir las reglas de alta tecnología, podría haber otro ganador si tuviera una puntuación superior.
-* El hecho de participar en una competición de Hebocon es un premio en sí mismo. Es posible que no haya premios materiales, o tal vez juntemos todas las piezas que han ido perdiendo otros robots y te las entreguemos como premio. Simplemente disfruta del momento de Hebocon.
+* La penalizacion por incumplir el reglamento de uso de alta tecnología es de 6 puntos por característica en cada enfrentamiento. Normalmente, el ganador de las eliminatorias sería el ganador de la competición, pero si su puntuación total se ve afectada por incumplir las reglas de alta tecnología, podría haber otro ganador si tuviera una puntuación superior.
+* El hecho de participar en una competición de Hebocon es un premio en sí mismo. Es posile que no haya premios materiales, o tal vez juntemos todas las piezas que han ido perdiendo otros robots y te las entreguemos como premio. Simplmente disfruta del momento de Hebocon.
 
 ##### Especificaciones de los robots
 
@@ -69,7 +69,7 @@ En caso de que el robot posea algunas de las siguientes características debido 
 
 La penalización sólo será aplicada en las batallas donde la característica de alta tecnología se haya utilizado.
 
-La penalización no será aplicada en caso de que haya una característica de alta tecnología, pero no se haya implementado por las capacidades técnicas de su creador. Por ejemplo, un robot compuesto de un coche de radiocontrol con un disfraz de conejo, puesto que el creador no está relacionado con la creación de ese sistema de control remoto.
+La penalización no será aplicada en caso de que haya una caracterñistica de alta tecnología, pero no se haya implementado por las capacidades técnicas de su creador. Por ejemplo, un robot compuesto de un coche de radiocontrol con un disfraz de conejo, puesto que el creador no está relacionado con la creación de ese sistema de control remoto.
 
 Los participantes podrán comprobar con antelación si su robot puede ser penalizado por usar alta tecnología con los organizadores.
 
