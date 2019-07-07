@@ -4,17 +4,17 @@ title: Reglamento de Laberinto
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="50">](labirinto_gl)
 
-# Reglamento de Laberinto
+### Reglamento de Laberinto
 
   - Revisión 3 (2018): vigente desde OSHWDem 2018
 
-### Objetivo
+##### Objetivo
 
 Un robot autónomo debe resolver un laberinto y completar su recorrido desde la celda de salida hasta la celda de llegada en el menor tiempo posible.
 
 Dispondrá de 5 minutos para reconocer el laberinto y 3 intentos para completarlo en el menor tiempo que pueda. Ganará la competición el robot que complete el recorrido en el menor tiempo.
 
-### El laberinto
+##### El laberinto
 
 ![Imagen del labirinto](img/maze_finish_line.jpg)
 
@@ -47,7 +47,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 14. Para la generación del laberinto se va a utilizar el siguiente repositorio: [https://github.com/brico-labs/OshwdemMazes](https://github.com/brico-labs/OshwdemMazes). El programa se ejecutará justo antes del comienzo de la prueba y servirá para configurar las paredes del laberinto.
 
-### Los robots
+##### Los robots
 
 1. La placa controladora del robot, en caso de haberla, debe estar basada en tecnologías abiertas. También son válidas las plataformas o kits de robótica basados en tecnologías abiertas.
 
@@ -60,7 +60,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 6. Los robots deben funcionar únicamente con la energía proporcionada por pilas o baterías eléctricas integradas en el propio robot.
 
-### Desarollo de la competición
+##### Desarollo de la competición
 
 1. El orden de participación vendrá dado por el orden de llegada o anotación en la lista de inscritos a la competición. Se avisará con antelación al desarrollo del mismo el orden de participación de cada robot.
 
@@ -93,7 +93,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 13. El tiempo a tener en cuenta para la competición con otros robots será el menor de los tiempos en completar adecuadamente el recorrido del laberinto.
 
-### Ganadores de la competición
+##### Ganadores de la competición
 
 El robot que haya completado el laberinto en el menor tiempo será el ganador de la competición. El segundo y tercer clasificado será el que tenga el segundo y tercer menor tiempo respectivamente.
 
@@ -101,7 +101,7 @@ En caso de empate o falta de puntuación para alguno de los clasificados, los ju
 
 Cada participante podrá llevar sólo un premio de los tres establecidos.
 
-### Jueces
+##### Jueces
 
 En la sala habrá en todo momento una persona identificada como “juez principal” y será la encargada de comunicar cualquier decisión final con respecto al desarrollo del competición e interpretación de las normas.
 
@@ -109,7 +109,7 @@ Otras personas pueden estar identificadas como “juez asistente” y ayudarán 
 
 Las decisiones finales siempre las toma el juez principal.
 
-### Recursos de interés
+##### Recursos de interés
 
   * [Repositorio para la generación de laberintos](https://github.com/brico-labs/OshwdemMazes)
   * [Solving a Maze](https://www.cs.bu.edu/teaching/alg/maze/)
