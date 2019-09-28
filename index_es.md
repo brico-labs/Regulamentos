@@ -99,7 +99,7 @@ layout: regulamento_es
 <div markdown="1">
 ## Persecución
 
-[![Persecución](img/persecucion.jpg)](velocistas_persecucion_es)
+[![Persecución](img/persecucion.png)](velocistas_persecucion_es)
 [Photo credits](https://github.com/open-robosports/normativa-velocistas)
 </div>
 
