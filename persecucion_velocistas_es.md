@@ -48,7 +48,7 @@ El peso máximo de los robots será inferior o igual a **2 kg**. Las medidas má
 El funcionamiento de los velocistas debe ser autónomo, tanto en su sistema de control y su alimentación, y estará integrado en el propio robot.
 Si el robot posee algún tipo de comunicación inalámbrica, esta deberá ser mostrada a los jueces con el objetivo de verificar que no se utilizará durante la prueba.
 
-Al inicio, lo robots deben estar programados de forma que tras conectarse o pulsar un botón esperen **5 segundos** antes de ponerse en marcha. Si un robot tarda menos de ese tiempo en empezar a moverse será descalificado.
+Al inicio, los robots deben estar programados de forma que tras conectarse o pulsar un botón esperen **5 segundos** antes de ponerse en marcha. Si un robot tarda menos de ese tiempo en empezar a moverse será descalificado.
 
 El robot, tanto por construcción o programación, debe permitir su utilización sobre el circuito sin causar ningún daño a este ni a otros robots participantes.
 
@@ -78,7 +78,7 @@ Se permite que el participante elija el carril sobre el que circulará su robot 
 
 En esta fase de clasificación, la salida y la meta coinciden en la misma línea, donde se colocará un cronómetro que detecte automáticamente el paso del robot para mayor precisión de la medida de tiempos. El robot ha de iniciar la marcha inmediatamente detrás de la línea de salida, imposibilitando una aceleración previa para tomar la salida con velocidad. El cronómetro comenzará a contar el tiempo en el momento en que detecte el paso del robot por la línea de salida y parará una vez el robot vuelva a cruzar la línea.
 
-Si el robot no consigue completar ninguno de los intentos, se tendrá en cuenta la distancia del trazado que haya sido capa de recorrer para determinar la clasificación. En el caso de que el robot no sea capaz de iniciar la salida por avería o problemas de puesta a punto se le permitirá repetir el intento. Si tras haberlo repetido no consigue iniciar la marcha, se anulará el intento.
+Si el robot no consigue completar ninguno de los intentos, se tendrá en cuenta la distancia del trazado que haya sido capaz de recorrer para determinar la clasificación. En el caso de que el robot no sea capaz de iniciar la salida por avería o problemas de puesta a punto se le permitirá repetir el intento. Si tras haberlo repetido no consigue iniciar la marcha, se anulará el intento.
 
 Se clasificarán los 4, 8 o 16 robots con mejor tiempo, a elección de la organización del evento, que lo comunicará antes de la realización de la competición. El número de robots clasificados determinará el número de rondas eliminatorias.
 
