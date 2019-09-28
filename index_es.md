@@ -102,3 +102,8 @@ layout: regulamento_es
 [![Persecución](img/persecucion.jpg)](velocistas_persecucion_es)
 [Photo credits](https://github.com/open-robosports/normativa-velocistas)
 </div>
+
+    </div>
+  </div>
+
+</div>
