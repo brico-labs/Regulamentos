@@ -91,3 +91,14 @@ layout: regulamento_gl
   </div>
 
 </div>
+<div class="row">
+
+  <div class="col s12 m6">
+    <div class="icon-block">
+
+<div markdown="1">
+## Persecución
+
+[![Persecución](img/persecucion.jpg)](velocistas_persecucion_gl)
+[Photo credits](https://github.com/open-robosports/normativa-velocistas)
+</div>
