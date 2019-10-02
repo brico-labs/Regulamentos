@@ -6,15 +6,14 @@ title: Regulamento de Labirinto
 
 ### Regulamento de Labirinto
 
-  - Revisión 3 (2018): vixente dende OSHWDem 2018
+  - Revisión 4 (2019): vixente dende OSHWDem 2019
 
 ##### Obxectivo
 
 Un robot autónomo debe resolver un labirinto e completar o seu percorrido dende a cela de
 partida “saída” até a cela de chegada “meta” no menor tempo posible.
 
-Disporá de 5 minutos para recoñecer o labirinto e de 3 intentos para completalo no menor
-tempo que poida. Gañará a competición o robot que complete o percorrido no menor tempo.
+Disporá de 7 minutos para completalo no menor tempo que poida. Gañará a competición o robot que complete o percorrido no menor tempo.
 
 ##### O labirinto
 
@@ -94,81 +93,47 @@ eléctricas integradas no propio robot.
 
 ##### Desenvolvemento da competición
 
-1. A orden de participación virá dado pola orden de chegada ou anotación na lista de
-inscritos á competición. Se avisará con antelación o desenvolvemento do mesmo a
-orden de participación de cada robot.
+1. A orden de participación virá dado pola orden de chegada ou anotación na lista de inscritos á competición. Se avisará con antelación o desenvolvemento do mesmo a orden de participación de cada robot.
 
-2. Momentos antes do comenzo da competición se amosará o percorrido do labirinto.
-Dende ese mesmo instante os robots deben estar na mesa dos xuíces e non se permite
-ningún cambio de peza, carga de programa ou comunicación remota co robot.
+2. Momentos antes do comenzo da competición se amosará o percorrido do labirinto. Dende ese mesmo instante os robots deben estar na mesa dos xuíces e non se permite ningún cambio de peza, carga de programa ou comunicación remota co robot.
 
-3. Cada participante poderá inscribir e participar con até tres robots, pero soamente
-poderá ter opción a un dos premios se un ou varios dos seus robots resultan
-gañadores.
+3. Os robots poderán acceder ou ser retirados do labirinto unicamente por orde dos xuíces.
 
-4. Os robots poderán acceder ou ser retirados do labirinto unicamente por orde dos
-xuíces.
+4. Cada robot disporá únicamente de 7 minutos para recoñecer, cartografar e resolver o labirinto. O tempo comeza a contar no momento que o xuíz dá a orde e remata ao finalizar o tempo disposto ou en calquera momento por decisión do participante.
 
-5. Cada robot disporá de 5 minutos para recoñecer o labirinto. O tempo comeza a contar
-no momento que o xuíz dá a orde e remata ao finalizar o tempo disposto ou en
-calquera momento por decisión do participante.
+5. Durante os 7 minutos de tempo que dispón cada robot, se poderá iniciar o percorrido tantas veces como queira o constructor. O xuiz disporá dun segundo cronómetro co que tomará os tempos parciais de cada un dos intentos de resolución do labirinto.
 
-6. Soamente durante o tempo de recoñecemento, o operador do robot poderá reiniciar o
-percorrido ou recoñecemento tantas veces como queira, ademais de levar a cabo as
-seguintes operacións:
+6. O cronómetro de tempos parciais se porá en marcha cando o robot toca a liña divisoria da cela de saída.
+
+7. O cronómetro de tempos parciais parará cando o robot supera completamente a porta de meta.
+
+8. O operador do robot poderá realizar os axustes, dentro do seu tempo de 7 minutos, de acordo as seguintes operacións: 
 
     1. Axuste electrónico, mediante controis integrados no robot, da configuración que non aporte información relativa ao percorrido do labirinto.
     2. Axuste manual dos sensores ou dos elementos motrices do robot.
     3. Substitución das baterías.
     4. Facer reparacións de pezas danadas ou substituílas por outras que teñen similares características que a peza danada.
 
-7. Dentro do tempo de recoñecemento do labirinto, o robot que consiga entrar á zona de
-meta poderá seguir operativo ou continuar explorando o labirinto até que finalice o
-tempo establecido.
+9. En caso de colisión coas paredes do labirinto ou detención do robot por máis de 10 segundos sen que este teña intención de movemento ou de progresión no percorrido, se perderá o intento en curso.
 
-8. Unha vez transcorrido o tempo de recoñecemento, o robot terá 3 intentos para
-completar o percorrido do labirinto dende a zona de saída até a zona de meta no
-menor tempo posible. **O tempo de cada intento estará limitado a 3 minutos.** O xuíz
-indicará cando comeza e finaliza cada intento.
-
-9. O cronómetro se porá en marcha cando o robot toca a liña divisoria da cela de saída.
-
-10. O cronómetro parará cando o robot supera completamente a porta de meta.
-
-11. O operador do robot poderá realizar os axustes, entre cada intento, de acordo as
-operacións detalladas no punto 6.i e 6.ii desta mesma sección.
-
-12. En caso de colisión coas paredes do labirinto ou detención do robot por máis de 10
-segundos sen que este teña intención de movemento ou de progresión no percorrido,
-se perderá o intento en curso.
-
-13. O tempo a ter en conta para a competición cos outros robots será o menor dos tempos
-en completar axeitadamente o percorrido do labirinto.
+10. O tempo a ter en conta para a competición cos outros robots será o menor dos tempos en completar axeitadamente o percorrido do labirinto.
 
 ##### Gañadores da competición
 
-O robot que haxa completado o labirinto no menor tempo será o gañador da competición. O
-segundo e terceiro clasificado será o que teña o segundo e terceiro menor tempo
-respectivamente.
+O robot que haxa completado o labirinto no menor tempo será o gañador da competición. O segundo e terceiro clasificado será o que teña o segundo e terceiro menor tempo respectivamente.
 
 En caso de empate ou falta de puntuación para algún dos clasificados, os xuíces
-determinarán os gañadores en función das características técnicas do robot, comportamento
-no labirinto ou outros factores.
+determinarán os gañadores en función das características técnicas do robot, comportamento no labirinto ou outros factores.
 
 Cada participante poderá levar só un premio dos tres establecidos.
 
 ##### Xuíces
 
-Na sala haberá en todo momento unha persoa identificada como “xuíz principal” e será a
-encargada de comunicar calquera decisión final con respecto ao desenvolvemento da
-competición e interpretación das normas.
+Na sala haberá en todo momento unha persoa identificada como “xuíz principal” e será a encargada de comunicar calquera decisión final con respecto ao desenvolvemento da competición e interpretación das normas.
 
-Outras persoas poden estar identificadas como “xuíz asistente” e axudarán ao xuíz principal
-nas tarefas que teña delegadas.
+Outras persoas poden estar identificadas como “xuíz asistente” e axudarán ao xuíz principal nas tarefas que teña delegadas.
 
-O participante sempre se debe dirixir ao xuíz principal para calquera reclamación ou
-aclaración das normas. Entón, se o xuíz principal o estima oportuno, pode redirixir ao
-participante a un xuíz asistente.
+O participante sempre se debe dirixir ao xuíz principal para calquera reclamación ou aclaración das normas. Entón, se o xuíz principal o estima oportuno, pode redirixir ao participante a un xuíz asistente.
 
 As decisións finais sempre as tomará o xuíz principal.
 
