@@ -168,7 +168,6 @@ En esta modalidade se realizan combates entre cada parexa de robots, de tal xeit
 Puntuación final do combate:
 Os robots gañan **2 puntos** na clasificación por cada combate gañado e **1 punto** por cada combate empatado. Os puntos gañados en cada combate son independentes dos asaltos ganados.
 
-Un asalto se considerará nulo (non empate) no caso de que os dous robots non inicien a saida nos **10 segundos** posteriores ós **5 segundos** de espera. Se dará un aviso ós competidores e se repetirá unha soa vez. Se volve a ser nulo, se considerará empate.
 
 Para gañar os **2 puntos** correspondentes á victoria do combate hai que gañar **2 dos 3 asaltos**. Se soamente se gaña **1 asalto** e se empatan **2 asaltos** por inactividade, non se gañan puntos.
 
