@@ -121,30 +121,42 @@ O seguinte non está incluído dentro do tempo de partida:
 ##### Sección 7: Puntuación
 
 ###### Artigo 14.- Puntuación
-Un punto outórgase cando:
+Se considera que un robot gaña o asalto cando:
 
-1. Un participante forza ao robot contrincante a tocar a área fóra do Dohyo, incluíndo o bordo lateral deste.
+1. Forza o robot contrincante a tocar a área fóra do Dohyo, incluíndo o bordo lateral do mesmo.
 
-2. O robot contrincante, por si mesmo, toca a área fóra do Dohyo, incluíndo o bordo lateral deste.
+2. O robot contrincante, por si mesmo, toca a área fóra do Dohyo, incluíndo o bordo lateral do mesmo.
 
-3. Cando se requira a decisión dos xuíces para determinar o gañador dunha rolda teranse en conta as seguintes consideracións:
+3. O robot contrincante reincida en non respectar o intervalo dos 5 segundos de espera o poñerse en funcionamento, previo aviso de penalización por parte dos xuices.
 
-    1. méritos técnicos no movemento e funcionamento dun robot.
-    
-    2. as penalizacións durante o asalto.
-    
-    3. actitude do participante durante o combate.
-    
+4. O robot contrincante non comeza a moverse antes dos 5 segundos posteriores ós 5 segundos de espera.
 
-4. O asalto se considerará empate nas seguintes condicións:
+Un asalto se considera empate nas seguintes circunstancias:
 
-    1. os robots están enredados ou orbitando entre si sen ningún progreso aparente durante 5 segundos. Se non está clara a intención dos robots, o xuíz pode prorrogar o devandito prazo ata un máximo de 30 segundos.
-    
-    2. ambos os dous robots móvense sen intención de loitar, ou páranse ao mesmo tempo e permanecen detidos durante 5 segundos sen tocarse. Non obstante, se un robot detén o seu movemento en primeiro lugar, transcorridos cinco segundos será declarado como que non ten intención de loitar. Neste caso, o opoñente recibirá un punto, mesmo se este último tamén se detén. Se os dous robots se moven e non está claro se se están a progresar, o xuíz pode prorrogar o prazo ata un máximo de 30 segundos.
-    
-    3. se os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo tempo, e non se pode determinar quen tocou en primeiro lugar, comezarase un novo asalto.
-    4. venceu o tempo máximo do asalto e ningún dos dous robots saleu do Dohyo.
-    
+1. Os robots están enredados ou orbitando entre si sen ningún progreso aparente durante 5 segundos. Se non está clara a intención dos robots, o xuíz pode prorrogar o devandito prazo ata un máximo de 30 segundos.
+
+2. Ambos os dous robots móvense sen intención de loitar, ou páranse ao mesmo tempo e permanecen detidos durante 5 segundos sen tocarse. Non obstante, se un robot detén o seu movemento en primeiro lugar, transcorridos cinco segundos será declarado como que non ten intención de loitar. Neste caso, o opoñente recibirá un punto, mesmo se este último tamén se detén. Se os dous robots se moven e non está claro se se están a progresar, o xuíz pode prorrogar o prazo ata un máximo de 30 segundos.
+
+3. Os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo tempo, e non se pode determinar quen tocou en primeiro lugar.
+
+4. Un dos robots sale por si mesmo do dohyo e o outro permanece parado durante os 5 segundos posteriores.
+
+5. Venceu o tempo máximo do asalto e ningún dos dous robots saleu do Dohyo.
+
+Un asalto se considera nulo cando nos 5 segundos posteriores ós 5 segundos de espera
+
+	1. ningún dos robots comeza a moverse.
+	2. os robots saen do dohyo sen tocarse.
+	3. un dos robots sae do dohyo sen tocar o opoñente e o outro non comeza a moverse.
+	
+Si o asalto resulta nulo, se dará un aviso ós competidores e se repetirá unha soa vez. Se volve ser nulo, se considerará empate por inactividade.
+
+Cando se precise a decisión dos xuíces para determinar o gañador dunha rolda teranse en conta as seguintes consideracións:
+
+    1. méritos técnicos no movemento e funcionamento dun robot.    
+    2. as penalizacións durante o asalto.    
+    3. actitude do participante durante o combate.   
+
 
 #### Sección 8: Sistema de competición
 Se contemplan 3 modalidades de competición, a elección da organización da proba e en función do tempo e dos medios dos que dispoñan para a sua realización. A modalidade elexida se comunicará ós participantes antes da competición.

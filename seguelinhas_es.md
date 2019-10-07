@@ -10,7 +10,7 @@ title: Reglamento de Sigue líneas
 
 ##### Objetivo
 
-En esta prueba de iniciación se valora tanto la construcción del robot como su desempeño en la pista. Cada robot tendrá dos oportunidades de recorrer el circuíto en el menor tiempo que pueda y recibir la mejor puntuación posible.
+En esta prueba de iniciación se valora tanto la construcción del robot como su desempeño en la pista. Cada robot tendrá dos oportunidades de recorrer el circuito en el menor tiempo que pueda y recibir la mejor puntuación posible.
 El reglamento se detalla a continuación.
 
 ##### Sección 1: Definición
@@ -19,7 +19,7 @@ Dentro de un área delimitada de unos 4m², se establecerá un recorrido de una 
 
 ##### Sección 2: Trazado
 
-El recorrido del circuito es cerrado, los puntos de salida y llegada son el mismo. Tendrá una longitud aproximada de 4 metros e incluye rectas y curvas de diferentes radios. La curva de menor rádio no será inferior a los 125 mm, y la distancia mínima entre dos partes próximas del recorrido no será inferior a los 250 mm.
+El recorrido del circuito es cerrado, los puntos de salida y llegada son el mismo. Tendrá una longitud aproximada de 4 metros e incluye rectas y curvas de diferentes radios. La curva de menor radio no será inferior a los 125 mm, y la distancia mínima entre dos partes próximas del recorrido no será inferior a los 250 mm.
 Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de la prueba.
 
 ![Imaxe do labirinto](img/linefollower_track.jpg)
@@ -33,8 +33,7 @@ Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de
 3. El robot no puede aprender el recorrido del circuito ni puede programarse para que siga una ruta predeterminada.
 4. Los robots deberán tener una masa máxima de 2000 gramos y se recomienda unas medidas máximas que no superen los 250 mm de largo y 150 mm de ancho.
 5. El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
-6. Los robots deben funcionar únicamente con la energía proporcionada por pilas o
-baterías eléctricas integradas en el propio robot.
+6. Los robots deben funcionar únicamente con la energía proporcionada por pilas o baterías eléctricas integradas en el propio robot.
  
 ##### Sección 4: Puntuación
 
@@ -50,7 +49,6 @@ baterías eléctricas integradas en el propio robot.
 * Mejor robot con materiales reciclados: 5 puntos.
 * Robot más original: 5 puntos.
 * Robot con la mejor documentación online: 6 puntos.
-* Robot que reciba más retweets en twitter: 3 puntos.
 * Cada vuelta completada: 2 puntos.
 * Robot más rápido 1ª posición: 4 puntos.
 * Robot más rápido 2ª posición: 3 puntos.

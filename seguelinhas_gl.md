@@ -49,7 +49,6 @@ As medidas e percorrido do circuíto no se darán a coñecer até o comezo da pr
 * Mellor robot con materiais reciclados: 5 puntos.
 * Robot máis orixinal: 5 puntos.
 * Robot coa mellor documentación online: 6 puntos.
-* Robot que reciba máis retweets en twitter: 3 puntos.
 * Cada volta completada: 2 puntos.
 * Robot máis rápido 1ª posición: 4 puntos.
 * Robot máis rápido 2ª posición: 3 puntos.
