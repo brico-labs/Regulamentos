@@ -57,7 +57,7 @@ Este espacio puede ser de cualquier color, material o forma. Este área, con el 
 
 Clase | Altura | Anchura | Longitud | Masa
 :--- | :---: | :---: | :---: | :---: |
-**Mini** | 10cm | 10 cm | 10 cm | 500 gr
+**Mini** | ilimitada | 10 cm | 10 cm | 500 gr
 
 4. Clases autónomas: Los robots de la clase Mini (500gr) deben ser autónomos. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo). El funcionamiento autónomo del robot no debe comenzar antes de 5 segundos después de ser iniciado por el usuario. Los robots que no respeten el intervalo de los 5 segundos pierden el punto de ese asalto.
 
