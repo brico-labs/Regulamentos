@@ -66,7 +66,7 @@ layout: regulamento_es
 <div markdown="1">
 ## Hebocon
 
-[![Hebocon](hebocon.jpg)](hebocon_es)
+[![Hebocon](img/hebocon.jpg)](hebocon_es)
 </div>
 
     </div>
