@@ -6,6 +6,18 @@
  * Made By MaterializeCSS.com
  */
 
+.light-blue.lighten-1 {
+  background-color: #57BBEF !important;
+}
+
+a {
+  color: #57BBEF;
+}
+
+.orange {
+  background-color: #BC84EF !important;
+}
+
 .icon-block {
   padding: 0 15px;
 }

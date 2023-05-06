@@ -11,8 +11,7 @@ layout: regulamento_gl
 <div markdown="1">
 ## Labirinto
 
-[![Maze](img/maze.jpg)](labirinto_gl)
-[Photo credits](https://www.flickr.com/photos/fdecomite/7060399989)
+[![Maze](img/laberinto.jpg)](labirinto_gl)
 </div>
 
     </div>
@@ -24,8 +23,7 @@ layout: regulamento_gl
 <div markdown="1">
 ## Segueliñas
 
-[![Line follower](img/linefollower.jpg)](seguelinhas_gl)
-[Photo credits](https://www.flickr.com/photos/vanf/5096318332)
+[![Line follower](img/siguelineas.jpg)](seguelinhas_gl)
 </div>
 
     </div>
@@ -40,8 +38,7 @@ layout: regulamento_gl
 <div markdown="1">
 ## Sumo
 
-[![Sumo](img/loita_sumo.jpg)](loita_sumo_gl)
-[Photo credits](https://www.flickr.com/photos/nataliejohnson/261358739)
+[![Sumo](img/sumo.jpg)](loita_sumo_gl)
 </div>
 
     </div>
@@ -53,8 +50,7 @@ layout: regulamento_gl
 <div markdown="1">
 ## Combate
 
-[![Free Combat](img/loita_libre.jpg)](combate_gl)
-[Photo credits](https://www.flickr.com/photos/jed_september/8460744197/)
+[![Free Combat](img/combate.jpg)](combate_gl)
 </div>
 
     </div>
@@ -70,8 +66,7 @@ layout: regulamento_gl
 <div markdown="1">
 ## Hebocon
 
-[![Hebocon](img/hebocon_image.png)](hebocon_gl)
-[Photo credits](https://www.flickr.com/photos/wurz/4263384186)
+[![Hebocon](img/hebocon.jpg)](hebocon_gl)
 </div>
 
     </div>
@@ -84,7 +79,6 @@ layout: regulamento_gl
 ## Velocistas
 
 [![Velocistas](img/velocistas.jpg)](velocistas_gl)
-[Photo credits](https://www.flickr.com/photos/canadian_explorer_2010/15709047410)
 </div>
 
     </div>
