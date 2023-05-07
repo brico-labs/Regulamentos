@@ -4,7 +4,7 @@ title: Regulamento de Sumo
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="50">](loita_sumo_es)
 
-### Regulamento de Sumo (Minisumo)
+### Regulamento de Mini sumo
 
   - Revisión 4 (2019): vixente dende OSHWDem 2019
 

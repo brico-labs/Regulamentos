@@ -36,9 +36,9 @@ layout: regulamento_es
     <div class="icon-block">
 
 <div markdown="1">
-## Sumo
+## Mini sumo
 
-[![Sumo](img/sumo.jpg)](loita_sumo_es)
+[![Mini sumo](img/sumo.jpg)](loita_sumo_es)
 </div>
 
     </div>
