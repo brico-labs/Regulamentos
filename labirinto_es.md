@@ -62,7 +62,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 ##### Desarrollo de la competición
 
-1. El orden de participación vendrá dado por el orden de llegada o anotación en la lista de inscritos a la competición. Se avisará con antelación al desarrollo del mismo el orden de participación de cada robot.
+1. El orden de participación será decidido por la organización. Se avisará con antelación al desarrollo del mismo el orden de participación de cada robot.
 
 2. Momentos antes del comienzo del competición se revelará el recorrido del laberinto. Desde ese mismo instante los robots deben estar en la mesa de los jueces y no se permite ningún cambio de pieza, carga de programa o comunicación remota con el robot.
 
@@ -106,7 +106,6 @@ Las decisiones finales siempre las toma el juez principal.
 ##### Recursos de interés
 
   * [Repositorio para la generación de laberintos](https://github.com/brico-labs/OshwdemMazes)
-  * [Solving a Maze](https://www.cs.bu.edu/teaching/alg/maze/)
   * [Think Labyrinth!](http://www.astrolog.org/labyrnth.htm)
 
 
