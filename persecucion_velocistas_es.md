@@ -12,8 +12,7 @@ title: Reglamento velocistas de persecución
 
 La categoría de velocistas de persecución consiste en una prueba de velocidad en la que los robots, que compiten entre si, deberán recorrer un circuito de forma autónoma en el menor tiempo posible.
 
-
-Se trata de un largo recorrido cerrado compuesto por largas rectas y unas curvas muy amplias, de unos 40cm de diámetro.
+Se trata de un largo recorrido cerrado que puede tener rectas y donde las curvas serán muy amplias (40cm de diámetro como mínimo).
 
 Esto permite que los siguelíneas puedan alcanzar velocidades muy altas, llegando incluso a los 3 o 4 m/s, incluso más acelerando en las rectas.
 
@@ -88,7 +87,7 @@ IMPORTANTE: En eventos con tiempo limitado, se podrá prescindir de la fase clas
 
 Los robots clasificados competirán en parejas en rondas eliminatorias, uno contra uno. Los cruces se realizarán siguiendo la clasificación de la fase anterior, de tal forma que el primero competirá contra el último, el segundo contra el penúltimo, etc. Y en caso de que queden puestos vacantes en los cruces o que se produzca algún abandono, el robot que quede sin rival en su enfrentamiento pasará automáticamente a la siguiente ronda eliminatoria.
 
-Una ronda eliminatoria entre dos robots se compone de **3 enfrentamientos**. Para cada enfrentamiento se colocarán los robots en puntos opuestos del circuito, marcados por las líneas de salida, y encarando la pista en el mismo sentido de giro. Al igual que en la fase clasificatoria, los participantes podrán elegir el carril por el que circule su robot y se permitirá que los robots cambien de carril autónomamente durante la carrera. Cuando el juez marque la salida los participantes activarán sus robots y **5 segundos** después comenzarán a correr. Ganará el enfrentamiento el robot que sea capaz de alcanzar al robot contrario, que permanezca más tiempo en pista o que tras **3 minutos** de haber dado la salida haya recortado mayor distancia respecto a su adversario. En caso de que ninguno de los dos robots inicie la marcha se repetirá el enfrentamiento. Y en caso de empate en la ronda se realizará un cuarto enfrentamiento para determinar el ganador.
+Una ronda eliminatoria entre dos robots se compone de hasta **3 enfrentamientos** ganando el que primero consiga dos victorias. Para cada enfrentamiento se colocarán los robots en puntos opuestos del circuito, marcados por las líneas de salida, y encarando la pista en el mismo sentido de giro. Al igual que en la fase clasificatoria, los participantes podrán elegir el carril por el que circule su robot y se permitirá que los robots cambien de carril autónomamente durante la carrera. Cuando el juez marque la salida los participantes activarán sus robots y **5 segundos** después comenzarán a correr. Ganará el enfrentamiento el robot que sea capaz de alcanzar al robot contrario, que permanezca más tiempo en pista o que tras **3 minutos** de haber dado la salida haya recortado mayor distancia respecto a su adversario. En caso de que ninguno de los dos robots inicie la marcha se repetirá el enfrentamiento. Y en caso de empate en la ronda se realizará un cuarto enfrentamiento para determinar el ganador.
 
 Igualmente, se anulará el enfrentamiento en el que un robot ataje en alguna parte del circuito. Se anulará también si al salirse por el exterior invade otro tramo del trazado por donde no debería reincorporarse al circuito, debido al riesgo de colisión frontal entre los robots. Se otorgará el punto del enfrentamiento al robot rival.
 
