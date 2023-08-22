@@ -93,7 +93,7 @@ eléctricas integradas no propio robot.
 
 ##### Desenvolvemento da competición
 
-1. A orden de participación virá dado pola orden de chegada ou anotación na lista de inscritos á competición. Se avisará con antelación o desenvolvemento do mesmo a orden de participación de cada robot.
+1. A orden de participación será decidido pola organización. Se avisará con antelación o desenvolvemento do mesmo a orden de participación de cada robot.
 
 2. Momentos antes do comenzo da competición se amosará o percorrido do labirinto. Dende ese mesmo instante os robots deben estar na mesa dos xuíces e non se permite ningún cambio de peza, carga de programa ou comunicación remota co robot.
 
@@ -140,7 +140,6 @@ As decisións finais sempre as tomará o xuíz principal.
 ##### Recursos de interese
 
   * [Repositorio para a xeración de labirintos](https://github.com/brico-labs/OshwdemMazes)
-  * [Solving a Maze](https://www.cs.bu.edu/teaching/alg/maze/)
   * [Think Labyrinth!](http://www.astrolog.org/labyrnth.htm)
 
 

@@ -13,7 +13,7 @@ title: Regulamento velocistas de persecución
 A categoría de velocistas de persecución consiste nunha proba de velocidade na que os robots, que compiten entre si, deberán percorrer un circuito de forma autónoma no menor tempo posible.
 
 
-Trátase dun largo percorrido pechado, formado por longas rectas e unhas curvas moi amplas, de uns 40cm de diámetro.
+Trátase dun largo percorrido pechado, que pode ter longas rectas e unhas curvas moi amplas (40cm de diámetro mínimo).
 
 Isto permite que os seguelíñas poidan alcanzar velocidades moi altas, chegando incluso os 3 ou 4 m/s, incluso máis acelerando nas rectas.
 
@@ -88,7 +88,7 @@ IMPORTANTE: En eventos con tempo limitado, se poderá prescindir da fase clasifi
 
 Os robots clasificados competirán en parexas en roldas eliminatorias, un contra un. Os cruces se realizarán seguindo a clasificación da fase anterior, de tal xeito que o primero competirá contra o último, o segundo contra o penúltimo, etc. E en caso de que queden postos vacantes nos cruces ou que se produza algún abandono, o robot que quede sen rival no seu enfrontamento pasará automáticamente á siguiente rolda eliminatoria.
 
-Unha rolda eliminatoria entre dous robots se compone de **3 enfrontamentos**. Para cada enfrontamento se colocarán os robots en puntos opostos do circuito, marcados polas líñas de saída, e encarando aa pista no mesmo sentido de xiro. O igual que na fase clasificatoria, os participantes poderán elixir o carril polo el que circule o seu robot e se permitirá que os robots cambien de carril autónomamente durante a carreira. Cando o xuiz marque a saída os participantes activarán os seus robots e **5 segundos** despois comezarán a correr. Gañará o enfrontamento o robot que sexa capaz de alcanzar o robot contrario, que permaneza máis tempo na pista ou que tras **3 minutos** de haber dado a saída haxa recortado maior distancia respecto o seu adversario. En caso de que ningún dos dous robots inicie a marcha se repetirá o enfrotamento. E en caso de empate na rolda se realizará un cuarto enfrontamento para determinar o gañador.
+Unha rolda eliminatoria entre dous robots se compone de ata **3 enfrontamentos** gañando o primeiro en obter dúas victorias. Para cada enfrontamento se colocarán os robots en puntos opostos do circuito, marcados polas líñas de saída, e encarando aa pista no mesmo sentido de xiro. O igual que na fase clasificatoria, os participantes poderán elixir o carril polo el que circule o seu robot e se permitirá que os robots cambien de carril autónomamente durante a carreira. Cando o xuiz marque a saída os participantes activarán os seus robots e **5 segundos** despois comezarán a correr. Gañará o enfrontamento o robot que sexa capaz de alcanzar o robot contrario, que permaneza máis tempo na pista ou que tras **3 minutos** de haber dado a saída haxa recortado maior distancia respecto o seu adversario. En caso de que ningún dos dous robots inicie a marcha se repetirá o enfrotamento. E en caso de empate na rolda se realizará un cuarto enfrontamento para determinar o gañador.
 
 Igualmente, se anulará o enfrontamento no que un robot atalle en algunha parte do circuito. Se anulará tamén si o sairse polo exterior invade outro tramo do trazado por onde non debería reincorporarse o circuito, debido o risgo de colisión frontal entre os robots. Se otorgará o punto do enfrontamento o robot rival.
 

@@ -10,14 +10,14 @@ title: Regulamento de Sumo
 
 ##### Obxectivo
 
-Dous robots compiten entre si simulando os enfrontamentos humanos de sumo. Non se permite aos robots a utilización de armas nin xirar sobre si mesmos, e o único obxectivo é empurrar ao robot opoñente para sacalo do Dohyo. O torneo lévase a cabo mediante o sistema de eliminación simple ao mellor de 3 asaltos. O robot que primeiro consiga dous puntos pasará á seguinte fase do torneo.
+Dous robots compiten entre si simulando os enfrontamentos humanos de sumo. Non se permite aos robots a utilización de armas nin xirar sobre si mesmos (como forma de ataque), e o único obxectivo é empurrar ao robot opoñente para sacalo do Dohyo.
 
 O regulamento completo detállase acontinuación.
 
 ##### Sección 1: Definición dos enfrontamentos de Sumo Robot
 
 ###### Artigo 1.- Definición
-Un enfrontamento líbrase entre dous participantes. De acordo coas regras do xogo (en diante "o presente Regulamento") cada participante compite nun Dohyo (ring de sumo) cun robot construído polo/a participante segundo o especificado na Sección 3. Os asaltos comezan ás ordes do xuíz e continúa ata que un participante gaña dous puntos. O xuíz determina o gañador do enfrontamento.
+Un enfrontamento líbrase entre dous participantes. De acordo coas regras do xogo (en diante "o presente Regulamento") cada participante compite nun Dohyo (ring de sumo) cun robot construído polo/a participante segundo o especificado na Sección 3. Os asaltos comezan ás ordes do xuíz e continúa ata que un participante gaña dous puntos en modalidade clasificatoria ou ata tres puntos en modalidade de liga. O xuíz determina o gañador do enfrontamento.
 
 ##### Sección 2: Requisitos do Dohyo
 
@@ -25,9 +25,9 @@ Un enfrontamento líbrase entre dous participantes. De acordo coas regras do xog
 O interior do Dohyo defínese como a superficie de xogo rodeada dunha liña no bordo, que tamén forma parte da superficie de xogo. Calquera lugar fóra desta área se considera o exterior do Dohyo.
 
 ###### Artigo 3.- Especificacións do Dohyo
-1. O Dohyo será de forma circular e dunhas dimensións axeitadas para cada clase de robot.
-2. As liñas de inicio (shikiri-sen) constan de dúas liñas paralelas pintadas en cor marrón (ou equivalente para a absorción da luz IR) centradas no Dohyo, cunhas dimensións e espazo de separación adaptadas a cada clase de robot. A distancia de separación entre as liñas mídese aos seus bordos exteriores.
-3. A liña do bordo márcase como un anel circular branco dun ancho apropiado para cada clase de robot, no bordo exterior da superficie de xogo. A área do Dohyo esténdese ata o bordo exterior desta liña circular.
+1. O Dohyo será de forma circular e dunhas dimensións axeitadas para a clase mini-sumo.
+2. As liñas de inicio (shikiri-sen) constan de dúas liñas paralelas pintadas en cor marrón (ou equivalente para a absorción da luz IR) centradas no Dohyo, cunhas dimensións e espazo de separación adaptadas a clase mini-sumo. A distancia de separación entre as liñas mídese aos seus bordos exteriores.
+3. A liña do bordo márcase como un anel circular branco, no bordo exterior da superficie de xogo. A área do Dohyo esténdese ata o bordo exterior desta liña circular.
 
 
 <img src="https://raw.githubusercontent.com/brico-labs/Regulamentos/gh-pages/img/minisumo_dohyo.png" width="400" height="400" />
@@ -139,9 +139,7 @@ Un asalto se considera empate nas seguintes circunstancias:
 
 3. Os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo tempo, e non se pode determinar quen tocou en primeiro lugar.
 
-4. Un dos robots sale por si mesmo do dohyo e o outro permanece parado durante os 5 segundos posteriores.
-
-5. Venceu o tempo máximo do asalto e ningún dos dous robots saleu do Dohyo.
+4. Venceu o tempo máximo do asalto e ningún dos dous robots saleu do Dohyo.
 
 Un asalto se considera nulo cando nos 5 segundos posteriores ós 5 segundos de espera
 

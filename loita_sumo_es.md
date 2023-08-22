@@ -10,14 +10,14 @@ title: Reglamento de Sumo
 
 ##### Objetivo
 
-Dos robots compiten entre sí simulando los enfrentamientos humanos de sumo. No se permite a los robots la utilización de armas ni girar sobre sí mismos, y el único objetivo es empujar al robot oponente para sacarlo del Dohyo. El torneo se lleva a cabo mediante el sistema de eliminación simple al mejor de 3 asaltos. El robot que primero consiga dos puntos pasará a la siguiente fase del torneo.
+Dos robots compiten entre sí simulando los enfrentamientos humanos de sumo. No se permite a los robots la utilización de armas ni girar sobre sí mismos (como forma de ataque), y el único objetivo es empujar al robot oponente para sacarlo del Dohyo.
 
 El reglamento se detalla a continuación.
 
 #### Sección 1: Definición de los enfrentamientos de Sumo Robot
 
 ##### Artículo 1.- Definición
-Un enfrentamiento se libra entre dos participantes. De acuerdo con las reglas del juego (en adelante "el presente Reglamento") cada participante compite en un Dohyo (ring de sumo) con un robot construido por el/la participante según lo especificado en la Sección 3. Los asaltos comienzan a las órdenes del juez y continúa hasta que un participante gana dos puntos. El juez determina el ganador del enfrentamiento.
+Un enfrentamiento se libra entre dos participantes. De acuerdo con las reglas del juego (en adelante "el presente Reglamento") cada participante compite en un Dohyo (ring de sumo) con un robot construido por el/la participante según lo especificado en la Sección 3. Los asaltos comienzan a las órdenes del juez y continúa hasta que un participante gana dos puntos en modalidad clasificatoria o hasta tres puntos en modalidad liga. El juez determina el ganador del enfrentamiento.
 
 #### Sección 2: Requisitos del Dohyo
 
@@ -26,9 +26,9 @@ El interior del Dohyo se define como la superficie de juego rodeada de una líne
 
 ##### Artículo 3.- Especificaciones del Dohyo
 
-1. El Dohyo será de forma circular y de unas dimensiones adecuadas para cada clase de robot.
-2. Las líneas de inicio (shikiri-sen) constan de dos líneas paralelas pintadas en color marrón (o equivalente para la absorción de la luz IR) centradas en el Dohyo, con unas dimensiones y espacio de separación adaptadas a cada clase de robot. La distancia de separación entre las líneas se mide a sus bordes exteriores.
-3. La línea del borde se marca como un anillo circular blanco de un ancho apropiado para cada clase de robot, en el borde exterior de la superficie de juego. El área del Dohyo se extiende hasta el borde exterior de esta línea circular.
+1. El Dohyo será de forma circular y de unas dimensiones adecuadas para la clase mini-sumo.
+2. Las líneas de inicio (shikiri-sen) constan de dos líneas paralelas pintadas en color marrón (o equivalente para la absorción de la luz IR) centradas en el Dohyo, con unas dimensiones y espacio de separación adaptadas a la clase mini-sumo. La distancia de separación entre las líneas se mide a sus bordes exteriores.
+3. La línea del borde se marca como un anillo circular blanco en el borde exterior de la superficie de juego. El área del Dohyo se extiende hasta el borde exterior de esta línea circular.
 
 <img src="https://raw.githubusercontent.com/brico-labs/Regulamentos/gh-pages/img/minisumo_dohyo.png" width="400" height="400" />
 
@@ -87,7 +87,8 @@ Clase | Altura | Anchura | Longitud | Masa
 ##### Artículo 7.- Desarrollo de los combates
 1. Cada combate consta de **tres asaltos**, con un tiempo total de tres minutos, a menos que sea extendido por los jueces.
 
-2. El primer participante que gane dos asaltos, dentro del tiempo límite, será el ganador del combate. Un participante recibe un punto cuando gana un asalto. Si se alcanza el límite de tiempo antes de que un participante pueda obtener dos puntos y uno de los participantes ha recibido un punto, el participante con ese punto se considera el ganador del combate.
+2. El primer participante que gane dos asaltos en modalidad clasificatoria o tres en modalidad liga, dentro del tiempo límite, será el ganador del combate. Un participante recibe un punto cuando gana un asalto. Si se alcanza el límite de tiempo antes de que un participante pueda obtener los puntos necesarios y uno de los participantes ha recibido un punto, el participante con ese punto se considera el ganador del combate.
+
 3. En cada uno de los asaltos de un mismo combate se irán alternando las orientaciones de los robots en la salida, en el siguiente orden: de frente, de lado, de espaldas.
 
 4. Cuando haya un empate entre dos participantes y en función de la modalidad de competición, podría establecerse un nuevo asalto (asalto extendido), en cuyo caso se reiniciará el orden de salida, durante el cual el participante que consiga el punto se convertirá en el ganador del combate.
@@ -101,7 +102,7 @@ Tras las instrucciones de los jueces, los dos participantes se acercarán al Doh
 Los asaltos se paran y reanudan por indicación de los jueces.
 
 ##### Artículo 10.- Finalización
-Los saltos finalizan por indicación de los jueces. Los participantes podrán recuperar sus robots en el área del Dohyo.
+Los asaltos finalizan por indicación de los jueces. Los participantes podrán recuperar sus robots en el área del Dohyo.
 
 #### Sección 6: Tiempo combate
 
@@ -138,9 +139,7 @@ detiene. Si los dos robots se mueven y no está claro si se están progresando, 
 
 3. Los dos robots tocan el exterior del Dohyo más o menos al mismo tiempo, y no se puede determinar quién tocó en primer lugar.
 
-4. Uno de los robots se sale por sí mismo del dohyo y el otro permanece parado durante los 5 segundos posteriores.
-
-5. Se ha vencido el tiempo máximo del asalto y ninguno de los dos robots ha salido del Dohyo.
+4. Se ha vencido el tiempo máximo del asalto y ninguno de los dos robots ha salido del Dohyo.
 
 Un asalto se considera nulo cuando en los 5 segundos posteriores a los 5 segundos de espera:
 
