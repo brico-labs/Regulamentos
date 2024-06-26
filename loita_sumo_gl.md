@@ -6,7 +6,7 @@ title: Regulamento de Sumo
 
 ### Regulamento de Mini sumo
 
-  - Revisión 4 (2019): vixente dende OSHWDem 2019
+  - Revisión 5 (2024): vixente dende OSHWDem 2024
 
 ##### Obxectivo
 
@@ -62,17 +62,15 @@ Clase | Altura | Anchura | Lonxitude | Masa
 utilizar calquera método de control, sempre e cando estea integrado enteiramente no robot e non reciba sinais ou indicacións externas (de calquera tipo). O funcionamento autónomo do robot non debe comezar antes de 5 segundos despois de ser iniciado polo usuario. Os robots que non respecten o intervalo dos 5 segundos perden o punto de ese asalto.
 
 5. El robot debe tener un nombre o número con fines de registro y seguimiento.
-6. Se permite a utilización de elementos afiados no corpo do robot, sempre e cando non teña a capacidade de danar o robot contrario, nin o dohyo nin sus inmediacións. Se requerirá ademáis que os robots teñan sistemas de seguridade (como detención de forma remota) a aqueles robots que constituan un perigro pola sua construcción ou funcionamento. É decir, se un robot é moi rápido, e ademáis posue unha cuchilla afiada para utilizarse como cuña, debe poder deterse de forma segura.
+6. Se permite a utilización de elementos afiados no corpo do robot, sempre e cando non teña a capacidade de danar o  contrario, nin o dohyo nin as súas inmediacións. Requerirase ademais que os robots teñan sistemas de seguridade (como detención de forma remota) a aqueles robots que constitúan un perigo pola súa construcción ou funcionamento. É dicir, se un robot é moi rápido, e ademáis posúe un elemento perigoso para empregarse como cuña, debe poder deterse de forma segura.
+
 
 ###### Artigo 6.- Restricións
-1. Dispositivos para crear interferencias (jamming), como LED's IR coa intención de
-saturar os sensores IR do opoñente.
+1. Dispositivos para crear interferencias (jamming), como LEDs IR coa intención de saturar os sensores IR do opoñente.
 
-2. Partes que poidan danar ou romper o Dohyo. Usar partes que poidan danar
-intencionadamente ao robot opoñente ou ao seu operador. Os empuxóns e golpes
-derivados destes non están considerados con intención de causar dano.
+2. Partes que poidan danar ou romper o Dohyo. Usar partes que poidan danar intencionadamente ao robot opoñente ou ao seu operador. Os empuxóns e golpes derivados destes non están considerados con intención de causar dano.
 
-3. Dispositivos que poidan almacenar fluidos, po, gas ou outras substancias para lanzar o opoñente.
+3. Dispositivos que poidan almacenar fluidos, pó, gas ou outras substancias para lanzar ó opoñente.
 
 4. Dispositivos de pirotecnia.
 
@@ -83,6 +81,8 @@ derivados destes non están considerados con intención de causar dano.
 7. O uso de dispositivos para incrementar o "efecto chan", como bombas de baleiro ou imáns. 
 
 8. O uso de calquera tipo de fonte de enerxía para o funcionamento do robot que non sexa a proporcionada por pilas ou baterías eléctricas.
+
+9. O uso de láminas (como as de afeitar) superficies ou obxectos cortantes
 
 ##### Sección 4: Desenvolvemento dos combates
 
