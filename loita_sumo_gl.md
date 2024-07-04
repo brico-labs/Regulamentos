@@ -62,7 +62,10 @@ Clase | Altura | Anchura | Lonxitude | Masa
 utilizar calquera método de control, sempre e cando estea integrado enteiramente no robot e non reciba sinais ou indicacións externas (de calquera tipo). O funcionamento autónomo do robot non debe comezar antes de 5 segundos despois de ser iniciado polo usuario. Os robots que non respecten o intervalo dos 5 segundos perden o punto de ese asalto.
 
 5. El robot debe tener un nombre o número con fines de registro y seguimiento.
-6. Se permite a utilización de elementos afiados no corpo do robot, sempre e cando non teña a capacidade de danar o  contrario, nin o dohyo nin as súas inmediacións. Requerirase ademais que os robots teñan sistemas de seguridade (como detención de forma remota) a aqueles robots que constitúan un perigo pola súa construcción ou funcionamento. É dicir, se un robot é moi rápido, e ademáis posúe un elemento perigoso para empregarse como cuña, debe poder deterse de forma segura.
+6. Permítese a utilización de elementos afiados no corpo do robot, sempre e cando non teña a capacidade de danar o  contrario, nin o dohyo nin as súas inmediacións.
+Permitiriase, por exemplo, unha serra dobrada que se empregase para atrapar a outro robot, pero non co obxecto de danalo, senón de arrastralo.
+
+Requerirase ademais que os robots teñan sistemas de seguridade (como detención de forma remota) a aqueles robots que constitúan un perigo pola súa construcción ou funcionamento. É dicir, se un robot é moi rápido, e ademáis posúe un elemento perigoso para empregarse como cuña, debe poder deterse de forma segura.
 
 
 ###### Artigo 6.- Restricións
