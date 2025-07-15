@@ -6,7 +6,7 @@ title: Reglamento de Sumo
 
 ### Reglamento de Mini Sumo
 
-  - Revisión 5 (2024): vigente desde OSHWDem 2024
+  - Revisión 6 (2025): vigente desde OSHWDem 2025
 
 ##### Objetivo
 
@@ -62,9 +62,9 @@ Clase | Altura | Anchura | Longitud | Masa
 4. Clases autónomas: Los robots de la clase Mini (500gr) deben ser autónomos. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo). El funcionamiento autónomo del robot no debe comenzar antes de 5 segundos después de ser iniciado por el usuario. Los robots que no respeten el intervalo de los 5 segundos pierden el punto de ese asalto.
 
 5. El robot debe tener un nombre o número con fines de registro y seguimiento.
-6. Se permite el uso de elementos afilados en el cuerpo del robot siempre y cuando no tengan la capacidad de dañar al robot contrario, el dohyo ni sus inmediaciones. Se permitiría, por ejemplo, una hoja de sierra doblada que se usara para atrapar a otro robot, pero no con el objetivo de dañarlo, sino de arrastrarlo.
+6. Se permite el uso de elementos afilados en el cuerpo del robot siempre y cuando no tengan la capacidad de dañar al robot contrario, el dohyo ni sus inmediaciones. Se requerirá además que los robots tengan sistemas de seguridad (como detención de forma remota) a aquellos robots que constituyan un peligro por su construcción o funcionamiento. Es decir, si un robot es muy rápido y además posee una cuchilla afilada para usarse como cuña, debe poder detenerse de forma segura.
 
- Se requerirá además que los robots tengan sistemas de seguridad (como detención de forma remota) a aquellos robots que constituyan un peligro por su construcción o funcionamiento. Es decir, si un robot es muy rápido y además posee un elemento peligroso para usarse como cuña, debe poder detenerse de forma segura.
+Se requerirá además que los robots tengan sistemas de seguridad (como detención de forma remota) a aquellos robots que constituyan un peligro por su construcción o funcionamiento. Es decir, si un robot es muy rápido y además posee un elemento peligroso para usarse como cuña, debe poder detenerse de forma segura.
 
 ##### Artículo 6.- Restricciones
 
@@ -83,8 +83,6 @@ Clase | Altura | Anchura | Longitud | Masa
 7. El uso de dispositivos para incrementar el “efecto suelo”, como bombas de vacío o imanes.
 
 8. El uso de cualquier tipo de fuente de energía para el funcionamiento del robot que no sea la proporcionada por pilas o baterías eléctricas.
-
-9. El uso de cuchillas, superficies u objetos cortantes.
 
 #### Sección 4: Desarrollo de los combates
 
