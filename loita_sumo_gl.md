@@ -6,7 +6,7 @@ title: Regulamento de Sumo
 
 ### Regulamento de Mini sumo
 
-  - Revisión 6 (2025): vixente dende OSHWDem 2025
+  - Revisión 7 (2026): vixente dende OSHWDem 2026
 
 ##### Obxectivo
 
@@ -58,12 +58,10 @@ Clase | Altura | Anchura | Lonxitude | Masa
 :--- | :---: | :---: | :---: | :---: |
 **Mini** | ilimitada | 10 cm | 10 cm | 500 gr
 
-4. Clases autónomas: Os robots da clase Mini (500 gr) deben ser autónomos. Pódese
-utilizar calquera método de control, sempre e cando estea integrado enteiramente no robot e non reciba sinais ou indicacións externas (de calquera tipo). O funcionamento autónomo do robot non debe comezar antes de 5 segundos despois de ser iniciado polo usuario. Os robots que non respecten o intervalo dos 5 segundos perden o punto de ese asalto.
-
-5. El robot debe tener un nombre o número con fines de registro y seguimiento.
-
-6. Permítese a utilización de elementos afiados no corpo do robot, sempre e cando non teña a capacidade de danar o robot contrario, nin o dohyo nin as súas inmediacións. Requerirase ademáis que os robots teñan sistemas de seguridade (como detención de forma remota) a aqueles robots que constitúan un perigo pola sua construcción ou funcionamento. É decir, se un robot é moi rápido, e ademáis posúe unha cuchilla afiada para utilizarse como cuña, debe poder deterse de forma segura.
+4. Clases autónomas: Os robots da clase Mini (500 gr) deben ser autónomos. A activación e desactivación de ambos os dous robots na competición será mediante IR usando o protocolo RC05. O xuíz terá un mando e será o encargado de activar e desactivar os robots para iniciar e rematar os asaltos.
+5. O funcionamento autónomo dos robots debe comezar sen atraso tras o inicio co mando por parte do xuíz.
+6. O robot debe ter un nome ou número con fins de rexistro e seguimento.
+7. Permítese a utilización de elementos afiados no corpo do robot, sempre e cando non teña a capacidade de danar o robot contrario, nin o dohyo nin as súas inmediacións. É decir, se un robot é moi rápido, e ademáis posúe unha cuchilla afiada para utilizarse como cuña, debe poder deterse de forma rápida, fiable e segura.
 
 
 ###### Artigo 6.- Restricións
@@ -95,7 +93,7 @@ utilizar calquera método de control, sempre e cando estea integrado enteirament
 ##### Sección 5: Comezo, parada, reanudación e finalización dunha rolda
 
 ###### Artigo 8.- Comezo
-Tras as instrucións dos xuíces, os dous participantes achegaranse ao Dohyo e poñerán un robot na súa metade do Dohyo, detrás da liña de inicio, sen desplazalo lateralmente. O robot ou calquera parte deste non pode ser colocado máis alá da liña de inicio cara ao seu opoñente. Non se require poñer o robot directamente detrás da devandita liña de inicio. Cando o xuíz anuncie o comezo do asalto, os participantes activarán os seus robots e, **despois de cinco segundos de espera**, os robots empezarán a operar. Durante estes cinco segundos os participantes deberán abandonar a área do Dohyo.
+Tras as instrucións dos xuíces, os dous participantes achegaranse ao Dohyo e poñerán un robot na súa metade do Dohyo, detrás da liña de inicio, sen desplazalo lateralmente. O robot ou calquera parte deste non pode ser colocado máis alá da liña de inicio cara ao seu opoñente. Non se require poñer o robot directamente detrás da devandita liña de inicio. Cando o xuíz anuncie o comezo do asalto, activará os robots de forma remota que **empezarán a operar de maneira inmediata**.
 
 ###### Artigo 9.- Parada e reanudación
 Os asaltos se paran e reanudan por indicación dos xuíces.
@@ -126,9 +124,7 @@ Se considera que un robot gaña o asalto cando:
 
 2. O robot contrincante, por si mesmo, toca a área fóra do Dohyo, incluíndo o bordo lateral do mesmo.
 
-3. O robot contrincante reincida en non respectar o intervalo dos 5 segundos de espera o poñerse en funcionamento, previo aviso de penalización por parte dos xuices.
-
-4. O robot contrincante non comeza a moverse antes dos 5 segundos posteriores ós 5 segundos de espera.
+3. O robot contrincante non se mova nos 5 segundos posteriores ao inicio do combate.
 
 Un asalto se considera empate nas seguintes circunstancias:
 
@@ -140,7 +136,7 @@ Un asalto se considera empate nas seguintes circunstancias:
 
 4. Venceu o tempo máximo do asalto e ningún dos dous robots saleu do Dohyo.
 
-Un asalto se considera nulo cando nos 5 segundos posteriores ós 5 segundos de espera
+Un asalto se considera nulo cando nos 5 segundos posteriores ao inicio
 
 	1. ningún dos robots comeza a moverse.
 	2. os robots saen do dohyo sen tocarse.
@@ -155,54 +151,7 @@ Cando se precise a decisión dos xuíces para determinar o gañador dunha rolda 
     3. actitude do participante durante o combate.   
 
 
-#### Sección 8: Sistema de competición
-Se contemplan 3 modalidades de competición, a elección da organización da proba e en función do tempo e dos medios dos que dispoñan para a sua realización. A modalidade elexida se comunicará ós participantes antes da competición.
-
-##### Modalidade de liga
-
-En esta modalidade se realizan combates entre cada parexa de robots, de tal xeito que cada robot termina enfrentándose a todos los opoñentes. Se fará unha táboa clasificatoria na que se recollan los puntos obtidos por cada robot e determine a clasificación final.
-
-Puntuación final do combate:
-Os robots gañan **2 puntos** na clasificación por cada combate gañado e **1 punto** por cada combate empatado. Os puntos gañados en cada combate son independentes dos asaltos ganados.
-
-
-Para gañar os **2 puntos** correspondentes á victoria do combate hai que gañar **2 dos 3 asaltos**. Se soamente se gaña **1 asalto** e se empatan **2 asaltos** por inactividade, non se gañan puntos.
-
-Para gañar **1 punto** cada robot no caso de empate no combate debe haber polo menos **2 asaltos** con actividade de algún dos robots.
-
-En caso de empate entre 2 o máis robots nos 3 primeros postos da clasificación final, se determinarán os postos en función do número de asaltos gañados nos combates realizados entre os robots empatados. No caso de non poder determinarse, sexa porque tamén haxan quedado empate a asaltos gañados no seu combate ou porque sexa irresoluble o ser un empate entre varios robots, se poderán realizar novos combates entre os implicados, sen que se vexan afectados o resto dos postos da clasificación.
-
-##### Modalidad de torneo
-
-Na modalidade de torneo se realizan varios grupos de robots, os cales se enfrentarán en ligas internas para determinar qué 2 robots se clasifican de cada grupo para as finais.
-
-O número de grupos será unha potencia de dous (2, 4, 8...) e o reparto dos robots se fará equitativamente e en función da clasificación do ranking de ORS ou, no seu defecto, por sorteo. É posible que algún dos grupos non quede cheo, polo que os robots de ese grupo terían menos combates, pero igualmente se clasificarían 2 para as finais.
-
-A fase de grupos seguirá o mesmo procedemento que o descrito para a modalidade de liga, tendo que resolver os empates que existan nos dous primeiros postos das respectivas clasificacións.
-
-A fase das finais consta de varias rondas eliminatorias. O robot que gañe un combate pasará á siguiente rolda. Se realizará unha final polo terceiro posto entre os robots eliminados en semifinais; e unha final polo primeiro posto entre os robots que consigan gañar tódolos combates previos.
-
-Na primeira fase eliminatoria, os cruces se realizarán de tal xeito que o primeiro clasificado de cada grupo se enfrontará nun combate contra o segundo do grupo adxacente. O número de roldas se determinará en función do número de robots clasificados, que a su vez virá determinado polo número de grupos.
-
-Para gañar un combate e pasar á seguinte rolda, se teñen que gañar **2 asaltos**. Se un asalto queda empate, ten que repetirse inmediatamente. Nunca se repetirá un asalto resolto, por exemplo: se un dos dous robots xa gañou saindo de fronte, ese asalto se da por finalizado e non volverá a repetirse o inicio con os robots saindo de fronte.
-
-A continuación se amosa un exemplo de posible tabla dos cruces para unha competición na modalidad de torneo con 14 robots:
-
-<p align="center"><img src="img/minisumo_torneo.png" height="800px" align = "center"></p>
-
-##### Modalidad de torneo aleatorio con repesca
-
-Trñátase de unha modalidade de fases eliminatorias directas, pero con repesca por unha segunda vía para poder acceder ás finais. Os cruces iniciais se realizan en función do ranking de ORS ou, no deu defecto, por sorteo. Con esta modalidade evitase que algún robot que poida ser merecedeiro de chegar o podio poida quedar eliminado nos primeiros combates.
-
-En calquera caso, para eliminar a un robot, éste terá que perder polo menos dous combates ou ser eliminado na final.
-
-Este sistema semella á fase de finais da modalidade de torneo, aplicando as mesmas normas, pero con unha segunda rama de repesca.
-
-A continuación se amosa un exemplo de posible táboa de cruces para unha competición na modalidade de torneo aleatorio con repesca con 7 robots:
-
-<p align="center"><img src="img/minisumo_torneo_repesca.png" height="800px" align = "center"></p>
-
-#### Sección 9: Faltas
+#### Sección 8: Faltas
 ###### Artigo 15.- Faltas
 Os participantes que realicen calquera dos feitos descritos nos Artigos 6, 16 ou 17, serán amoestados por saltarse este regulamento.
 
@@ -224,13 +173,11 @@ Considérase unha falta leve cando un participante:
     1. Esixe parar a rolda sen razóns aparentes.
     
     2. Tarda máis de 30 segundos para comezar a rolda, a menos que o xuíz incremente o tempo.
-    
-    3. Poñer en funcionamento o robot dentro dos cinco segundos despois de que o xuíz anuncia o comezo da rolda.
-    
+  
     4. Facer alusións á imparcialidade da rolda, a partida ou o torneo.
     
 
-##### Sección 10: Penalizacións
+##### Sección 9: Penalizacións
 
 ###### Artigo 18.- Penalizacións
 Os xogadores que incumpran os Artigos 6 e 16 do presente regulamento perderán a partida e serán descualificados do torneo. O xuíz outorga dous puntos ao opoñente.
@@ -254,7 +201,7 @@ As decisións finais sempre as tomará o xuíz principal.
 ###### Artigo 21.- Declaración de obxeccións
 Un participante pode presentar obxeccións á organización antes de que remate a rolda, se hai algunha dúbida no exercicio deste regulamento. Se non hai membros da organización presentes, a obxección pódese presentar ao xuíz antes da finalización da rolda.
 
-##### Sección 12: Miscelánea
+##### Sección 11: Miscelánea
 
 ###### Artigo 23.- Flexibilidade do regulamento
 Sempre e cando se respecten o concepto e fundamentos das regras, estas deberán ser o suficientemente flexibles para abranguer cambios no número de xogadores e no contido das partidas.

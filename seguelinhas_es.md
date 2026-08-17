@@ -6,7 +6,7 @@ title: Reglamento de Sigue líneas
 
 ### Reglamento de Sigue líneas
 
-  - Revisión 2 (2016): vigente Rev.2
+  - Revisión 3 (2026): vigente desde oshwdem 2026
 
 ##### Objetivo
 
@@ -48,16 +48,19 @@ Las medidas y recorrido del circuito no se darán a conocer hasta el comienzo de
 
 * Mejor robot con materiales reciclados: 5 puntos.
 * Robot más original: 5 puntos.
-* Robot con la mejor documentación online: 6 puntos.
+* Robot con la mejor documentación online: 6 puntos.*
 * Cada vuelta completada: 2 puntos.
 * Robot más rápido 1ª posición: 4 puntos.
 * Robot más rápido 2ª posición: 3 puntos.
 * Robot más rápido 3ª posición: 2 punto.
 
+*que deberá ser proporcionada en el formulario de inscripción y que será consultada antes de la competición.
  
 ##### Sección 6: Jueces
 
 En la sala habrá en todo momento una persona identificada como “juez principal” y será la encargada de comunicar cualquier decisión final con respecto al desarrollo de la competición e interpretación de las normas. Otras personas pueden estar identificadas como “juez asistente” y ayudarán al juez principal en las tareas que tenga delegadas.
+
+Los jueces podrán decidir no otorgar la puntuación de alguno de los puntos descritos en la sección 5 a ninguno de los robots participantes en caso de que ninguno se ajuste a los criterios de ese punto concreto.
 
 El participante siempre se debe dirigir al juez principal para cualquier reclamación o aclaración de las normas. Entonces, si el juez principal lo estima oportuno, puede redirigir al participante a un juez asistente.
 

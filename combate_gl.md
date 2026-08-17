@@ -6,11 +6,9 @@ title: Regulamento de Combate
 
 ### Regulamento de Combate
 
-Somos conscientes de que en realidade esta competición é de cacharros móbiles teleoperados de combate e non son propiamente Robots, pero chamarémolos así para facelo máis curto ;)
-
 Este regulamento ten a intención de fomentar a competición xusta e asegurar a máxima seguridade posible. Pero tamén queremos que haxa o maior número de participantes, polo que che animamos a competir. No caso de calquera dúbida non dubides en poñerche en contacto connosco no correo info@oshwdem.org
 
-  - Revisión 2 (2017): vixente dende OSHWDem 2017
+  - Revisión 3 (2026): vixente dende OSHWDem 2026
 
 ##### Obxectivo
 Dous robots teleoperados combaten coas súas armas entre si nun recinto pechado loitando por ser o robot máis forte e mellor deseñado. A pericia dos seus construtores e operadores poñerase en xogo para atopar o mellor robot de combate do evento.
@@ -21,155 +19,170 @@ Dous robots teleoperados combaten coas súas armas entre si nun recinto pechado 
 
 #### Sección 1: Competición
 
-##### 1. Xeral
+##### 1. Características do combate
 
-Aínda que non é indispensable, recomendámosche que nos avises por correo electrónico se vas participar na competición, así poderemos dimensionar mellor o evento, horarios, zonas de traballo, etc. O día do evento con toda a antelación posible ponche en contacto coa organización para saber os horarios de inspección de seguridade e combate. A organización pode pedirche colocar unha micro cámara (da organización) ao teu robot para ter vídeo en primeira persoa do combate. Esta opción é de carácter voluntario e non se contará como peso do robot.
-
-##### 2. Características do combate
-
-1. (2.1)  Área de combate. A área de combate é un espazo con base cadrada de 130cm x 130cm, completamente pechada mediante paredes de policarbonato, cunha altura de 70cm.
+1. (1.1)  Área de combate. A área de combate é un espazo con base cadrada de 130cm x 130cm, completamente pechada mediante paredes de policarbonato, cunha altura de 70cm.
     
-2. (2.2) Duración do combate. A duración do combate é de 2 minutos.
+2. (1.2) Duración do combate. A duración do combate é de 2 minutos.
 
-3. (2.3) A trapela da arena de combate abrirase 30 segundos despois do comezo do combate.
+3. (1.3) A trapela da arena de combate abrirase 30 segundos despois do comezo do combate.
 
-4. (2.4) Cualquera robot que caia dentro do hoco da trapela oe estea inmovilizado na apertura será considerado incapacitado. Se cae dentro do hoco deberá dehabilitar as suas armas e cesar por completo o movemento.
+4. (1.4) Cualquera robot que caia dentro do hoco da trapela oe estea inmovilizado na apertura será considerado incapacitado. Se cae dentro do hoco deberá dehabilitar as suas armas e cesar por completo o movemento.
 
-5. (2.5) Se ambos robots caen dentro do hoco da trapela simultáneamente, o robot que primeiro atravese o plano da abertura será considerado o primeiro incapacitado. Se non é obvio qué robot atravesou primeiro, a decisión será tomada polos xuíces.
+5. (1.5) Se ambos robots caen dentro do hoco da trapela simultáneamente, o robot que primeiro atravese o plano da abertura será considerado o primeiro incapacitado. Se non é obvio qué robot atravesou primeiro, a decisión será tomada polos xuíces.
 
-6. (2.6) Os construtores dos robots son los responsables de retiralos do hoco da trapela unha vez terminado o combate salvo que o xuiz diga o contrario.
+6. (1.6) Os construtores dos robots son los responsables de retiralos do hoco da trapela unha vez terminado o combate salvo que o xuiz diga o contrario.
 
-7. (2.7) No caso de que un robot quede atrapado enrriba das paredes protectoras da arena ou entre éstas e as exteriores será declarado KO e deberá deshabilitar a súa arma. Esta regra é para evitar riscos da seguridade do público e competidores. 
+7. (1.7) No caso de que un robot quede atrapado enrriba das paredes protectoras da arena ou entre éstas e as exteriores será declarado KO e deberá deshabilitar a súa arma. Esta regra é para evitar riscos da seguridade do público e competidores. 
 
-8. (2.8) Frecuencia de combates. Dispoñerase de polo menos 20 minutos entre combates para o mesmo robot. Aínda que recomendamos que posúas dúas baterías para que, no caso de non ter que facer reparacións no robot, póidase axilizar a frecuencia dos combates.
+8. (1.8) Frecuencia de combates. Intentarase ofrecer aos participantes a maior cantidade de tempo posible entre combates. Aínda que recomendamos que posúas dúas baterías para que, no caso de non ter que facer reparacións no robot, póidase axilizar a frecuencia dos combates.
     
-9. (2.9) Desenganches. O combate pararase no caso de que os robots queden enganchados entre si máis de 10 segundos para separalos.
-    
-10 (2.10) Agarres ou levantamentos. Os robots poden realizar agarres ou levantamentos, pero non máis de 10 segundos. No caso de non obedecer a orde do árbitro de soltar ou cesar o levantamento (sempre que os robots non estean enganchados) o robot que realiza o agarre ou levantamento será declarado perdedor.
-    
-11. (2.11) Retirada. Permítese a retirada no medio do combate. O operador indicarao usando o seu pulsador e o combate pararase instantaneamente. O robot opoñente gañará o combate automaticamente.
-    
-12. (2.12) KO. No caso de que un robot cesase o seu movemento de maneira controlada, o árbitro comezará unha conta atrás de 10 segundos. No caso de que neste tempo non sexa capaz de demostrar un movemento traslacional será declarado perdedor por KO. Enténdese como movemento traslacional controlado, o conxunto de movementos que permitan que o robot siga unha traxectoria lineal.
+9. (1.9) Desenganches. O combate pararase no caso de que os robots queden enganchados entre si máis de 10 segundos para separalos.
 
-  1. (2.7.1) Se durante a conta atrás o robot demostra movemento traslacional controlado, ou no caso de que o robot opoñente ataque, pararase a conta atrás e seguirá o combate. Isto quere dicir que a un robot "parado" non se lle fará conta atrás se o seu opoñente segue atacando, e o combate non terminará a non ser que se acabe o tempo de combate ou o robot "parado" retírese.
+10. (1.10) Agarres ou levantamentos. Os robots poden realizar agarres ou levantamentos, pero non máis de 10 segundos. No caso de non obedecer a orde do árbitro de soltar ou cesar o levantamento (sempre que os robots non estean enganchados) o robot que realiza o agarre ou levantamento será declarado perdedor.
+    
+11. (1.11) Retirada. Permítese a retirada no medio do combate. O operador indicarallo ao xuíz e o combate pararase instantaneamente. O robot opoñente gañará o combate automaticamente.
+    
+12. (1.12) KO. No caso de que un robot cesase o seu movemento de maneira controlada, o árbitro comezará unha conta atrás de 10 segundos. No caso de que neste tempo non sexa capaz de demostrar un movemento traslacional será declarado perdedor por KO. Enténdese como movemento traslacional controlado, o conxunto de movementos que permitan que o robot siga unha traxectoria lineal.
+
+  1. (1.12.1) Se durante a conta atrás o robot demostra movemento traslacional controlado, ou no caso de que o robot opoñente ataque, pararase a conta atrás e seguirá o combate. Isto quere dicir que a un robot "parado" non se lle fará conta atrás se o seu opoñente segue atacando, e o combate non terminará a non ser que se acabe o tempo de combate ou o robot "parado" retírese.
   
-  2. (2.7.2) A un robot cun lado do seu sistema de movemento parado non se lle realizará a conta atrás se demostra movemento traslacional controlado.
+  2. (1.12.2) A un robot cun lado do seu sistema de movemento parado non se lle realizará a conta atrás se demostra movemento traslacional controlado.
   
-  3. (2.7.3) No caso dun KO simultáneo, colocarase os robots na súa orientación orixinal e:
+  3. (1.12.3) No caso dun KO simultáneo, colocarase os robots na súa orientación orixinal e:
 
-      1. (2.7.3.1) Se os dous poden demostrar movemento controlado, renovarase o combate.
-      2. (2.7.3.2) Se só un pode demostrar movemento controlado, declararase vencedor do combate.
-      3. (2.7.3.3) Se os dous non poden demostrar movemento, os xuíces decidirán o vencedor.
+      1. (1.12.3.1) Se os dous poden demostrar movemento controlado, renovarase o combate.
+      2. (1.12.3.2) Se só un pode demostrar movemento controlado, declararase vencedor do combate.
+      3. (1.12.3.3) Se os dous non poden demostrar movemento, os xuíces decidirán o vencedor.
 
-  4. (2.7.4) Se a batería dun robot vese exposta o árbitro pode decidir declarar un KO técnico por seguridade.
+  4. (1.12.4) Se a batería dun robot vese exposta o árbitro pode decidir declarar un KO técnico por seguridade.
+
+13. (1.13) Se ao esgotarse o tempo regulamentario non se declarou un vencedor por ningunha das causas previstas neste regulamento, o xuíz principal poderá conceder unha prórroga de 1 minuto.
+
+    1. (1.13.1) O combate retómase cos robots na posición na que quedaron tras os 2 minutos regulamentarios. Os operadores dos robots non poderán reparalos, cambiarlles a batería nin realizar ningún outro axuste. O combate retómase coa trapela aberta.
+    2. (1.13.2) A prórroga é única e non acumulable.
+    3. (1.13.3) Durante a prórroga aplícanse todas as regras do combate, incluídas as de KO (1.12), desenganches (1.9) e agarres (1.10).
+
+14. (1.14) Se tras o tempo regulamentario e a prórroga (se a houbese) non se produciu un KO nin unha retirada, o gañador do combate decidirano os xuíces atendendo, por orde de importancia, a:
+
+    1. (1.14.1) Dano causado ao opoñente.
+    2. (1.14.2) Agresividade, iniciativa e ataques buscados ao longo do combate.
+    3. (1.14.3) Control do robot: capacidade de manobrar e dirixir o combate, uso
+       efectivo da arma e da contorna da area (trapela, paredes).
+
+    A decisión tómase entre os xuíces e, en caso de empate, desempata o xuíz principal. Estes mesmos criterios aplícanse ao caso de KO simultáneo (1.12.3.3).
+
+15. (1.15) Adicionalmente, os xuíces poderán recorrer ao criterio do público mediante "aplausímetro", permitíndolle ao público decidir o gañador de combates excepcionalmente parellos.
+
+    1. (1.15.1) O xuíz principal anunciará o recurso ao aplausímetro antes de realizalo, farase nunha soa rolda e na mesma orde na que os robots foron presentados ao inicio do combate. O resultado determínao e comunícao o xuíz principal.
+    2. (1.15.2) Non lle está permitido ao operador ni ao seu equipo intentar manipular o aplausímetro producindo ruídos de ningún tipo. O seu incumprimento tratarase como conduta non deportiva (apartado 6).
   
-13. (2.13) Tipo de eliminación. O día do evento e segundo o número de participantes, a organización decidirá o tipo de eliminatoria, entre as que se atopan:
-    
-+ Liguiña. Cada robot enfróntase a todos os robots. O que teña máis vitorias é o gañador. Se hai empate, gaña o que gañase o combate que enfrontou aos finalistas.
-+ Eliminación simple. Realízanse combates por parellas e o gañador pasa á seguinte fase ata que hai un gañador.
-+ Dobre eliminación. Todos os robots parten na "sección de gañadores", onde combaten por parellas, tras os combates os perdedores van á "sección de perdedores" onde volven combater. Os que volvan perder dentro da sección de perdedores quedan eliminados. Cando queda só un robot na zona de gañadores e un na de perdedores, combaten ata que un da dúas gana dúas veces, sendo o gañador do evento.
-
-##### 3. Inspección de seguridade
+##### 2. Inspección de seguridade
 
 + Á hora de inspección preséntache co teu robot completo (con batería e radio) para que poida ser inspeccionado.
 + Pesarase o teu robot para comprobar que está dentro do peso máximo. Durante todo o transcurso do evento pódeseche pedir unha nova pesada para comprobar que segue dentro dos límites de peso.
 + Os inspectores de seguridade pódenche preguntar sobre todas as características do robot para comprobar a súa seguridade.
++ Os inspectores comprobarán:
+    + Que a batería estea debidamente protexida
+    + Que a arma estea bloqueada e non represente un perigo para os xuíces
+    + Que exista un indicador visible de funcionamento do robot (indicador luminoso, sonoro, etc.)
+    + Que se cumpra o resto da normativa
 
-##### 4. Área de preparación
+##### 3. Área de preparación
 
-1. (4.1) Proporcionarase unha zona de preparación e reparación para os participantes na competición, dentro das posibilidades do espazo, Esta área estará dispoñible durante os combates e nos intermedios para o uso exclusivo dos participantes.
+1. (3.1) Proporcionarase unha zona de preparación e reparación para os participantes na competición, dentro das posibilidades do espazo, Esta área estará dispoñible durante os combates e nos intermedios para o uso exclusivo dos participantes.
     
-2. (4.2) Nesta área proporcionarase unha toma de corrente por cada participante, se necesitas mais enchufes recomendámosche que traias unha regleta.
+2. (3.2) Nesta área proporcionarase unha toma de corrente por cada participante, se necesitas mais enchufes recomendámosche que traias unha regleta.
 
-3. (4.3) Non se dispoñerá de ningunha ferramenta, polo que terás que traerche as túas. Se che falta algunha, non dubides en pedila aos teus compañeiros ou á organización, faremos todo o posible dentro das nosas posibilidades.
+3. (3.3) Non se dispoñerá de ningunha ferramenta, polo que terás que traerche as túas. Se che falta algunha, non dubides en pedila aos teus compañeiros ou á organización, faremos todo o posible dentro das nosas posibilidades.
 
-4. (4.4) Actúa con seguridade, é indispensable. Non se permite a activación de armas dentro da área de preparación, se o necesitas fala coa organización. Mentres cargues as túas baterías non as deixes desatendidas en ningún momento.
+4. (3.4) Actúa con seguridade, é indispensable. Non se permite a activación de armas dentro da área de preparación, se o necesitas fala coa organización. Mentres cargues as túas baterías non as deixes desatendidas en ningún momento.
 
-##### 5. Procedemento de combate
+##### 4. Procedemento de combate
 
-1. (5.1) Activación de robots. Seguirase o seguinte procedemento
+1. (4.1) Activación de robots. Seguirase o seguinte procedemento
         
-    1. (5.1.1) Primeiro colocarase o robot dentro da área de combate de maneira que estea orientado cara ao interior da mesma, coa súa arma orientada tamén cara ao interior.
-    2. (5.1.2) Retíranse as proteccións de arma se as ten.
-    3. (5.1.3) Acéndese a radio, emisora ou transmisor.
-    4. (5.1.4) Conéctase a alimentación do robot.
-    5. (5.1.5) Retíranse os pasadores ou seguridades de arma.
-    6. (5.1.6) Péchase a área de combate.
-    7. (5.1.7) Non está permitido ningún movemento nin proba de funcionamento mentres a área de combate está aberta.
+    1. (4.1.1) Primeiro colocarase o robot dentro da área de combate de maneira que estea orientado cara ao interior da mesma, coa súa arma orientada tamén cara ao interior.
+    2. (4.1.2) Retíranse as proteccións de arma se as ten.
+    3. (4.1.3) Acéndese a radio, emisora ou transmisor.
+    4. (4.1.4) Conéctase a alimentación do robot.
+    5. (4.1.5) Retíranse os pasadores ou seguridades de arma.
+    6. (4.1.6) Péchase a área de combate.
+    7. (4.1.7) Non está permitido ningún movemento nin proba de funcionamento mentres a área de combate está aberta.
         
-2. (5.2) Proba de mobilidade e comezo do combate
+2. (4.2) Proba de mobilidade e comezo do combate
     
-    1. (5.2.1) Cando a área de combate péchase, disponse de 20 segundos para probar o funcionamento da arma e movementos do robot, mentres se sitúa o robot na súa posición de comezo.
+    1. (4.2.1) Cando a área de combate péchase, disponse de 20 segundos para probar o funcionamento da arma e movementos do robot, mentres se sitúa o robot na súa posición de comezo.
         
-    2. (5.2.2) O árbitro preguntará aos participantes se están listos, e cando os dous acepten comezará o combate.
+    2. (4.2.2) O árbitro preguntará aos participantes se están listos, e cando os dous acepten comezará o combate.
         
-3. (5.3) Final do combate
+3. (4.3) Final do combate
 
-    1. (5.3.1) Unha vez o árbitro dea por terminado o combate os robots deben pararse e desenergizar as súas armas, posteriormente deberán volver ás súas posicións de inicio.
+    1. (4.3.1) Unha vez o árbitro dea por terminado o combate os robots deben pararse e desenergizar as súas armas, posteriormente deberán volver ás súas posicións de inicio.
         
-    2. (5.3.2) Os xuíces poden pedir que se demostre o funcionamento do movemento do robot e/ou a súa arma.
+    2. (4.3.2) Os xuíces poden pedir que se demostre o funcionamento do movemento do robot e/ou a súa arma.
         
-        1. (5.3.2.1) A demostración de movemento pódese realizar mentres o robot volve á súa posición de inicio de combate.
-        2. (5.3.2.2) A demostración da arma pódese realizar mentres o robot volve á súa posición de inicio de combate aplicando brevemente enerxía á arma, pero sen activala a máxima velocidade.
+        1. (4.3.2.1) A demostración de movemento pódese realizar mentres o robot volve á súa posición de inicio de combate.
+        2. (4.3.2.2) A demostración da arma pódese realizar mentres o robot volve á súa posición de inicio de combate aplicando brevemente enerxía á arma, pero sen activala a máxima velocidade.
         
-4. (5.4) Desactivación dos robots
+4. (4.4) Desactivación dos robots
         
-   1. (5.4.1) Desactívase a arma do robot.
-    2. (5.4.2) Condúcese o robot (na medida do posible) de maneira que estea orientado
+   1. (4.4.1) Desactívase a arma do robot.
+    2. (4.4.2) Condúcese o robot (na medida do posible) de maneira que estea orientado
         cara á interior da área de combate. Coa súa arma orientada tamén cara ao interior.
-    3. (5.4.3) Ábrese a área de combate. A partir deste momento non está permitido ningún
+    3. (4.4.3) Ábrese a área de combate. A partir deste momento non está permitido ningún
         movemento.
-    4. (5.4.4) Desconéctase a alimentación do robot.
-    5. (5.4.5) Apágase a radio, emisora ou transmisor.
-    6. (5.4.6) Instálanse os pasadores ou seguridades de arma.
-    7. (5.4.7) Instálanse as proteccións de arma se as ten.
-    8. (5.4.8) Unha vez os dous robots están preparados retíranse da área de combate.
+    4. (4.4.4) Desconéctase a alimentación do robot.
+    5. (4.4.5) Apágase a radio, emisora ou transmisor.
+    6. (4.4.6) Instálanse os pasadores ou seguridades de arma.
+    7. (4.4.7) Instálanse as proteccións de arma se as ten.
+    8. (4.4.8) Unha vez os dous robots están preparados retíranse da área de combate.
 
-##### 6. Desactivación de emerxencia
+##### 5. Desactivación de emerxencia
 
 En caso de emerxencia (por exemplo robots en chamas) o procedemento de desactivación non se aplica. A continuación téntase describir o procedemento de emerxencia das posibles situacións.
 
-1. (6.1) Un ou máis robots se descontrolan
+1. (5.1) Un ou máis robots se descontrolan
         
-    1. (6.1.1) O operador ou operadores deberán apagar os seus transmisores para tentar activar o sistema de seguridade ou failsafe. Se isto funciona, e recupérase o control, o combate renóvase.
-    2. (6.1.2) Se segue o comportamento descontrolado deixarase que o robot esgote as súas baterías ata que sexa seguro manipulalo.
-    3. (6.1.3) Se o robot descontrolado é funcional, non ten a arma en funcionamento e todos están de acordo, o opoñente pode tentar levantar, voltear ou bloquear o robot de maneira que non sexa móbil e poida ser desactivado de maneira segura.
+    1. (5.1.1) O operador ou operadores deberán apagar os seus transmisores para tentar activar o sistema de seguridade ou failsafe. Se isto funciona, e recupérase o control, o combate renóvase.
+    2. (5.1.2) Se segue o comportamento descontrolado deixarase que o robot esgote as súas baterías ata que sexa seguro manipulalo.
+    3. (5.1.3) Se o robot descontrolado é funcional, non ten a arma en funcionamento e todos están de acordo, o opoñente pode tentar levantar, voltear ou bloquear o robot de maneira que non sexa móbil e poida ser desactivado de maneira segura.
         
-2. (6.2) Un robot en chamas e o outro móbil
+2. (5.2) Un robot en chamas e o outro móbil
         
-    1. (6.2.1) O robot móbil afastarase todo o posible do outro robot e da entrada da área de combate.
-    2. (6.2.2) Suprimirase a enerxía de todas as armas e apuntaranse á beira oposto da entrada da área de combate.
-    3. (6.2.3) Unha vez non se considere perigosa a apertura, extinguirase o lume.
-    4. (6.2.4) Unha vez extinguido o operador do robot móbil poderao retirar co procedemento normal de desactivación.
+    1. (5.2.1) O robot móbil afastarase todo o posible do outro robot e da entrada da área de combate.
+    2. (5.2.2) Suprimirase a enerxía de todas as armas e apuntaranse á beira oposto da entrada da área de combate.
+    3. (5.2.3) Unha vez non se considere perigosa a apertura, extinguirase o lume.
+    4. (5.2.4) Unha vez extinguido o operador do robot móbil poderao retirar co procedemento normal de desactivación.
         
-3. (6.3) Un robot en chamas e o outro inmóbil
+3. (5.3) Un robot en chamas e o outro inmóbil
         
-    1. (6.3.1) O operador do robot inmóbil suprimirá a enerxía da súa arma.
-    2. (6.3.2) Unha vez non se considere perigosa a apertura, extinguirase o lume.
-    3. (6.3.3) Unha vez extinguido o operador do robot inmóbil poderao retirar co procedemento normal de desactivación.
+    1. (5.3.1) O operador do robot inmóbil suprimirá a enerxía da súa arma.
+    2. (5.3.2) Unha vez non se considere perigosa a apertura, extinguirase o lume.
+    3. (5.3.3) Unha vez extinguido o operador do robot inmóbil poderao retirar co procedemento normal de desactivación.
         
-4. (6.4) Os dous robots en chamas
+4. (5.4) Os dous robots en chamas
         
-    1. (6.4.1) Na medida do posible afastaranse os robots todo o posible do outro robot e da entrada da área de combate.
-    2. (6.4.2) Na medida do posible suprimirase a enerxía de todas as armas e apuntaranse á beira oposto da entrada da área de combate.
-    3. (6.4.3) Unha vez non se considere perigosa a apertura, extinguirase o lume.
+    1. (5.4.1) Na medida do posible afastaranse os robots todo o posible do outro robot e da entrada da área de combate.
+    2. (5.4.2) Na medida do posible suprimirase a enerxía de todas as armas e apuntaranse á beira oposto da entrada da área de combate.
+    3. (5.4.3) Unha vez non se considere perigosa a apertura, extinguirase o lume.
 
-##### 7. Conductas non deportivas
+##### 6. Conductas non deportivas
 
-1. (7.1) As condutas non deportivas inclúen pero non se limitan a:
+1. (6.1) As condutas non deportivas inclúen pero non se limitan a:
         
-    1. (7.1.1) Contacto posterior á finalización do combate.
-    2. (7.1.2) Sabotaxe.
-    3. (7.1.3) Distracción do operador de robot contrario.
-    4. (7.1.4) Movementos descaradamente antes de tempo.
+    1. (6.1.1) Contacto posterior á finalización do combate.
+    2. (6.1.2) Sabotaxe.
+    3. (6.1.3) Distracción do operador de robot contrario.
+    4. (6.1.4) Movementos descaradamente antes de tempo.
         
-2. (7.2) No primeiro incidente de conduta non deportiva recibirase unha advertencia.
+2. (6.2) No primeiro incidente de conduta non deportiva recibirase unha advertencia.
     
-3. (7.3) No segundo incidente a persoa responsable perderá automaticamente o combate.
+3. (6.3) No segundo incidente a persoa responsable perderá automaticamente o combate.
     
-4. (7.4) No caso dunha clara intencionalidade de conduta non deportiva o operador de robot será descualificado para todo o evento.
+4. (6.4) No caso dunha clara intencionalidade de conduta non deportiva o operador de robot será descualificado para todo o evento.
     
-##### 8. Xuíces
+##### 7. Xuíces
 
 Na sala haberá en todo momento unha persoa identificada como "xuíz principal" e será a
 encargada de comunicar calquera decisión final con respecto ao desenvolvemento da cometición e

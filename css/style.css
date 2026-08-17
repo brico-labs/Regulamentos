@@ -34,6 +34,10 @@ a {
   max-height: 80%; 
 }
 
+.icon-block.wide img {
+  margin: 0 auto;
+  max-width: 100%;
+}
 
 div.container > p:first-child {
   margin: 0 0 0 auto;
@@ -48,3 +52,4 @@ div.content ul {
 div.content ul li {
      list-style-type: disc;     
 }
+

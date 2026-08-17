@@ -6,14 +6,14 @@ title: Regulamento de Labirinto
 
 ### Regulamento de Labirinto
 
-  - Revisión 4 (2019): vixente dende OSHWDem 2019
+  - Revisión 5 (2026): vixente dende OSHWDem 2026
 
 ##### Obxectivo
 
 Un robot autónomo debe resolver un labirinto e completar o seu percorrido dende a cela de
 partida “saída” até a cela de chegada “meta” no menor tempo posible.
 
-Disporá de 7 minutos para completalo no menor tempo que poida. Gañará a competición o robot que complete o percorrido no menor tempo.
+Disporá de 7 minutos para completalo no menor tempo que poida. Gañará a competición o robot que complete o percorrido no menor tempo. Dentro dos 7 minutos, cada robot poderá realizar un máximo de 5 intentos, entendéndose por intento que o operador manipule o robot.
 
 ##### O labirinto
 
@@ -62,8 +62,7 @@ sentido horario.**
 agás na entrada que será tan só dunha parede nunha cela e que se denomina "porta de
 meta".
 
-13. A zona de meta terá unha marca no chan que indica ao robot a zona de chegada. Dita
-marca será unha liña branca de 2cm de grosor.
+13. A zona de meta terá unha marca no chan que indica ao robot a zona de chegada. Dita marca será unha liña branca de 2cm de grosor.
 
 14. Para a xeración do labirinto vaise utilizar o seguinte repositorio:
 [https://github.com/brico-labs/OshwdemMazes](https://github.com/brico-labs/OshwdemMazes). O programa executarase xusto antes
@@ -84,11 +83,11 @@ non reciba sinais oi indicacións externas (de calquera tipo).
 4. O robot non poderá saltar por riba, sobrevoar, escalar, cortar, rascar, queimar, danar ou
 destruír as paredes do labirinto.
 
-5. O robot deben ter un nome ou número con fins de rexistro e seguimento. O robot debe
+6. O robot deben ter un nome ou número con fins de rexistro e seguimento. O robot debe
 amosar este nome ou número para permitir a sua identificación á organización e
 xuíces e os espectadores.
 
-6. Os robots deben funcionar unicamente coa enerxía proporcionada por pilas ou baterías
+7. Os robots deben funcionar unicamente coa enerxía proporcionada por pilas ou baterías
 eléctricas integradas no propio robot.
 
 ##### Desenvolvemento da competición
@@ -101,7 +100,7 @@ eléctricas integradas no propio robot.
 
 4. Cada robot disporá únicamente de 7 minutos para recoñecer, cartografar e resolver o labirinto. O tempo comeza a contar no momento que o xuíz dá a orde e remata ao finalizar o tempo disposto ou en calquera momento por decisión do participante.
 
-5. Durante os 7 minutos de tempo que dispón cada robot, se poderá iniciar o percorrido tantas veces como queira o constructor. O xuiz disporá dun segundo cronómetro co que tomará os tempos parciais de cada un dos intentos de resolución do labirinto.
+5. Durante os 7 minutos de tempo que dispón cada robot, se poderá iniciar o percorrido ata un máximo de 5 veces. O xuiz disporá dun segundo cronómetro co que tomará os tempos parciais de cada un dos intentos de resolución do labirinto.
 
 6. O cronómetro de tempos parciais se porá en marcha cando o robot toca a liña divisoria da cela de saída.
 

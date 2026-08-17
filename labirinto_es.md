@@ -6,13 +6,13 @@ title: Reglamento de Laberinto
 
 ### Reglamento de Laberinto
 
-  - Revisión 4 (2019): vigente desde OSHWDem 2019
+  - Revisión 5 (2026): vigente desde OSHWDem 2026
 
 ##### Objetivo
 
 Un robot autónomo debe resolver un laberinto y completar su recorrido desde la celda de salida hasta la celda de llegada en el menor tiempo posible.
 
-Dispondrá de 7 minutos para completarlo en el menor tiempo que pueda. Ganará la competición el robot que complete el recorrido en el menor tiempo.
+Dispondrá de 7 minutos para completarlo en el menor tiempo que pueda. Ganará la competición el robot que complete el recorrido en el menor tiempo. Dentro de los 7 minutos, cada robot podrá realizar un máximo de 5 intentos, entendiéndose por intento que el operador manipule el robot.
 
 ##### El laberinto
 
@@ -42,8 +42,7 @@ Dispondrá de 7 minutos para completarlo en el menor tiempo que pueda. Ganará l
 
 12. La meta está compuesta de un área de 2 por 2 celdas con paredes solo en su perímetro excepto en la entrada, que será tan solo de una pared en una celda y que se denomina “puerta de meta”.
 
-13. La zona de meta tendrá una marca en el suelo que indicar al robot la zona de llegada.
-Dicha marca será una línea blanca de 2cm de grosor.
+13. La zona de meta tendrá una marca en el suelo que indicar al robot la zona de llegada. Dicha marca será una línea blanca de 2cm de grosor.
 
 14. Para la generación del laberinto se va a utilizar el siguiente repositorio: [https://github.com/brico-labs/OshwdemMazes](https://github.com/brico-labs/OshwdemMazes). El programa se ejecutará justo antes del comienzo de la prueba y servirá para configurar las paredes del laberinto.
 
@@ -56,6 +55,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 3. Se recomienda que las dimensiones del robot no superen los 16cm de ancho por 16cm de largo. Si cambian de geometría no deberían rebasar estas dimensiones. No existe limitación en cuanto a la altura del robot. El robot debe ser una única unidad indivisible.
 
 4. El robot no podrá saltar por encima, sobrevolar, escalar, cortar, rascar, quemar, dañar o destruir las paredes del laberinto.
+
 5. El robot debe tener un nombre o número con fines de registro y seguimiento. El robot debe mostrar este nombre o número para permitir su identificación a la organización y jueces y a los espectadores.
 
 6. Los robots deben funcionar únicamente con la energía proporcionada por pilas o baterías eléctricas integradas en el propio robot.
@@ -70,7 +70,7 @@ Dicha marca será una línea blanca de 2cm de grosor.
 
 4. Cada robot dispondrá de únicamente de 7 minutos para reconocer, cartografiar y resolver el laberinto. El tiempo comienza a contar en el momento que el juez da la orden y acaba al finalizar el tiempo dispuesto o en cualquier momento por decisión del participante.
 
-5. Durante los 7 minutos de tiempo que dispone cada robot, se podrá iniciar el recorrido tantas veces como quiera el constructor. El juez dispondrá de un segundo cronómetro con el que tomará los tiempos parciales de cada uno de los intentos de resolución del laberinto.
+5. Durante los 7 minutos de tiempo que dispone cada robot, se podrá iniciar el recorrido hasta un máximo de  5 veces. El juez dispondrá de un segundo cronómetro con el que tomará los tiempos parciales de cada uno de los intentos de resolución del laberinto.
 
 6. El cronómetro de tiempos parciales se pondrá en marcha cuando el robot toca la línea divisoria de la celda de salida.
 

@@ -6,7 +6,7 @@ title: Regulamento de Segue liñas
 
 ### Regulamento de Segue liñas
 
-  - Revisión 2 (2016): vixente Rev.2
+  - Revisión 3 (2026): vixente dende oshwdem 2026
 
 ##### Obxectivo
 
@@ -48,11 +48,13 @@ As medidas e percorrido do circuíto no se darán a coñecer até o comezo da pr
 
 * Mellor robot con materiais reciclados: 5 puntos.
 * Robot máis orixinal: 5 puntos.
-* Robot coa mellor documentación online: 6 puntos.
+* Robot coa mellor documentación online: 6 puntos.*
 * Cada volta completada: 2 puntos.
 * Robot máis rápido 1ª posición: 4 puntos.
 * Robot máis rápido 2ª posición: 3 puntos.
 * Robot máis rápido 3ª posición: 2 punto.
+
+*que deberá ser proporcionada no formulario de inscrición e que será consultada antes da competición.
 
 O baremo é orientativo e pode variar se os xuices o estiman oportuno por cuestions de tempo ou loxística. Nese caso será comunicado aos participantes.
  
@@ -60,6 +62,8 @@ O baremo é orientativo e pode variar se os xuices o estiman oportuno por cuesti
 
 Na sala haberá en todo momento unha persoa identificada como “xuíz principal” e será a encargada de comunicar calquera decisión final con respecto ao desenvolvemento da competición e interpretación das normas.
 Outras persoas poden estar identificadas como “xuíz asistente” e axudarán ao xuíz principal nas tarefas que teña delegadas.
+
+Os xuíces poderán decidir non outorgar a puntuación dalgún dos puntos descritos na sección 5 a ningún dos robots participantes no caso de que ningún se axuste aos criterios dese punto concreto.
 O participante sempre se debe dirixir ao xuíz principal para calquera reclamación ou aclaración das normas. Entón, se o xuíz principal o estima oportuno, pode redirixir ao participante a un xuíz asistente.
 As decisións finais sempre as tomará o xuíz principal.
 
