@@ -66,8 +66,7 @@ baterías eléctricas integradas en el propio robot.
 
 ##### Desarrollo de la prueba y puntuación
 
-- Todos los robots deberán presentarse para su verificación a la hora de
-comienzo de la prueba.
+- Todos los robots deberán presentarse para su verificación antes del comienzo de la prueba.
 - Los robots competirán en estricto orden de inscripción.
 - Cada robot tendrá dos intentos para completar la prueba y contará para la
 clasificación únicamente el menor de los tiempos. Cada intento consistirá en

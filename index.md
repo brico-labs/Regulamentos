@@ -5,6 +5,20 @@ layout: regulamento_gl
 
 <div class="row">
 
+  <div class="col s12">
+    <div class="icon-block wide">
+
+<div markdown="1">
+## Normas xerais
+
+[![General](img/xeral.jpg)](reglas_xerais_gl)
+  </div>
+
+</div>
+</div>
+
+  </div>
+  <div class="row">
   <div class="col s12 m6">
     <div class="icon-block">
 

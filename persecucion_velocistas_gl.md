@@ -1,5 +1,5 @@
 ---
-layout: regulamento_es
+layout: regulamento_gl
 title: Regulamento velocistas de persecución
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="50">](persecucion_velocistas_es)

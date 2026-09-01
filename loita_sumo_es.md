@@ -6,7 +6,7 @@ title: Reglamento de Sumo
 
 ### Reglamento de Mini Sumo
 
-  - Revisión 6 (2025): vigente desde OSHWDem 2025
+  - Revisión 7 (2026): vigente desde OSHWDem 2026
 
 ##### Objetivo
 
@@ -59,12 +59,11 @@ Clase | Altura | Anchura | Longitud | Masa
 :--- | :---: | :---: | :---: | :---: |
 **Mini** | ilimitada | 10 cm | 10 cm | 500 gr
 
-4. Clases autónomas: Los robots de la clase Mini (500gr) deben ser autónomos. Se puede utilizar cualquier método de control, siempre y cuando esté integrado enteramente en el robot y no reciba señales o indicaciones externas (de cualquier tipo). El funcionamiento autónomo del robot no debe comenzar antes de 5 segundos después de ser iniciado por el usuario. Los robots que no respeten el intervalo de los 5 segundos pierden el punto de ese asalto.
+4. Clases autónomas: Los robots de la clase Mini (500gr) deben ser autónomos. La activación y desactivación de ambos robots en la competición será mediante IR usando el protocolo RC05. El juez tendrá un mando y será el encargado de activar y desactivar los robots para iniciar y acabar los asaltos.
+5. El funcionamiento autónomo de los robots debe comenzar sin retraso tras el inicio con el mando por parte del juez.
+6. El robot debe tener un nombre o número con fines de registro y seguimiento.
+7. Se permite el uso de elementos afilados en el cuerpo del robot siempre y cuando no tengan la capacidad de dañar al robot contrario, el dohyo ni sus inmediaciones. Es decir, si un robot es muy rápido y además posee una cuchilla afilada para usarse como cuña, debe poder detenerse de forma rápida, fiable y segura.
 
-5. El robot debe tener un nombre o número con fines de registro y seguimiento.
-6. Se permite el uso de elementos afilados en el cuerpo del robot siempre y cuando no tengan la capacidad de dañar al robot contrario, el dohyo ni sus inmediaciones. Se requerirá además que los robots tengan sistemas de seguridad (como detención de forma remota) a aquellos robots que constituyan un peligro por su construcción o funcionamiento. Es decir, si un robot es muy rápido y además posee una cuchilla afilada para usarse como cuña, debe poder detenerse de forma segura.
-
-Se requerirá además que los robots tengan sistemas de seguridad (como detención de forma remota) a aquellos robots que constituyan un peligro por su construcción o funcionamiento. Es decir, si un robot es muy rápido y además posee un elemento peligroso para usarse como cuña, debe poder detenerse de forma segura.
 
 ##### Artículo 6.- Restricciones
 
@@ -98,7 +97,7 @@ Se requerirá además que los robots tengan sistemas de seguridad (como detenci�
 #### Sección 5: Comienzo, parada, reanudación y finalización de un asalto
 
 ##### Artículo 8.- Comienzo
-Tras las instrucciones de los jueces, los dos participantes se acercarán al Dohyo y pondrán cada robot en su mitad del Dohyo, detrás de sus respectivas líneas de inicio, sin desplazarlo lateralmente. El robot o cualquier parte de este no puede ser colocado más allá de la línea de inicio hacia su oponente. No se requiere poner el robot pegado a la línea de inicio. Cuando el juez anuncie el comienzo del asalto, los participantes activarán sus robots y, después de **cinco segundos de espera**, los robots empezarán a operar. Durante estos cinco segundos los participantes deberán abandonar el área del Dohyo.
+Tras las instrucciones de los jueces, los dos participantes se acercarán al Dohyo y pondrán cada robot en su mitad del Dohyo, detrás de sus respectivas líneas de inicio, sin desplazarlo lateralmente. El robot o cualquier parte de este no puede ser colocado más allá de la línea de inicio hacia su oponente. No se requiere poner el robot pegado a la línea de inicio. Cuando el juez anuncie el comienzo del asalto, activará los robots de forma remota que **empezarán a operar de manera inmediata**. 
 
 ##### Artículo 9.- Parada y reanudación
 Los asaltos se paran y reanudan por indicación de los jueces.
@@ -112,8 +111,7 @@ Los asaltos finalizan por indicación de los jueces. Los participantes podrán r
 Un combate debe llevarse a cabo en un total de 3 minutos, que comenzarán y finalizarán por orden de los jueces.
 
 ##### Artículo 12.- Asalto extra
-Si, por decisión de los jueces, se requiera un asalto extra, ésta tendrá una duración máxima
-de 3 minutos.
+Si, por decisión de los jueces, se requiera un asalto extra, ésta tendrá una duración máxima de 3 minutos.
 
 ##### Artículo 13.- Exclusiones de tiempo
 Lo siguiente no está incluido dentro del tiempo de partida:
@@ -129,21 +127,19 @@ Se considera que un robot ha ganado un asalto cuando:
 
 1. Un participante fuerza al robot contrincante a tocar el área fuera del Dohyo, incluyendo el borde lateral del mismo.
 2. El robot contrincante, por sí mismo, toca el área fuera del Dohyo, incluyendo el borde lateral del mismo.
-3. El robot contrincante reincida en no respetar el intervalo de 5 segundos de espera al ponerse en funcionamiento, previo aviso de penalización por parte de los jueces.
-4. El robot contrincante no comience a moverse antes de los 5 segundos posteriores a los 5 segundos de espera.
+3. El robot contrincante no se mueva en los 5 segundos posteriores al inicio del combate.
 
 El asalto se considerará empate en las siguientes circunstancias:
 
 1. Los robots están enredados u orbitando entre sí sin ningún progreso aparente durante 5 segundos. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de 30 segundos. 
 
-2. Ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 5 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos cinco segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se
-detiene. Si los dos robots se mueven y no está claro si se están progresando, el juez puede prorrogar el plazo hasta un máximo de 30 segundos.
+2. Ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante 5 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos cinco segundos será declarado como que no tiene intención de luchar. En este caso, el oponente recibirá un punto, incluso si éste último también se detiene. Si los dos robots se mueven y no está claro si se están progresando, el juez puede prorrogar el plazo hasta un máximo de 30 segundos.
 
 3. Los dos robots tocan el exterior del Dohyo más o menos al mismo tiempo, y no se puede determinar quién tocó en primer lugar.
 
 4. Se ha vencido el tiempo máximo del asalto y ninguno de los dos robots ha salido del Dohyo.
 
-Un asalto se considera nulo cuando en los 5 segundos posteriores a los 5 segundos de espera:
+Un asalto se considera nulo cuando en los 5 segundos posteriores al inicio:
 
 	1. ninguno de los dos robots comienza a moverse.
 	2. los robots se salen del dohyo sin tocarse.
@@ -158,55 +154,7 @@ Cuando se requiera la decisión de los jueces para determinar el ganador de un a
     3. actitud del participante durante el combate.
 
 
-
-#### Sección 8: Sistema de competición
-Se contemplan 3 modalidades de competición, a elección de la organización de la prueba y en función del tiempo y de los medios de los que dispongan para su realización. La modalidad elegida se comunicará a los participantes antes de la competición.
-
-##### Modalidad de liga
-
-En esta modalidad se realizan combates entre cada pareja de robots, de tal manera que cada robot termina enfrentándose a todos los oponentes. Se hará una tabla clasificatoria en la que se recojan los puntos obtenidos por cada robot y determine la clasificación final.
-
-Puntuación final del combate:
-Los robots ganan **2 puntos** en la clasificación por cada combate ganado y **1 punto** por cada combate empatado. Los puntos ganados en cada combate son independientes de los asaltos ganados.
-
-
-Para ganar los **2 puntos** correspondientes a la victoria del combate hay que ganar **2 de los 3 asaltos**. Si solamente se gana **1 asalto** y se empatan **2 asaltos** por inactividad, no se ganan puntos.
-
-Para ganar **1 punto** cada robot en caso de empate en el combate debe haber al menos **2 asaltos** con actividad de alguno de los robots.
-
-En caso de empate entre 2 o más robots en los 3 primeros puestos de la clasificación final, se determinarán los puestos en función del número de asaltos ganados en los combates realizados entre los robots empatados. En caso de no poder determinarse, ya sea porque también hayan quedado empate a asaltos ganados en su combate o porque sea irresoluble al ser un empate entre varios robots, se podrán realizar nuevos combates entre los implicados, sin que se vean afectados el resto de puestos de la clasificación.
-
-##### Modalidad de torneo
-
-En la modalidad de torneo se realizan varios grupos de robots, los cuales se enfrentarán en ligas internas para determinar qué 2 robots se clasifican de cada grupo para las finales.
-
-El número de grupos será una potencia de dos (2, 4, 8...) y el reparto de robots se hará equitativamente y en función de la clasificación del ranking de ORS o, en su defecto, por sorteo. Es posible que alguno de los grupos no quede lleno, por lo que los robots de ese grupo tendrían menos combates, pero igualmente se clasificarían 2 para las finales.
-
-La fase de grupos seguirá el mismo procedimiento que el descrito para la modalidad de liga, teniendo que resolver los empates que existan en los dos primeros puestos de las respectivas clasificaciones.
-
-La fase de las finales consta de varias rondas eliminatorias. El robot que gane un combate pasará a la siguiente ronda. Se realizará una final por el tercer puesto entre los robots eliminados en semifinales; y una final por el primer puesto entre los robots que consigan ganar todos los combates previos.
-
-En la primera fase eliminatoria, los cruces se realizarán de tal manera que el primer clasificado de cada grupo se enfrentará en un combate contra el segundo del grupo adyacente. El número de rondas se determinará en función del número de robots clasificados, que a su vez vendrá determinado por el número de grupos.
-
-Para ganar un combate y pasar a la siguiente ronda, se tienen que ganar **2 asaltos**. Si un asalto queda empate, tiene que repetirse inmediatamente. Nunca se repetirá un asalto resuelto, por ejemplo: si uno de los dos robots ya ha ganado saliendo de frente, ese asalto se da por concluido y no volverá a repetirse el inicio con los robots saliendo de frente.
-
-A continuación se muestra un ejemplo de posible tabla de cruces para una competición en modalidad de torneo con 14 robots:
-
-<p align="center"><img src="img/minisumo_torneo.png" height="800px" align = "center"></p>
-
-##### Modalidad de torneo aleatorio con repesca
-
-Se trata de una modalidad de fases eliminatorias directas, pero con repesca por una segunda vía para poder acceder a las finales. Los cruces iniciales se realizan en función del ranking de ORS o, en su defecto, por sorteo. Con esta modalidad se evita que algún robot que pueda ser merecedero de llegar al podio pueda quedar eliminado en los primeros combates.
-
-En cualquier caso, para eliminar a un robot, éste tendrá que perder al menos dos combates o ser eliminado en la final.
-
-Este sistema se asemeja a la fase de finales de la modalidad de torneo, aplicando las mismas normas, pero con una segunda rama de repesca.
-
-A continuación se muestra un ejemplo de posible tabla de cruces para una competición en la modalidad de torneo aleatorio con repesca con 7 robots:
-
-<p align="center"><img src="img/minisumo_torneo_repesca.png" height="800px" align = "center"></p>
-
-#### Sección 9: Faltas
+#### Sección 8: Faltas
 ##### Artículo 15.- Faltas
 Los participantes que realicen cualquiera de los hechos descritos en los Artículos 6, 16 o 17, serán amonestados por saltarse este reglamento.
 
@@ -225,10 +173,9 @@ Se considera una falta leve cuando un participante:
 
     1. Exige parar el asalto sin razones aparentes.
     2. Tarda más de 30 segundos para comenzar el asalto, a menos que el juez incremente el tiempo.
-    3. Poner en funcionamiento el robot dentro de los cinco segundos después de que el juez anuncia el comienzo del asalto.
-    4. Hacer alusiones a la imparcialidad del asalto, el combate o el torneo.
+    3. Hacer alusiones a la imparcialidad del asalto, el combate o el torneo.
 
-#### Sección 10: Penalizaciones
+#### Sección 9: Penalizaciones
 
 ##### Artículo 18.- Penalizaciones
 Los jugadores que incumplan los artículos 6 y 16 del presente reglamento perderán el combate y serán descalificados del torneo. El juez otorga dos puntos al oponente.
@@ -237,7 +184,7 @@ Los jugadores que incumplan los artículos 6 y 16 del presente reglamento perder
 Las faltas leves descritas en el artículo 17 son acumulativas a lo largo de todo el asalto. Dos
 faltas leves conllevan otorgar un punto al oponente.
 
-#### Sección 11: Jueces
+#### Sección 10: Jueces
 
 ##### Artículo 20.- Los jueces
 En la sala habrá una persona identificada como "juez principal" y será la encargada de comunicar cualquier decisión final con respecto al desarrollo de la competición y la interpretación de las normas.
@@ -251,7 +198,7 @@ Las decisiones finales siempre las tomará el juez principal.
 ##### Artículo 21.- Declaración de objeciones
 Un participante puede presentar objeciones a la organización antes de que termine el asalto, si hay alguna duda en el ejercicio de este reglamento. Si no hay miembros de la organización presentes, la objeción se puede presentar al juez antes de la finalización del asalto.
 
-#### Sección 12: Miscelánea
+#### Sección 11: Miscelánea
 
 ##### Artículo 22.- Flexibilidad del reglamento
 Siempre y cuando se respeten el concepto y fundamentos de las reglas, estas deberán ser lo suficientemente flexibles para abarcar cambios en el número de jugadores y en el contenido de las partidas.
