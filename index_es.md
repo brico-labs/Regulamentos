@@ -1,7 +1,7 @@
 ---
 layout: regulamento_es
 ---
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Galicia.svg/300px-Flag_of_Galicia.svg.png" width="50">](index)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Galicia.svg" alt="Galego" width="50">](index)
 
 <div class="row">
 

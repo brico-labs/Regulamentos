@@ -3,7 +3,7 @@ layout: regulamento_gl
 title: regulamento de HEBOCON
 ---
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg" width="50">](hebocon_es)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Flag_of_Spain_%28civil%29.svg" alt="Español" width="50">](hebocon_es)
 
 ### Regulamento de HEBOCON
 
