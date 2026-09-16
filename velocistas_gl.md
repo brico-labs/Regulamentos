@@ -100,7 +100,7 @@ As decisións finais sempre as tomará o xuíz principal.
   * [Raptor](https://bricolabs.cc/wiki/proyectos/raptor)
   * [Cyclops](https://github.com/Resaj/cyclops-project)
   * [Pandatron](https://github.com/JavierIH/pandatron)
-  * [VelociBotCBR](http://www.cantabrobots.es/?page_id=179)
+  * [VelociBotCBR](https://codigoescuelaeducantabria.es/cursos/VelocibotCBR/introduccin.html)
 
 
 ----
