@@ -94,7 +94,7 @@ Las decisiones finales siempre las toma el juez principal.
   * [Raptor](https://bricolabs.cc/wiki/proyectos/raptor)
   * [Cyclops](https://github.com/Resaj/cyclops-project)
   * [Pandatron](https://github.com/JavierIH/pandatron)
-  * [VelociBotCBR](http://www.cantabrobots.es/?page_id=179)
+  * [VelociBotCBR]([http://www.cantabrobots.es/?page_id=179](https://codigoescuelaeducantabria.es/cursos/VelocibotCBR/introduccin.html))
 
 
 ----
